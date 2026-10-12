@@ -1,0 +1,29 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"top_5_risk_observations\": [\n    \"MRO Vietnam (company 1000) has overdue >90 invoices totaling SGD 199,728.31 with average days overdue 145, high risk count 2, and 1 dispute.\",\n    \"MRO China (company 1200) has overdue >90 invoices totaling SGD 174,260.42 with average days overdue 122, high risk count 8, 2 disputes, and 8 exceptions.\",\n    \"Government China (company 1200) has overdue >90 invoices totaling SGD 158,452.29 with average days overdue 114, high risk count 2, 1 dispute, and missing remittance.\",\n    \"Defense Thailand (company 1300) has overdue 61-90 invoices totaling SGD 240,199.38 with average days overdue 79, high risk count 3, and all unmatched.\",\n    \"Government Malaysia (company 1200) has overdue 61-90 invoices totaling SGD 200,227.53 with average days overdue 76.8, high risk count 5, and all unmatched.\"\n  ],\n  \"top_3_customer_segment_actions\": [\n    \"Prioritize collection efforts for MRO segment overdue >90 invoices in Vietnam and China, addressing disputes and receipt matching exceptions.\",\n    \"Engage Government segment in China and Malaysia to resolve overdue invoices, missing remittance, and unmatched receipts.\",\n    \"Review Defense segment accounts in Thailand and Malaysia for overdue and unmatched invoices, focusing on high-risk exposures.\"\n  ],\n  \"data_quality_issues\": [\n    \"Unmatched receipt status for multiple current invoices with high risk counts and exceptions.\",\n    \"Missing remittance for Government China overdue invoices.\",\n    \"Disputes present in several high-risk overdue accounts.\"\n  ],\n  \"executive_summary\": \"High-risk overdue invoices exceed SGD 700k, mainly in MRO and Government segments across Vietnam, China, and Malaysia. Receipt matching exceptions and disputes are prevalent, complicating collections. Immediate action is needed to address aging AR and data quality issues to mitigate exposure.\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1791820963,
+  "id": "chatcmpl-2026101216024037563675c955d5684BFnw5ls",
+  "model": "deepseek-v4.1-flash",
+  "service_tier": "default",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 437,
+    "prompt_tokens": 1138,
+    "total_tokens": 1575,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  }
+}

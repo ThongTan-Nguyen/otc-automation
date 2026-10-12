@@ -1,0 +1,2443 @@
+﻿company_code,customer_segment,region,ar_status,receipt_match_status,invoice_count,open_amount_sgd,avg_days_overdue,high_risk_count,dispute_count,exception_count
+1100,Defense,Malaysia,Current,Unmatched,7,466552.01,0.0,7,1,7
+1300,Defense,Thailand,Overdue 61-90,Unmatched,3,240199.38,79.0,3,0,3
+1200,Defense,Vietnam,Current,Unmatched,9,218441.95,0.0,9,2,9
+1200,Government,Malaysia,Overdue 61-90,Unmatched,5,200227.53,76.8,5,0,5
+1000,MRO,Vietnam,Overdue >90,Matched,2,199728.31,145.0,2,1,0
+1300,Commercial,Australia,Current,Unmatched,7,188286.19,0.0,7,0,7
+1200,MRO,China,Overdue >90,Unmatched,8,174260.42,122.0,8,2,8
+1200,Government,China,Overdue >90,Missing Remittance,2,158452.29,114.0,2,1,2
+1200,Defense,Philippines,Current,Matched,3,157550.5,0.0,0,1,0
+1000,Government,Vietnam,Current,Unmatched,12,155811.62,0.0,12,2,12
+1000,Commercial,Singapore,Overdue 31-60,Unmatched,1,154219.65,42.0,1,0,1
+1000,Commercial,Singapore,Current,Unmatched,2,152413.26,0.0,2,1,2
+1100,Government,Malaysia,Overdue >90,Unmatched,5,152287.52,111.2,5,1,5
+1000,OEM,Philippines,Overdue 1-30,Unmatched,1,148962.75,14.0,1,0,1
+1300,Government,China,Overdue >90,Matched,2,148251.35,118.0,2,0,0
+1200,OEM,Indonesia,Overdue >90,Unmatched,4,144027.52,133.75,4,0,4
+1100,OEM,Australia,Overdue >90,Unmatched,2,141774.4,152.0,2,0,2
+1000,OEM,China,Overdue 61-90,Matched,4,137379.19,76.5,4,0,0
+1000,Commercial,China,Overdue >90,Matched,3,136108.37,122.33,3,1,0
+1200,Defense,Thailand,Overdue >90,Matched,6,134540.44,116.33,6,1,0
+1000,OEM,Philippines,Current,Unmatched,7,131044.36,0.0,7,2,7
+1100,Commercial,Australia,Overdue >90,Unmatched,4,126189.42,126.0,4,2,4
+1200,OEM,Singapore,Current,Unmatched,3,125479.91,0.0,3,0,3
+1000,Government,Vietnam,Overdue >90,Unmatched,3,125098.85,141.33,3,1,3
+1300,Government,Malaysia,Current,Unmatched,4,124958.19,0.0,4,1,4
+1300,MRO,Indonesia,Overdue >90,Matched,8,121924.27,105.12,8,2,0
+1300,Government,Malaysia,Overdue >90,Unmatched,10,120553.72,121.0,10,3,10
+1000,Government,Thailand,Overdue >90,Unmatched,2,117632.04,117.0,2,1,2
+1100,Government,Singapore,Overdue >90,Missing Remittance,5,117262.05,127.2,5,2,5
+1000,OEM,Thailand,Overdue >90,Unmatched,8,116931.79,121.38,8,0,8
+1200,Commercial,Singapore,Overdue 61-90,Unmatched,3,115924.53,75.33,3,1,3
+1200,Government,Singapore,Current,Matched,6,113869.83,0.0,0,1,0
+1300,OEM,Australia,Overdue >90,Third Party Payment,3,113144.28,124.67,3,0,3
+1000,Commercial,Singapore,Overdue 1-30,Matched,4,112936.09,13.5,0,2,0
+1100,MRO,Philippines,Overdue 31-60,Missing Remittance,3,109477.8,38.67,3,0,3
+1100,MRO,Singapore,Overdue 31-60,Unmatched,3,108266.77,43.67,3,0,3
+1200,Defense,Malaysia,Overdue 1-30,Matched,1,107947.88,29.0,0,0,0
+1100,Airline,Vietnam,Overdue >90,Missing Remittance,2,106934.96,117.5,2,0,2
+1200,Commercial,Indonesia,Current,Matched,1,106858.66,0.0,0,1,0
+1000,Defense,Singapore,Current,Unmatched,6,106056.6,0.0,6,2,6
+1300,Airline,Vietnam,Overdue >90,Unmatched,6,103553.98,117.0,6,1,6
+1100,Defense,Vietnam,Overdue 1-30,Matched,2,103075.8,17.5,0,0,0
+1100,Defense,Indonesia,Overdue >90,Matched,5,102099.69,120.2,5,0,0
+1200,Airline,Thailand,Current,Unmatched,3,101678.1,0.0,3,0,3
+1300,Airline,Australia,Overdue >90,Unmatched,5,101023.44,130.0,5,0,5
+1100,Defense,China,Current,Unmatched,4,100083.59,0.0,4,1,4
+1100,Commercial,Singapore,Overdue 61-90,Matched,2,98422.56,77.5,2,0,0
+1300,OEM,Philippines,Overdue >90,Partial Match,2,97870.79,131.0,2,0,2
+1000,Airline,Thailand,Current,Unmatched,6,97776.6,0.0,6,2,6
+1100,Commercial,Indonesia,Overdue 1-30,Matched,2,97401.66,4.0,0,0,0
+1300,OEM,Singapore,Current,Matched,2,96418.93,0.0,0,0,0
+1000,Government,Malaysia,Current,Unmatched,9,96347.21,0.0,9,1,9
+1300,Commercial,Singapore,Overdue >90,Unmatched,6,95617.81,119.83,6,1,6
+1200,Government,Malaysia,Current,Matched,3,95602.03,0.0,0,1,0
+1300,Defense,Philippines,Current,Partial Match,2,95486.21,0.0,2,0,2
+1100,Airline,Philippines,Current,Unmatched,3,95288.52,0.0,3,0,3
+1300,OEM,China,Current,Missing Remittance,5,94973.26,0.0,5,0,5
+1300,MRO,Indonesia,Overdue >90,Unmatched,3,94822.45,119.67,3,1,3
+1200,MRO,Thailand,Overdue 61-90,Missing Remittance,2,94592.15,80.5,2,1,2
+1000,Defense,Thailand,Overdue >90,Missing Remittance,3,93811.22,122.0,3,1,3
+1300,Commercial,Singapore,Overdue 61-90,Missing Remittance,1,93336.4,78.0,1,0,1
+1100,Defense,Thailand,Overdue >90,Matched,4,92560.44,115.75,4,0,0
+1200,OEM,Indonesia,Overdue 61-90,Unmatched,3,92464.57,73.0,3,1,3
+1100,MRO,Thailand,Current,Missing Remittance,3,92275.91,0.0,3,1,3
+1000,Government,Malaysia,Overdue >90,Unmatched,6,91311.77,111.83,6,1,6
+1100,Government,Vietnam,Overdue >90,Unmatched,12,90360.86,118.92,12,4,12
+1000,Defense,Thailand,Overdue 61-90,Unmatched,4,88414.72,79.0,4,0,4
+1200,Government,China,Overdue >90,Unmatched,5,88391.08,124.8,5,0,5
+1100,MRO,China,Current,Unmatched,5,87764.01,0.0,5,2,5
+1300,Defense,Singapore,Current,Partial Match,2,87173.54,0.0,2,1,2
+1100,Defense,Thailand,Current,Unmatched,7,86971.39,0.0,7,1,7
+1200,Commercial,Vietnam,Current,Matched,2,86245.74,0.0,0,1,0
+1300,Commercial,Vietnam,Overdue >90,Unmatched,4,85643.96,134.0,4,2,4
+1300,Commercial,Vietnam,Current,Unmatched,4,85230.86,0.0,4,0,4
+1300,OEM,Singapore,Current,Third Party Payment,5,85065.05,0.0,5,1,5
+1200,MRO,Indonesia,Overdue >90,Matched,3,84409.67,162.33,3,0,0
+1100,Defense,Vietnam,Current,Missing Remittance,6,83977.63,0.0,6,1,6
+1300,MRO,Thailand,Overdue >90,Unmatched,2,83302.86,136.0,2,0,2
+1200,OEM,Thailand,Current,Missing Remittance,4,83114.01,0.0,4,1,4
+1300,MRO,Indonesia,Overdue >90,Third Party Payment,1,82827.62,93.0,1,0,1
+1000,OEM,China,Overdue 1-30,Third Party Payment,2,82350.89,12.0,2,0,2
+1300,Defense,Philippines,Current,Unmatched,5,81772.55,0.0,5,1,5
+1000,Government,Vietnam,Overdue >90,Missing Remittance,4,81046.65,114.0,4,0,4
+1300,Defense,Indonesia,Overdue 61-90,Unmatched,3,80735.24,75.33,3,1,3
+1200,OEM,China,Current,Matched,3,80572.72,0.0,0,0,0
+1000,Government,Vietnam,Overdue 61-90,Third Party Payment,3,80526.12,83.33,3,0,3
+1000,Government,Singapore,Overdue >90,Unmatched,6,80213.5,130.83,6,1,6
+1200,Commercial,Vietnam,Overdue 1-30,Missing Remittance,2,80041.1,11.0,2,0,2
+1000,Defense,Singapore,Overdue 1-30,Matched,3,79578.15,11.67,0,1,0
+1100,Government,Vietnam,Overdue 1-30,Missing Remittance,3,79362.51,15.33,3,0,3
+1300,Government,Vietnam,Current,Partial Match,2,78428.24,0.0,2,1,2
+1200,Airline,Thailand,Overdue 31-60,Unmatched,3,78040.16,42.33,3,0,3
+1200,Government,Australia,Current,Unmatched,3,77944.89,0.0,3,2,3
+1100,MRO,Malaysia,Overdue >90,Unmatched,3,77781.2,119.0,3,0,3
+1300,OEM,Thailand,Current,Unmatched,4,77451.14,0.0,4,2,4
+1200,Airline,Indonesia,Overdue >90,Unmatched,1,77356.35,113.0,1,0,1
+1300,MRO,Malaysia,Current,Matched,1,76736.18,0.0,0,1,0
+1300,Defense,Indonesia,Overdue 31-60,Unmatched,3,76612.64,43.33,3,2,3
+1100,Defense,China,Overdue >90,Matched,4,76557.52,125.0,4,0,0
+1000,MRO,Philippines,Overdue >90,Unmatched,3,75837.34,124.67,3,0,3
+1100,OEM,Philippines,Overdue 61-90,Matched,3,75121.41,72.33,3,0,0
+1300,Defense,Philippines,Overdue 31-60,Third Party Payment,1,74160.67,32.0,1,0,1
+1300,OEM,Thailand,Current,Partial Match,1,74089.12,0.0,1,0,1
+1000,OEM,Vietnam,Overdue 31-60,Partial Match,3,73745.1,51.0,3,1,3
+1100,Commercial,Vietnam,Current,Missing Remittance,4,73674.58,0.0,4,2,4
+1200,Defense,Thailand,Overdue >90,Unmatched,6,71777.55,136.17,6,0,6
+1000,Airline,Vietnam,Overdue >90,Unmatched,7,71705.59,130.86,7,1,7
+1200,Defense,Thailand,Current,Unmatched,5,71694.96,0.0,5,1,5
+1300,OEM,Singapore,Overdue 1-30,Missing Remittance,2,71611.45,17.5,2,0,2
+1300,OEM,Philippines,Overdue 31-60,Unmatched,5,71457.55,43.6,5,0,5
+1000,Government,Indonesia,Current,Matched,1,71369.14,0.0,0,1,0
+1100,Defense,Vietnam,Current,Unmatched,7,71201.02,0.0,7,1,7
+1000,Commercial,Australia,Overdue 31-60,Partial Match,2,70815.48,36.5,2,0,2
+1100,Defense,Singapore,Current,Missing Remittance,4,70552.73,0.0,4,0,4
+1100,OEM,Singapore,Overdue 31-60,Matched,5,70214.88,52.8,0,0,0
+1100,MRO,Indonesia,Overdue 1-30,Unmatched,3,69858.56,13.33,3,0,3
+1000,OEM,China,Overdue 31-60,Unmatched,4,69822.13,42.25,4,1,4
+1000,Commercial,Philippines,Overdue 1-30,Missing Remittance,1,69691.73,10.0,1,0,1
+1000,OEM,Vietnam,Overdue 1-30,Unmatched,1,69394.1,12.0,1,0,1
+1200,OEM,Singapore,Current,Matched,3,68681.58,0.0,0,0,0
+1000,OEM,Thailand,Overdue 1-30,Missing Remittance,1,68165.63,3.0,1,0,1
+1200,Airline,Vietnam,Current,Matched,5,67954.78,0.0,0,2,0
+1200,MRO,Indonesia,Overdue >90,Unmatched,4,67824.85,107.75,4,0,4
+1000,Airline,Indonesia,Overdue >90,Unmatched,3,67818.06,108.0,3,0,3
+1300,Commercial,Thailand,Current,Unmatched,2,67761.24,0.0,2,0,2
+1000,Government,Singapore,Current,Unmatched,6,67760.42,0.0,6,0,6
+1200,OEM,Thailand,Overdue >90,Matched,3,67685.01,157.33,3,0,0
+1200,Commercial,Australia,Overdue 31-60,Matched,3,67656.93,43.33,0,0,0
+1100,OEM,Vietnam,Overdue 31-60,Matched,3,67626.17,37.67,0,0,0
+1300,Defense,Vietnam,Current,Unmatched,7,67439.6,0.0,7,1,7
+1000,Defense,Australia,Overdue >90,Missing Remittance,2,67305.67,128.0,2,1,2
+1100,Commercial,Malaysia,Overdue >90,Partial Match,1,66335.22,114.0,1,0,1
+1000,Defense,Indonesia,Overdue >90,Unmatched,5,66285.57,125.8,5,1,5
+1300,Government,Indonesia,Overdue >90,Matched,4,65551.93,115.25,4,1,0
+1100,Government,Indonesia,Overdue 61-90,Matched,2,65434.46,83.0,2,0,0
+1300,OEM,Australia,Overdue 1-30,Matched,1,65430.5,22.0,0,0,0
+1200,Defense,Philippines,Overdue >90,Unmatched,8,65043.24,119.25,8,1,8
+1200,OEM,Australia,Current,Missing Remittance,1,64875.84,0.0,1,0,1
+1300,OEM,Philippines,Overdue >90,Third Party Payment,1,64702.68,115.0,1,0,1
+1100,OEM,Thailand,Current,Partial Match,1,64697.41,0.0,1,0,1
+1300,MRO,Thailand,Current,Unmatched,4,64338.02,0.0,4,1,4
+1200,Defense,Indonesia,Overdue >90,Unmatched,7,64155.87,129.71,7,2,7
+1300,OEM,China,Current,Third Party Payment,3,63998.23,0.0,3,1,3
+1000,Commercial,Vietnam,Current,Matched,1,63854.39,0.0,0,0,0
+1200,Defense,Indonesia,Overdue >90,Missing Remittance,4,63419.61,130.5,4,2,4
+1100,Commercial,Vietnam,Current,Unmatched,3,63207.54,0.0,3,0,3
+1000,Commercial,Philippines,Overdue 61-90,Third Party Payment,1,63093.29,68.0,1,1,1
+1200,Airline,Thailand,Overdue 31-60,Matched,1,62976.97,37.0,0,0,0
+1200,Government,Singapore,Overdue >90,Unmatched,2,62868.7,130.0,2,0,2
+1300,OEM,Vietnam,Overdue >90,Matched,4,62865.65,119.25,4,0,0
+1300,OEM,Thailand,Overdue >90,Missing Remittance,3,61866.26,121.0,3,0,3
+1300,Defense,Singapore,Overdue 1-30,Unmatched,6,61673.09,11.17,6,2,6
+1100,Defense,Singapore,Current,Unmatched,5,61345.59,0.0,5,1,5
+1200,Government,Vietnam,Overdue 31-60,Unmatched,2,60900.47,50.5,2,0,2
+1000,OEM,Singapore,Overdue >90,Missing Remittance,3,60682.09,149.33,3,0,3
+1100,Airline,Singapore,Current,Unmatched,1,60544.68,0.0,1,0,1
+1200,Defense,Thailand,Overdue 31-60,Matched,3,60404.5,50.33,0,1,0
+1300,Defense,Thailand,Current,Partial Match,1,60184.05,0.0,1,0,1
+1200,OEM,Philippines,Overdue >90,Missing Remittance,2,60068.39,125.0,2,1,2
+1200,OEM,Australia,Overdue >90,Unmatched,4,59885.34,129.5,4,0,4
+1200,Airline,China,Overdue 61-90,Missing Remittance,3,59829.43,76.33,3,1,3
+1000,MRO,Singapore,Overdue >90,Matched,2,59782.82,119.0,2,0,0
+1100,Defense,Philippines,Overdue >90,Matched,6,59719.24,118.33,6,0,0
+1100,Airline,Australia,Overdue >90,Matched,2,59617.19,107.0,2,0,0
+1100,Government,Australia,Overdue 31-60,Matched,1,59487.86,60.0,0,0,0
+1300,Government,Thailand,Overdue 31-60,Unmatched,2,59441.18,56.5,2,1,2
+1200,Airline,Philippines,Overdue 1-30,Missing Remittance,2,59422.41,11.5,2,0,2
+1100,Commercial,Singapore,Overdue >90,Partial Match,1,58960.35,135.0,1,1,1
+1000,Defense,Thailand,Overdue >90,Third Party Payment,2,58912.95,118.5,2,0,2
+1000,Government,Malaysia,Overdue >90,Partial Match,4,58892.18,107.0,4,0,4
+1100,Commercial,Vietnam,Overdue 31-60,Partial Match,2,58703.0,37.0,2,1,2
+1200,Airline,China,Overdue 61-90,Unmatched,2,58346.96,71.5,2,0,2
+1000,Defense,Malaysia,Overdue 31-60,Missing Remittance,1,58250.0,32.0,1,0,1
+1300,Airline,Malaysia,Overdue >90,Missing Remittance,1,58017.95,99.0,1,0,1
+1000,Defense,China,Overdue 1-30,Unmatched,3,57848.01,12.0,3,2,3
+1200,OEM,Singapore,Overdue 31-60,Third Party Payment,3,57844.12,54.67,3,0,3
+1100,OEM,China,Overdue 31-60,Matched,2,57795.63,49.0,0,1,0
+1200,OEM,China,Current,Unmatched,7,57685.03,0.0,7,2,7
+1200,Defense,Thailand,Current,Matched,8,57644.52,0.0,0,1,0
+1000,OEM,China,Overdue >90,Missing Remittance,2,57604.59,102.5,2,0,2
+1100,Defense,Thailand,Overdue >90,Missing Remittance,5,57512.75,114.0,5,1,5
+1300,Commercial,Vietnam,Overdue >90,Missing Remittance,3,57447.29,106.33,3,0,3
+1300,Defense,Vietnam,Current,Missing Remittance,3,57345.02,0.0,3,0,3
+1200,Commercial,Australia,Current,Unmatched,5,57261.66,0.0,5,0,5
+1000,Government,Indonesia,Overdue >90,Unmatched,5,56979.43,129.0,5,0,5
+1200,OEM,Singapore,Current,Third Party Payment,2,56924.56,0.0,2,0,2
+1300,Airline,Philippines,Overdue >90,Matched,4,56635.71,120.25,4,0,0
+1300,MRO,Philippines,Current,Unmatched,3,56581.12,0.0,3,0,3
+1000,Airline,Vietnam,Current,Missing Remittance,4,56509.43,0.0,4,0,4
+1200,OEM,Thailand,Overdue >90,Unmatched,6,56454.59,114.0,6,0,6
+1100,OEM,China,Overdue >90,Matched,3,56322.93,145.33,3,0,0
+1000,MRO,Indonesia,Overdue >90,Unmatched,4,56309.09,113.25,4,0,4
+1300,Defense,Indonesia,Overdue >90,Matched,5,55757.82,126.4,5,2,0
+1300,Defense,China,Overdue 31-60,Missing Remittance,1,55728.35,47.0,1,0,1
+1300,Airline,Australia,Overdue 1-30,Partial Match,1,55718.08,21.0,1,0,1
+1300,MRO,China,Overdue >90,Matched,3,55713.03,115.67,3,0,0
+1100,Government,Singapore,Overdue 31-60,Unmatched,5,55480.01,46.2,5,2,5
+1200,Government,Vietnam,Overdue >90,Unmatched,7,55363.71,126.57,7,3,7
+1000,Defense,Thailand,Overdue 1-30,Matched,3,55288.51,14.33,0,1,0
+1000,Defense,Thailand,Current,Unmatched,4,55217.12,0.0,4,1,4
+1000,Commercial,Singapore,Overdue >90,Missing Remittance,3,55103.07,106.0,3,2,3
+1100,OEM,Vietnam,Overdue >90,Matched,4,54997.22,137.5,4,1,0
+1200,Airline,Australia,Overdue >90,Unmatched,4,54958.0,110.75,4,2,4
+1300,Defense,Malaysia,Overdue 31-60,Unmatched,3,54573.19,48.33,3,1,3
+1200,Airline,Singapore,Current,Missing Remittance,1,54439.35,0.0,1,0,1
+1100,Defense,Indonesia,Current,Unmatched,7,54368.39,0.0,7,2,7
+1300,OEM,Philippines,Current,Unmatched,6,53912.22,0.0,6,0,6
+1300,Government,Singapore,Overdue 1-30,Matched,3,53875.9,15.67,0,2,0
+1300,MRO,China,Current,Unmatched,5,53863.16,0.0,5,0,5
+1100,OEM,China,Current,Unmatched,5,53852.88,0.0,5,0,5
+1000,MRO,China,Current,Partial Match,1,53823.31,0.0,1,0,1
+1100,Government,China,Overdue >90,Unmatched,4,53775.48,118.25,4,1,4
+1300,Government,Vietnam,Overdue >90,Unmatched,7,53605.0,119.0,7,1,7
+1100,OEM,Vietnam,Overdue >90,Partial Match,2,53217.15,119.5,2,0,2
+1100,OEM,Indonesia,Overdue 31-60,Matched,2,53087.32,41.0,0,0,0
+1200,Defense,Vietnam,Overdue 61-90,Matched,3,52923.73,81.0,3,0,0
+1100,Airline,Vietnam,Overdue 1-30,Matched,4,52919.16,9.25,0,1,0
+1000,Defense,Australia,Overdue 61-90,Missing Remittance,1,52919.08,77.0,1,0,1
+1200,Commercial,Philippines,Overdue >90,Unmatched,1,52816.51,122.0,1,0,1
+1000,Airline,China,Overdue >90,Unmatched,4,52727.9,126.5,4,2,4
+1100,Airline,Singapore,Overdue 1-30,Matched,3,52458.92,15.33,0,1,0
+1200,OEM,Singapore,Overdue 31-60,Missing Remittance,1,52396.03,51.0,1,1,1
+1100,OEM,Thailand,Overdue >90,Matched,5,52377.31,125.8,5,0,0
+1300,OEM,Philippines,Current,Missing Remittance,3,52240.03,0.0,3,0,3
+1000,Defense,Indonesia,Overdue >90,Matched,4,52005.49,119.5,4,0,0
+1100,Defense,Philippines,Current,Partial Match,2,51696.58,0.0,2,1,2
+1000,Defense,Vietnam,Overdue 1-30,Unmatched,1,51661.44,20.0,1,0,1
+1200,OEM,Singapore,Overdue 61-90,Third Party Payment,2,51527.47,76.5,2,0,2
+1100,Defense,Singapore,Overdue 31-60,Matched,2,51502.91,48.5,0,0,0
+1200,Airline,Indonesia,Current,Missing Remittance,3,51451.9,0.0,3,0,3
+1300,OEM,Vietnam,Overdue >90,Partial Match,2,51016.17,126.5,2,0,2
+1300,Airline,China,Overdue 31-60,Partial Match,3,50990.0,46.33,3,0,3
+1000,OEM,China,Overdue 61-90,Unmatched,3,50964.58,77.67,3,0,3
+1300,OEM,Singapore,Overdue >90,Matched,6,50517.44,127.83,6,3,0
+1200,Defense,Vietnam,Overdue 61-90,Partial Match,2,50068.09,70.5,2,0,2
+1200,MRO,Philippines,Overdue >90,Unmatched,6,50001.23,136.33,6,1,6
+1000,Commercial,Vietnam,Overdue >90,Third Party Payment,3,49916.05,135.67,3,0,3
+1000,Government,Vietnam,Overdue 31-60,Matched,3,49828.3,41.67,0,0,0
+1300,OEM,Vietnam,Current,Missing Remittance,3,49771.55,0.0,3,0,3
+1000,Government,Singapore,Overdue 61-90,Unmatched,3,49632.76,77.33,3,0,3
+1000,Defense,Singapore,Overdue 31-60,Missing Remittance,3,49620.36,48.0,3,0,3
+1100,Government,Vietnam,Overdue >90,Matched,4,49418.96,104.5,4,2,0
+1000,MRO,Indonesia,Overdue 31-60,Unmatched,3,49146.66,41.33,3,0,3
+1300,MRO,Thailand,Overdue >90,Missing Remittance,4,48959.87,129.25,4,2,4
+1300,Defense,Thailand,Current,Third Party Payment,1,48844.54,0.0,1,1,1
+1000,Government,Philippines,Overdue >90,Matched,3,48797.7,125.67,3,0,0
+1200,Commercial,Australia,Overdue >90,Missing Remittance,6,48584.75,123.0,6,2,6
+1000,Defense,Singapore,Current,Missing Remittance,2,48225.28,0.0,2,1,2
+1200,OEM,Singapore,Overdue 31-60,Unmatched,2,48179.9,42.5,2,1,2
+1200,Airline,Vietnam,Overdue 31-60,Unmatched,5,48102.82,46.8,5,1,5
+1200,OEM,Philippines,Current,Third Party Payment,2,48068.85,0.0,2,2,2
+1100,Commercial,Vietnam,Overdue >90,Matched,3,47947.35,141.67,3,1,0
+1200,OEM,Singapore,Overdue 61-90,Matched,2,47893.73,82.0,2,0,0
+1300,Defense,Indonesia,Current,Missing Remittance,2,47855.46,0.0,2,0,2
+1300,Commercial,Malaysia,Overdue 31-60,Unmatched,4,47808.57,37.25,4,1,4
+1200,Defense,China,Overdue 1-30,Partial Match,1,47805.37,25.0,1,0,1
+1000,Commercial,Australia,Overdue 1-30,Unmatched,5,47078.67,18.0,5,2,5
+1300,MRO,Australia,Current,Unmatched,1,46793.4,0.0,1,0,1
+1300,Government,Indonesia,Overdue 61-90,Unmatched,1,46718.37,70.0,1,1,1
+1100,MRO,Australia,Overdue 31-60,Unmatched,1,46681.08,42.0,1,0,1
+1300,Government,Vietnam,Overdue 1-30,Unmatched,3,46680.04,19.67,3,1,3
+1000,OEM,Singapore,Current,Unmatched,3,46509.79,0.0,3,2,3
+1200,Defense,Singapore,Overdue 61-90,Partial Match,3,46502.24,73.33,3,0,3
+1000,Government,Indonesia,Current,Unmatched,3,46476.26,0.0,3,1,3
+1300,Government,China,Current,Matched,2,46394.45,0.0,0,0,0
+1100,Airline,Philippines,Overdue 61-90,Matched,2,46361.89,77.0,2,0,0
+1100,Government,Singapore,Overdue 31-60,Missing Remittance,2,46322.96,51.0,2,0,2
+1200,Government,Australia,Overdue 31-60,Matched,2,46311.29,39.0,0,0,0
+1000,Airline,China,Overdue >90,Missing Remittance,3,46178.8,123.67,3,0,3
+1000,MRO,China,Overdue >90,Matched,4,46127.08,140.25,4,0,0
+1100,Government,Thailand,Overdue >90,Missing Remittance,1,46091.59,127.0,1,0,1
+1100,OEM,Thailand,Overdue 31-60,Unmatched,2,45914.51,49.5,2,1,2
+1300,Government,Singapore,Overdue 31-60,Unmatched,4,45741.52,44.5,4,1,4
+1300,Defense,Thailand,Current,Matched,3,45685.11,0.0,0,0,0
+1300,Airline,Vietnam,Current,Missing Remittance,3,45646.96,0.0,3,0,3
+1000,Defense,Vietnam,Overdue >90,Partial Match,2,45543.53,114.0,2,1,2
+1100,Government,Malaysia,Overdue 1-30,Unmatched,2,45493.39,19.5,2,0,2
+1100,Defense,Philippines,Overdue >90,Unmatched,4,45405.83,136.5,4,0,4
+1000,Defense,Australia,Current,Matched,1,45248.61,0.0,0,0,0
+1200,Government,Indonesia,Overdue >90,Unmatched,2,45171.09,131.0,2,0,2
+1000,MRO,Australia,Overdue 31-60,Missing Remittance,3,45002.24,53.0,3,1,3
+1200,Commercial,Malaysia,Overdue >90,Matched,2,44915.53,116.0,2,0,0
+1100,Government,Vietnam,Overdue 61-90,Matched,6,44865.32,76.0,6,2,0
+1300,MRO,Philippines,Overdue 1-30,Matched,2,44739.91,11.0,0,0,0
+1100,OEM,Vietnam,Overdue >90,Unmatched,5,44570.68,115.2,5,1,5
+1200,OEM,Singapore,Overdue >90,Matched,5,44443.48,119.2,5,0,0
+1200,OEM,Philippines,Overdue 61-90,Unmatched,4,44390.04,78.25,4,1,4
+1300,OEM,China,Overdue 1-30,Unmatched,4,43916.36,9.25,4,1,4
+1100,Government,Vietnam,Overdue 1-30,Unmatched,4,43842.79,13.0,4,1,4
+1200,Airline,China,Current,Unmatched,4,43763.94,0.0,4,0,4
+1100,OEM,Singapore,Overdue 31-60,Third Party Payment,2,43763.6,44.5,2,1,2
+1300,Government,China,Current,Unmatched,2,43577.43,0.0,2,0,2
+1000,Defense,Malaysia,Current,Matched,2,43572.36,0.0,0,1,0
+1200,MRO,Australia,Current,Matched,1,43564.57,0.0,0,0,0
+1300,Airline,Vietnam,Overdue >90,Missing Remittance,4,43561.06,113.75,4,0,4
+1000,Commercial,Singapore,Overdue 61-90,Third Party Payment,1,43529.09,67.0,1,0,1
+1000,Commercial,Vietnam,Overdue 61-90,Partial Match,2,43524.93,86.5,2,0,2
+1300,MRO,Indonesia,Overdue 31-60,Partial Match,1,43476.13,45.0,1,0,1
+1100,OEM,Indonesia,Current,Missing Remittance,4,43317.12,0.0,4,1,4
+1000,OEM,Vietnam,Overdue >90,Unmatched,5,43182.56,130.2,5,0,5
+1000,Defense,Thailand,Current,Partial Match,2,43033.74,0.0,2,2,2
+1200,Commercial,Philippines,Overdue 31-60,Matched,3,42994.47,40.67,0,0,0
+1100,OEM,Singapore,Overdue >90,Unmatched,5,42923.72,106.2,5,0,5
+1100,Government,Vietnam,Current,Missing Remittance,1,42753.68,0.0,1,0,1
+1100,Airline,Vietnam,Overdue >90,Unmatched,2,42672.79,116.0,2,0,2
+1100,Defense,Thailand,Current,Partial Match,1,42628.3,0.0,1,0,1
+1200,MRO,Singapore,Current,Unmatched,2,42582.22,0.0,2,1,2
+1000,OEM,Philippines,Overdue 61-90,Partial Match,1,42462.89,87.0,1,0,1
+1200,Airline,Australia,Current,Matched,2,42388.45,0.0,0,0,0
+1300,Commercial,Vietnam,Overdue 61-90,Unmatched,1,42306.7,61.0,1,0,1
+1200,MRO,Vietnam,Current,Unmatched,2,42291.07,0.0,2,0,2
+1100,OEM,Philippines,Current,Missing Remittance,3,42228.28,0.0,3,1,3
+1100,Airline,Australia,Overdue >90,Unmatched,3,42193.06,120.67,3,1,3
+1300,Defense,Vietnam,Current,Matched,4,42183.57,0.0,0,1,0
+1300,OEM,Thailand,Overdue 61-90,Partial Match,2,42089.9,73.0,2,1,2
+1200,OEM,Philippines,Overdue >90,Unmatched,5,42034.91,124.8,5,1,5
+1000,MRO,Vietnam,Overdue 31-60,Matched,2,41985.1,47.5,0,0,0
+1300,Airline,Vietnam,Overdue 31-60,Missing Remittance,3,41918.68,53.0,3,1,3
+1100,Defense,Thailand,Current,Matched,4,41808.07,0.0,0,1,0
+1000,OEM,Australia,Overdue >90,Matched,4,41787.87,139.75,4,0,0
+1300,Defense,Vietnam,Overdue 31-60,Unmatched,2,41754.9,49.0,2,0,2
+1100,Commercial,Malaysia,Overdue 1-30,Unmatched,1,41733.0,1.0,1,0,1
+1000,OEM,Thailand,Overdue 61-90,Unmatched,1,41663.69,89.0,1,1,1
+1100,OEM,Vietnam,Current,Third Party Payment,2,41630.67,0.0,2,1,2
+1300,Government,Singapore,Overdue >90,Unmatched,7,41619.55,140.29,7,2,7
+1000,MRO,Thailand,Overdue 61-90,Unmatched,1,41440.72,79.0,1,0,1
+1200,Defense,Thailand,Overdue 31-60,Partial Match,2,41371.21,37.0,2,1,2
+1300,Commercial,Australia,Current,Partial Match,3,41368.0,0.0,3,0,3
+1100,Government,Thailand,Current,Unmatched,5,41297.42,0.0,5,1,5
+1100,MRO,Philippines,Overdue >90,Matched,2,41287.74,127.0,2,1,0
+1200,OEM,Vietnam,Overdue 61-90,Missing Remittance,3,41097.14,76.67,3,1,3
+1100,Commercial,China,Overdue >90,Matched,3,41035.66,103.67,3,0,0
+1000,Defense,Vietnam,Overdue 31-60,Unmatched,4,41008.84,42.75,4,0,4
+1300,Commercial,Malaysia,Overdue >90,Missing Remittance,1,40922.66,140.0,1,0,1
+1000,MRO,China,Current,Unmatched,5,40852.18,0.0,5,2,5
+1000,Government,Philippines,Overdue 1-30,Unmatched,1,40720.38,30.0,1,0,1
+1000,Defense,Indonesia,Overdue >90,Third Party Payment,2,40714.16,104.5,2,0,2
+1300,Defense,Singapore,Current,Third Party Payment,2,40698.46,0.0,2,0,2
+1300,Airline,Vietnam,Overdue >90,Matched,3,40607.22,146.33,3,0,0
+1300,Defense,Thailand,Overdue >90,Third Party Payment,2,40594.45,127.0,2,0,2
+1100,Airline,Vietnam,Overdue 61-90,Matched,1,40524.1,67.0,1,0,0
+1100,OEM,Malaysia,Overdue >90,Matched,1,40506.2,127.0,1,0,0
+1300,Defense,Philippines,Overdue 61-90,Unmatched,4,40499.13,77.75,4,1,4
+1200,Government,Vietnam,Current,Unmatched,6,40308.0,0.0,6,1,6
+1000,MRO,Indonesia,Overdue 31-60,Matched,4,40290.54,45.0,0,0,0
+1200,Defense,China,Overdue >90,Matched,2,40280.83,135.0,2,0,0
+1100,OEM,Indonesia,Overdue >90,Unmatched,4,39836.79,119.75,4,1,4
+1200,Defense,Indonesia,Overdue 61-90,Unmatched,3,39812.24,78.0,3,1,3
+1100,OEM,China,Overdue 1-30,Matched,4,39624.84,4.75,0,0,0
+1100,OEM,Vietnam,Overdue 61-90,Third Party Payment,2,39487.55,74.0,2,0,2
+1000,Commercial,Vietnam,Current,Unmatched,5,39321.65,0.0,5,0,5
+1300,Airline,Australia,Current,Unmatched,3,39304.22,0.0,3,0,3
+1200,OEM,Malaysia,Overdue 1-30,Matched,1,39231.78,2.0,0,1,0
+1100,MRO,China,Overdue 61-90,Partial Match,2,39086.08,84.5,2,0,2
+1100,OEM,China,Overdue >90,Unmatched,6,39027.25,124.17,6,3,6
+1100,Government,China,Overdue 61-90,Matched,1,38859.64,61.0,1,0,0
+1300,Government,Vietnam,Current,Matched,4,38812.8,0.0,0,1,0
+1000,Commercial,Vietnam,Overdue >90,Unmatched,5,38784.58,135.0,5,0,5
+1100,MRO,Thailand,Overdue 31-60,Unmatched,2,38743.14,51.0,2,0,2
+1000,Defense,Malaysia,Overdue >90,Unmatched,3,38637.21,129.33,3,0,3
+1300,Government,Singapore,Overdue 31-60,Partial Match,2,38528.12,44.0,2,2,2
+1300,Airline,China,Overdue >90,Unmatched,1,38476.71,93.0,1,0,1
+1000,Defense,Malaysia,Overdue >90,Matched,2,38419.36,93.5,2,0,0
+1200,OEM,Australia,Overdue 1-30,Missing Remittance,1,38348.95,2.0,1,1,1
+1200,OEM,Vietnam,Current,Unmatched,4,38285.25,0.0,4,0,4
+1200,Commercial,Thailand,Overdue 61-90,Matched,1,38240.34,69.0,1,1,0
+1300,Commercial,Malaysia,Overdue 61-90,Third Party Payment,1,38152.8,67.0,1,0,1
+1200,MRO,Vietnam,Current,Matched,2,37993.59,0.0,0,0,0
+1300,OEM,Singapore,Current,Unmatched,2,37972.52,0.0,2,0,2
+1000,Commercial,Vietnam,Overdue >90,Partial Match,1,37929.65,131.0,1,1,1
+1200,OEM,Indonesia,Overdue 1-30,Partial Match,3,37900.28,9.67,3,1,3
+1200,Commercial,Indonesia,Overdue >90,Matched,1,37813.93,112.0,1,0,0
+1100,MRO,Vietnam,Current,Unmatched,6,37578.23,0.0,6,2,6
+1300,MRO,Thailand,Current,Missing Remittance,1,37545.61,0.0,1,1,1
+1000,MRO,China,Overdue >90,Unmatched,5,37454.88,133.6,5,0,5
+1200,Government,Malaysia,Current,Missing Remittance,3,37367.24,0.0,3,0,3
+1200,Government,Vietnam,Overdue >90,Partial Match,3,37351.04,118.67,3,0,3
+1000,Defense,Australia,Current,Unmatched,4,37350.38,0.0,4,1,4
+1000,Airline,Vietnam,Current,Matched,4,37308.26,0.0,0,1,0
+1000,OEM,Singapore,Overdue 1-30,Unmatched,2,37246.84,21.5,2,0,2
+1000,OEM,Philippines,Overdue >90,Third Party Payment,3,37213.74,137.0,3,0,3
+1200,Defense,Vietnam,Overdue >90,Matched,4,37094.68,138.25,4,0,0
+1000,Government,Indonesia,Current,Third Party Payment,1,37085.96,0.0,1,0,1
+1100,OEM,Thailand,Overdue 31-60,Missing Remittance,1,37034.6,44.0,1,0,1
+1300,MRO,Vietnam,Overdue 1-30,Unmatched,2,36987.16,9.5,2,0,2
+1300,Government,Indonesia,Overdue >90,Unmatched,3,36901.84,142.33,3,0,3
+1100,Commercial,Australia,Overdue >90,Matched,3,36890.87,136.0,3,1,0
+1100,Airline,China,Overdue 1-30,Unmatched,3,36885.56,10.67,3,0,3
+1000,Airline,Thailand,Overdue 61-90,Third Party Payment,1,36884.43,87.0,1,0,1
+1100,Airline,Australia,Overdue 1-30,Missing Remittance,2,36883.15,20.0,2,0,2
+1300,Airline,Philippines,Current,Unmatched,4,36811.51,0.0,4,1,4
+1100,Commercial,Singapore,Overdue 1-30,Unmatched,2,36685.87,20.0,2,0,2
+1200,Commercial,Australia,Overdue >90,Unmatched,6,36615.84,136.17,6,0,6
+1300,Defense,Vietnam,Overdue >90,Missing Remittance,2,36445.92,125.5,2,0,2
+1200,Airline,Vietnam,Overdue >90,Missing Remittance,3,36363.09,138.67,3,1,3
+1200,OEM,Singapore,Overdue >90,Unmatched,3,36348.59,123.0,3,0,3
+1100,Defense,Thailand,Overdue >90,Unmatched,3,36261.53,105.0,3,1,3
+1200,Defense,China,Overdue 1-30,Unmatched,3,36209.26,14.0,3,0,3
+1200,MRO,Philippines,Current,Missing Remittance,1,36109.35,0.0,1,1,1
+1100,MRO,Singapore,Current,Unmatched,3,35968.69,0.0,3,0,3
+1200,Defense,Vietnam,Overdue 31-60,Third Party Payment,2,35887.03,43.5,2,0,2
+1200,Defense,Indonesia,Overdue >90,Matched,5,35854.55,123.2,5,2,0
+1200,Commercial,Indonesia,Overdue >90,Unmatched,3,35843.19,124.0,3,1,3
+1100,Airline,Philippines,Current,Missing Remittance,1,35722.17,0.0,1,0,1
+1000,MRO,China,Overdue >90,Partial Match,2,35703.82,132.0,2,0,2
+1300,Defense,Singapore,Current,Missing Remittance,1,35657.6,0.0,1,1,1
+1300,OEM,Indonesia,Current,Missing Remittance,2,35652.29,0.0,2,1,2
+1000,MRO,Philippines,Overdue 31-60,Unmatched,2,35637.39,44.0,2,1,2
+1000,Government,Vietnam,Overdue 1-30,Unmatched,1,35628.32,4.0,1,0,1
+1000,Commercial,Australia,Current,Unmatched,4,35561.11,0.0,4,1,4
+1300,OEM,Australia,Current,Partial Match,2,35520.32,0.0,2,0,2
+1100,Government,Singapore,Overdue 61-90,Matched,2,35515.74,79.0,2,0,0
+1300,Airline,Indonesia,Current,Unmatched,2,35495.49,0.0,2,1,2
+1300,Government,Indonesia,Overdue 1-30,Missing Remittance,1,35437.63,30.0,1,1,1
+1300,Defense,Thailand,Overdue >90,Matched,3,35422.84,141.0,3,0,0
+1000,Defense,Malaysia,Overdue 61-90,Unmatched,3,35416.05,65.67,3,1,3
+1300,MRO,Indonesia,Current,Missing Remittance,1,35090.64,0.0,1,0,1
+1300,MRO,Philippines,Overdue >90,Unmatched,3,35089.49,119.33,3,0,3
+1100,OEM,Australia,Overdue 1-30,Unmatched,3,35031.08,15.67,3,0,3
+1100,Airline,China,Overdue 31-60,Matched,4,34965.59,50.25,0,2,0
+1200,Government,Singapore,Overdue >90,Matched,1,34842.41,144.0,1,0,0
+1200,Government,Vietnam,Overdue 1-30,Unmatched,3,34829.36,6.33,3,0,3
+1200,Defense,Malaysia,Current,Unmatched,2,34811.65,0.0,2,1,2
+1200,Government,Vietnam,Overdue >90,Matched,4,34788.73,117.25,4,1,0
+1000,Commercial,Philippines,Current,Unmatched,4,34785.52,0.0,4,1,4
+1100,Commercial,Singapore,Overdue 1-30,Matched,2,34780.23,17.5,0,1,0
+1200,OEM,China,Overdue 1-30,Unmatched,1,34778.96,23.0,1,0,1
+1200,OEM,Singapore,Overdue >90,Third Party Payment,2,34776.0,141.0,2,0,2
+1100,Commercial,Vietnam,Overdue >90,Unmatched,4,34714.31,116.25,4,0,4
+1000,Airline,Vietnam,Overdue 61-90,Unmatched,4,34608.38,77.75,4,0,4
+1200,Defense,Indonesia,Overdue 31-60,Third Party Payment,1,34600.41,31.0,1,1,1
+1200,Airline,Vietnam,Overdue 61-90,Unmatched,5,34445.98,79.8,5,0,5
+1200,Government,Australia,Overdue 31-60,Third Party Payment,1,34435.75,42.0,1,0,1
+1300,MRO,Philippines,Overdue >90,Matched,2,34328.06,105.0,2,0,0
+1200,OEM,Philippines,Current,Partial Match,4,34301.88,0.0,4,0,4
+1100,Airline,Thailand,Overdue 61-90,Unmatched,2,34186.6,69.0,2,1,2
+1300,Defense,Thailand,Overdue 31-60,Matched,1,34180.3,53.0,0,1,0
+1300,Government,Singapore,Overdue 1-30,Partial Match,2,34166.73,11.0,2,0,2
+1000,OEM,Vietnam,Overdue 31-60,Unmatched,2,34162.97,47.0,2,2,2
+1100,Defense,Thailand,Current,Missing Remittance,4,34159.66,0.0,4,0,4
+1100,OEM,Australia,Overdue 61-90,Matched,2,34065.53,79.5,2,0,0
+1300,Commercial,Australia,Overdue >90,Matched,3,34044.16,134.67,3,0,0
+1300,OEM,Singapore,Overdue >90,Unmatched,4,33991.5,126.75,4,1,4
+1000,Commercial,Singapore,Overdue >90,Unmatched,4,33976.37,128.0,4,3,4
+1000,MRO,Vietnam,Overdue >90,Unmatched,3,33961.96,129.33,3,0,3
+1200,Defense,Vietnam,Overdue >90,Third Party Payment,3,33900.01,129.33,3,1,3
+1100,MRO,Vietnam,Overdue 61-90,Unmatched,1,33867.89,90.0,1,1,1
+1100,OEM,Indonesia,Current,Matched,4,33835.37,0.0,0,1,0
+1100,Airline,Singapore,Overdue 1-30,Unmatched,2,33762.57,20.5,2,0,2
+1000,Commercial,Malaysia,Overdue >90,Unmatched,4,33728.84,127.0,4,3,4
+1100,Commercial,Vietnam,Overdue 31-60,Unmatched,2,33682.89,37.0,2,1,2
+1000,OEM,Thailand,Overdue 31-60,Unmatched,3,33637.08,58.67,3,0,3
+1000,Airline,China,Overdue 31-60,Partial Match,1,33623.32,34.0,1,0,1
+1100,MRO,China,Overdue 31-60,Matched,2,33596.03,43.5,0,1,0
+1100,OEM,Philippines,Overdue >90,Missing Remittance,4,33551.79,122.25,4,0,4
+1300,OEM,Indonesia,Current,Unmatched,4,33522.79,0.0,4,1,4
+1300,MRO,China,Overdue >90,Unmatched,6,33496.6,125.0,6,0,6
+1300,MRO,Philippines,Overdue 31-60,Matched,1,33455.78,47.0,0,0,0
+1000,MRO,Philippines,Current,Matched,1,33408.48,0.0,0,0,0
+1300,Government,Malaysia,Overdue 61-90,Matched,2,33336.58,78.0,2,0,0
+1100,Commercial,Singapore,Current,Partial Match,2,33227.45,0.0,2,0,2
+1000,OEM,Philippines,Overdue >90,Partial Match,2,33205.95,159.5,2,0,2
+1100,Government,Vietnam,Overdue 61-90,Unmatched,2,33148.6,72.5,2,0,2
+1000,Government,Thailand,Overdue 1-30,Matched,3,33136.7,15.0,0,0,0
+1100,Airline,Indonesia,Overdue 1-30,Partial Match,1,33117.8,6.0,1,0,1
+1300,MRO,Vietnam,Overdue 61-90,Partial Match,3,33009.94,69.33,3,1,3
+1300,Airline,Singapore,Overdue >90,Missing Remittance,2,32999.36,154.5,2,0,2
+1300,Commercial,Malaysia,Overdue 31-60,Partial Match,1,32970.03,47.0,1,0,1
+1300,Airline,China,Overdue >90,Missing Remittance,1,32969.46,123.0,1,0,1
+1100,Defense,Vietnam,Overdue 61-90,Unmatched,1,32849.56,77.0,1,0,1
+1100,Government,Malaysia,Overdue 1-30,Third Party Payment,2,32820.26,22.5,2,0,2
+1100,Airline,China,Overdue >90,Missing Remittance,5,32813.57,122.4,5,1,5
+1100,Defense,Malaysia,Overdue 31-60,Unmatched,1,32787.85,58.0,1,1,1
+1300,OEM,Australia,Current,Matched,1,32756.45,0.0,0,0,0
+1200,Commercial,Singapore,Overdue 1-30,Unmatched,2,32744.77,21.5,2,0,2
+1100,Government,Malaysia,Overdue 31-60,Matched,2,32723.04,49.5,0,0,0
+1100,Defense,Singapore,Overdue >90,Unmatched,3,32708.98,131.33,3,1,3
+1000,Defense,Philippines,Current,Matched,1,32694.96,0.0,0,1,0
+1200,MRO,Philippines,Overdue 61-90,Unmatched,6,32689.13,74.0,6,0,6
+1000,OEM,Philippines,Current,Matched,1,32623.36,0.0,0,0,0
+1300,Commercial,Singapore,Overdue 1-30,Matched,1,32475.35,29.0,0,0,0
+1100,Defense,Thailand,Overdue 31-60,Partial Match,1,32431.76,36.0,1,0,1
+1100,Defense,Indonesia,Overdue 61-90,Third Party Payment,1,32377.05,77.0,1,0,1
+1000,Defense,Philippines,Current,Missing Remittance,2,32374.37,0.0,2,0,2
+1200,Commercial,Australia,Current,Partial Match,1,32357.32,0.0,1,0,1
+1200,OEM,Vietnam,Overdue >90,Missing Remittance,1,32337.91,142.0,1,0,1
+1300,Airline,Vietnam,Current,Unmatched,2,32268.15,0.0,2,1,2
+1300,Government,Indonesia,Current,Matched,2,32267.85,0.0,0,0,0
+1200,Government,Singapore,Current,Unmatched,5,32212.4,0.0,5,1,5
+1000,Government,Singapore,Overdue >90,Missing Remittance,1,32200.98,99.0,1,0,1
+1100,MRO,Philippines,Overdue 1-30,Unmatched,2,32199.76,22.5,2,0,2
+1200,Airline,Vietnam,Overdue 1-30,Unmatched,3,32194.41,10.67,3,0,3
+1100,OEM,Australia,Overdue >90,Missing Remittance,1,32179.23,159.0,1,0,1
+1100,Defense,Thailand,Overdue 61-90,Third Party Payment,1,32061.48,69.0,1,0,1
+1000,OEM,Singapore,Overdue 61-90,Matched,3,31993.19,74.0,3,0,0
+1000,OEM,Indonesia,Overdue 61-90,Unmatched,2,31979.34,82.0,2,0,2
+1300,MRO,Indonesia,Overdue 1-30,Unmatched,4,31978.57,12.0,4,0,4
+1300,MRO,Malaysia,Overdue 1-30,Matched,1,31972.72,19.0,0,0,0
+1200,Defense,Vietnam,Overdue 1-30,Unmatched,2,31965.47,15.5,2,1,2
+1100,Government,Thailand,Overdue 61-90,Missing Remittance,2,31938.59,73.0,2,0,2
+1200,Commercial,Malaysia,Current,Unmatched,2,31761.97,0.0,2,0,2
+1200,Government,Vietnam,Overdue 31-60,Missing Remittance,2,31746.72,52.0,2,1,2
+1200,MRO,China,Overdue 61-90,Third Party Payment,1,31741.74,76.0,1,0,1
+1000,MRO,Indonesia,Current,Unmatched,4,31721.87,0.0,4,1,4
+1100,Commercial,Singapore,Overdue 1-30,Missing Remittance,1,31718.51,9.0,1,1,1
+1200,Government,Vietnam,Current,Missing Remittance,4,31675.59,0.0,4,0,4
+1200,Airline,Australia,Current,Unmatched,2,31615.78,0.0,2,0,2
+1000,MRO,China,Overdue 1-30,Missing Remittance,3,31510.85,15.33,3,1,3
+1200,Defense,Indonesia,Overdue 31-60,Unmatched,3,31405.98,52.33,3,0,3
+1100,Government,Malaysia,Overdue 31-60,Missing Remittance,3,31392.83,46.33,3,1,3
+1100,MRO,Indonesia,Overdue 61-90,Unmatched,3,31355.46,77.33,3,0,3
+1200,MRO,Thailand,Current,Unmatched,3,31334.02,0.0,3,0,3
+1100,Defense,Vietnam,Overdue 1-30,Partial Match,3,31314.79,15.67,3,0,3
+1000,OEM,Singapore,Current,Third Party Payment,2,31271.15,0.0,2,0,2
+1200,Government,Australia,Overdue 61-90,Matched,2,31199.9,80.5,2,1,0
+1100,Government,Malaysia,Overdue 61-90,Third Party Payment,1,31174.33,87.0,1,0,1
+1100,Defense,Indonesia,Current,Matched,2,31148.6,0.0,0,0,0
+1200,Government,Australia,Overdue 61-90,Unmatched,1,31143.12,70.0,1,1,1
+1100,Commercial,China,Overdue >90,Unmatched,3,31123.97,117.33,3,0,3
+1100,Airline,Thailand,Overdue >90,Missing Remittance,1,31120.18,147.0,1,0,1
+1200,Commercial,Singapore,Overdue 31-60,Matched,4,31117.23,46.25,0,1,0
+1000,Airline,China,Current,Matched,1,31088.74,0.0,0,0,0
+1000,Commercial,Australia,Overdue >90,Unmatched,5,31024.84,110.6,5,1,5
+1200,Airline,Indonesia,Overdue 61-90,Matched,1,31018.01,90.0,1,0,0
+1100,MRO,China,Overdue 1-30,Partial Match,2,30984.77,11.0,2,0,2
+1100,MRO,China,Current,Matched,5,30816.87,0.0,0,0,0
+1300,MRO,Singapore,Current,Unmatched,3,30768.26,0.0,3,2,3
+1100,Government,China,Current,Missing Remittance,3,30768.06,0.0,3,0,3
+1000,Government,Indonesia,Overdue 1-30,Third Party Payment,1,30728.54,22.0,1,0,1
+1000,Commercial,Philippines,Overdue >90,Unmatched,1,30717.84,120.0,1,0,1
+1100,Defense,Thailand,Overdue 31-60,Missing Remittance,3,30666.37,44.33,3,0,3
+1200,Commercial,Vietnam,Current,Partial Match,2,30648.3,0.0,2,1,2
+1200,MRO,Indonesia,Overdue >90,Missing Remittance,4,30634.96,133.75,4,1,4
+1000,MRO,Australia,Overdue >90,Unmatched,2,30618.53,118.5,2,1,2
+1200,OEM,Australia,Overdue >90,Missing Remittance,2,30592.3,128.5,2,0,2
+1200,OEM,Indonesia,Overdue 1-30,Missing Remittance,2,30582.49,18.0,2,0,2
+1200,Airline,Vietnam,Overdue >90,Unmatched,5,30551.89,134.4,5,1,5
+1100,Commercial,Vietnam,Current,Third Party Payment,1,30478.94,0.0,1,0,1
+1100,OEM,China,Overdue 61-90,Matched,4,30470.04,75.0,4,0,0
+1200,OEM,Vietnam,Overdue 61-90,Matched,3,30431.0,74.67,3,0,0
+1000,Government,Malaysia,Current,Partial Match,2,30318.55,0.0,2,1,2
+1100,Airline,Thailand,Current,Unmatched,1,30251.24,0.0,1,0,1
+1000,Defense,Philippines,Overdue 1-30,Partial Match,1,30182.04,19.0,1,1,1
+1300,OEM,China,Overdue >90,Unmatched,5,30173.54,115.4,5,1,5
+1000,Airline,Philippines,Overdue 31-60,Unmatched,3,30172.96,38.0,3,0,3
+1300,OEM,China,Overdue >90,Third Party Payment,1,30096.13,124.0,1,0,1
+1000,Commercial,Malaysia,Overdue 31-60,Matched,3,30034.71,53.33,0,0,0
+1300,OEM,Australia,Current,Unmatched,4,29954.77,0.0,4,0,4
+1100,OEM,Thailand,Current,Third Party Payment,1,29888.0,0.0,1,0,1
+1100,OEM,Philippines,Current,Matched,2,29873.06,0.0,0,0,0
+1300,Government,Malaysia,Overdue 61-90,Missing Remittance,3,29849.1,77.0,3,0,3
+1100,OEM,China,Current,Missing Remittance,1,29769.67,0.0,1,0,1
+1100,Defense,Vietnam,Overdue 31-60,Missing Remittance,3,29620.16,41.33,3,0,3
+1100,Government,China,Overdue 61-90,Unmatched,3,29565.44,80.33,3,0,3
+1000,Commercial,Thailand,Current,Missing Remittance,2,29565.26,0.0,2,0,2
+1200,Defense,Australia,Overdue >90,Missing Remittance,3,29482.73,107.67,3,0,3
+1200,MRO,Philippines,Overdue 1-30,Partial Match,1,29430.46,30.0,1,0,1
+1100,Commercial,Thailand,Current,Unmatched,2,29364.56,0.0,2,1,2
+1200,Defense,Australia,Overdue 1-30,Matched,2,29360.64,15.5,0,1,0
+1000,OEM,Vietnam,Overdue 61-90,Unmatched,2,29271.54,77.0,2,0,2
+1000,OEM,Singapore,Overdue 31-60,Unmatched,2,29248.52,55.0,2,0,2
+1200,Commercial,Australia,Overdue 61-90,Matched,1,29238.99,62.0,1,0,0
+1100,OEM,Singapore,Current,Missing Remittance,3,29225.82,0.0,3,1,3
+1000,MRO,China,Overdue 31-60,Unmatched,2,29136.8,33.5,2,1,2
+1000,Airline,China,Overdue 61-90,Matched,3,29039.0,72.0,3,2,0
+1300,OEM,Philippines,Overdue >90,Missing Remittance,3,29020.49,114.33,3,0,3
+1200,Government,Vietnam,Overdue >90,Missing Remittance,4,28981.04,111.0,4,2,4
+1100,OEM,Malaysia,Overdue >90,Missing Remittance,1,28967.52,145.0,1,0,1
+1100,OEM,Vietnam,Overdue 61-90,Unmatched,1,28950.82,62.0,1,0,1
+1100,MRO,Indonesia,Current,Unmatched,4,28898.9,0.0,4,0,4
+1000,OEM,Thailand,Current,Unmatched,5,28884.04,0.0,5,0,5
+1300,Defense,Malaysia,Current,Missing Remittance,4,28845.4,0.0,4,0,4
+1000,Defense,Indonesia,Overdue 31-60,Matched,3,28767.64,47.67,0,0,0
+1100,OEM,Vietnam,Overdue >90,Third Party Payment,1,28749.04,98.0,1,0,1
+1200,MRO,Vietnam,Overdue >90,Matched,2,28709.07,142.5,2,1,0
+1300,Airline,Vietnam,Overdue 1-30,Partial Match,1,28678.1,21.0,1,0,1
+1000,MRO,Thailand,Overdue >90,Unmatched,3,28669.1,119.0,3,1,3
+1100,Defense,Malaysia,Overdue 1-30,Unmatched,2,28664.49,27.0,2,0,2
+1000,OEM,Philippines,Overdue >90,Unmatched,3,28643.77,133.67,3,0,3
+1300,Government,China,Current,Missing Remittance,1,28628.36,0.0,1,0,1
+1100,Government,Vietnam,Overdue >90,Missing Remittance,6,28576.69,139.17,6,0,6
+1000,Government,Vietnam,Current,Third Party Payment,1,28567.09,0.0,1,0,1
+1300,OEM,Malaysia,Current,Unmatched,3,28509.7,0.0,3,0,3
+1000,Government,Thailand,Overdue >90,Matched,1,28413.32,95.0,1,0,0
+1300,OEM,Indonesia,Overdue 31-60,Missing Remittance,2,28387.52,37.5,2,1,2
+1300,MRO,Philippines,Overdue 31-60,Unmatched,3,28364.19,43.0,3,0,3
+1200,Defense,Malaysia,Current,Missing Remittance,4,28323.99,0.0,4,1,4
+1100,MRO,China,Overdue >90,Missing Remittance,4,28233.26,110.5,4,2,4
+1000,Government,China,Current,Matched,4,28121.16,0.0,0,0,0
+1300,Government,Malaysia,Overdue >90,Missing Remittance,4,28010.46,119.75,4,2,4
+1100,MRO,Malaysia,Overdue 31-60,Missing Remittance,1,27997.73,35.0,1,0,1
+1300,MRO,Philippines,Overdue 61-90,Partial Match,1,27904.82,67.0,1,0,1
+1200,OEM,Vietnam,Overdue 61-90,Partial Match,3,27903.66,86.33,3,1,3
+1000,Commercial,Thailand,Overdue >90,Third Party Payment,1,27854.66,139.0,1,0,1
+1100,OEM,Singapore,Overdue 61-90,Third Party Payment,1,27841.13,82.0,1,0,1
+1200,OEM,Vietnam,Overdue 31-60,Third Party Payment,2,27826.86,36.0,2,0,2
+1200,Airline,Singapore,Current,Unmatched,3,27759.67,0.0,3,0,3
+1100,Government,Vietnam,Overdue 1-30,Third Party Payment,2,27745.23,14.5,2,1,2
+1200,Government,Malaysia,Overdue >90,Matched,4,27731.3,119.5,4,0,0
+1200,OEM,Australia,Overdue >90,Matched,3,27717.32,104.67,3,0,0
+1200,Defense,Malaysia,Overdue 31-60,Unmatched,2,27713.34,36.0,2,0,2
+1100,Commercial,Malaysia,Overdue 31-60,Unmatched,4,27697.57,52.0,4,0,4
+1100,Airline,Australia,Overdue >90,Missing Remittance,2,27599.36,117.5,2,0,2
+1000,MRO,Vietnam,Overdue 31-60,Missing Remittance,2,27527.78,49.5,2,0,2
+1100,Government,Singapore,Current,Unmatched,3,27519.61,0.0,3,0,3
+1300,Defense,Thailand,Overdue 1-30,Matched,2,27496.02,20.5,0,1,0
+1200,Defense,China,Current,Matched,2,27463.96,0.0,0,0,0
+1200,Airline,Thailand,Overdue >90,Matched,4,27395.22,135.75,4,1,0
+1100,Commercial,Philippines,Overdue 61-90,Unmatched,2,27390.07,76.0,2,0,2
+1300,Government,China,Overdue 1-30,Partial Match,1,27347.72,26.0,1,0,1
+1200,Defense,Vietnam,Current,Missing Remittance,2,27347.52,0.0,2,1,2
+1300,OEM,Indonesia,Current,Partial Match,1,27335.62,0.0,1,1,1
+1100,Defense,Thailand,Overdue 1-30,Missing Remittance,2,27333.44,26.0,2,0,2
+1100,Airline,Vietnam,Current,Missing Remittance,4,27298.69,0.0,4,1,4
+1200,MRO,Indonesia,Overdue 1-30,Unmatched,1,27288.86,11.0,1,0,1
+1000,Commercial,China,Overdue 61-90,Matched,1,27278.42,81.0,1,0,0
+1000,Commercial,Malaysia,Overdue 31-60,Missing Remittance,1,27277.33,32.0,1,1,1
+1100,Airline,China,Overdue 1-30,Matched,1,27128.66,3.0,0,0,0
+1200,Government,Australia,Overdue >90,Matched,2,27052.1,103.5,2,1,0
+1200,OEM,Indonesia,Current,Missing Remittance,2,27035.46,0.0,2,0,2
+1000,Defense,Philippines,Overdue >90,Missing Remittance,3,26980.34,155.67,3,2,3
+1100,Government,Philippines,Current,Matched,1,26963.04,0.0,0,0,0
+1000,Government,Australia,Overdue 31-60,Matched,2,26916.08,52.5,0,0,0
+1000,OEM,Indonesia,Overdue >90,Missing Remittance,2,26781.22,118.0,2,0,2
+1200,Airline,Thailand,Overdue 61-90,Third Party Payment,1,26755.76,70.0,1,0,1
+1300,MRO,Thailand,Overdue 61-90,Unmatched,2,26644.64,79.0,2,0,2
+1100,Airline,Thailand,Overdue >90,Unmatched,4,26535.2,125.75,4,0,4
+1300,Government,Malaysia,Overdue 61-90,Partial Match,1,26519.1,68.0,1,0,1
+1100,Commercial,Thailand,Overdue >90,Unmatched,2,26445.69,118.0,2,1,2
+1100,MRO,Vietnam,Overdue 1-30,Missing Remittance,1,26355.87,30.0,1,0,1
+1200,OEM,Australia,Current,Third Party Payment,1,26341.88,0.0,1,0,1
+1000,Government,Philippines,Overdue 61-90,Matched,3,26284.19,80.0,3,2,0
+1100,OEM,Thailand,Overdue >90,Unmatched,3,26178.75,107.0,3,1,3
+1200,Government,Vietnam,Overdue 1-30,Third Party Payment,2,26156.88,15.0,2,0,2
+1000,OEM,Thailand,Overdue 61-90,Missing Remittance,2,26113.97,82.5,2,0,2
+1000,Airline,Indonesia,Overdue 61-90,Matched,3,26089.04,75.33,3,1,0
+1300,MRO,Philippines,Overdue 61-90,Unmatched,1,26047.62,71.0,1,0,1
+1000,Airline,China,Overdue 1-30,Matched,2,26017.45,9.5,0,0,0
+1000,Defense,Malaysia,Overdue 61-90,Matched,2,25922.45,66.0,2,1,0
+1000,MRO,Malaysia,Overdue >90,Unmatched,4,25887.01,129.0,4,0,4
+1200,MRO,China,Overdue 61-90,Missing Remittance,2,25872.45,83.5,2,1,2
+1100,Commercial,Philippines,Overdue >90,Missing Remittance,2,25849.32,125.0,2,1,2
+1000,MRO,China,Overdue >90,Missing Remittance,2,25843.55,98.0,2,0,2
+1100,Airline,Malaysia,Overdue 1-30,Unmatched,1,25835.28,27.0,1,0,1
+1000,Defense,Vietnam,Current,Missing Remittance,2,25830.35,0.0,2,1,2
+1300,Airline,Philippines,Overdue >90,Unmatched,2,25774.68,148.0,2,0,2
+1300,Commercial,Indonesia,Overdue 31-60,Unmatched,1,25763.0,48.0,1,0,1
+1200,OEM,Thailand,Overdue >90,Missing Remittance,3,25759.38,129.67,3,0,3
+1000,Government,Vietnam,Overdue >90,Partial Match,1,25754.53,137.0,1,0,1
+1100,Airline,China,Overdue 1-30,Partial Match,1,25731.69,16.0,1,0,1
+1000,Government,Australia,Overdue >90,Third Party Payment,2,25717.71,133.5,2,0,2
+1200,OEM,Australia,Overdue 61-90,Unmatched,3,25679.29,75.67,3,0,3
+1200,OEM,Vietnam,Overdue 1-30,Unmatched,3,25678.5,16.67,3,0,3
+1000,OEM,Indonesia,Current,Missing Remittance,3,25666.72,0.0,3,2,3
+1100,Defense,Singapore,Overdue >90,Missing Remittance,2,25647.64,101.5,2,0,2
+1000,MRO,Singapore,Overdue >90,Third Party Payment,2,25646.14,112.0,2,0,2
+1100,MRO,Philippines,Current,Matched,3,25576.0,0.0,0,2,0
+1300,Airline,Vietnam,Overdue 1-30,Unmatched,1,25564.55,24.0,1,0,1
+1200,Commercial,Singapore,Overdue >90,Partial Match,2,25561.33,106.0,2,1,2
+1300,Airline,Singapore,Overdue 1-30,Partial Match,1,25519.28,20.0,1,0,1
+1000,OEM,Vietnam,Current,Matched,3,25450.93,0.0,0,0,0
+1200,Defense,Vietnam,Overdue 61-90,Missing Remittance,3,25403.87,73.67,3,1,3
+1000,Airline,Philippines,Overdue >90,Third Party Payment,2,25385.45,133.5,2,1,2
+1300,OEM,Thailand,Overdue 31-60,Third Party Payment,2,25368.25,43.0,2,0,2
+1000,MRO,Philippines,Overdue 1-30,Unmatched,5,25342.4,11.8,5,1,5
+1300,Commercial,Philippines,Overdue >90,Third Party Payment,2,25251.52,111.0,2,0,2
+1200,Commercial,Australia,Current,Third Party Payment,1,25230.23,0.0,1,0,1
+1200,OEM,China,Overdue >90,Matched,1,25143.47,149.0,1,0,0
+1100,MRO,Singapore,Overdue 1-30,Matched,3,25078.0,22.33,0,0,0
+1100,Airline,Vietnam,Overdue 61-90,Missing Remittance,3,25067.0,79.0,3,0,3
+1300,Commercial,Indonesia,Overdue 61-90,Unmatched,2,25044.69,79.5,2,1,2
+1000,MRO,China,Overdue 1-30,Partial Match,1,25019.43,3.0,1,0,1
+1200,MRO,Malaysia,Overdue 31-60,Matched,1,24925.77,59.0,0,0,0
+1100,Defense,Vietnam,Overdue >90,Unmatched,2,24912.87,113.5,2,0,2
+1100,Commercial,Australia,Overdue 61-90,Unmatched,2,24879.84,78.0,2,1,2
+1100,OEM,Singapore,Overdue 31-60,Unmatched,2,24849.26,51.5,2,0,2
+1200,Defense,Singapore,Overdue 1-30,Missing Remittance,1,24819.05,28.0,1,0,1
+1200,Government,Indonesia,Overdue 31-60,Unmatched,3,24793.98,40.67,3,0,3
+1000,Defense,Indonesia,Overdue 1-30,Partial Match,1,24696.75,8.0,1,0,1
+1100,OEM,China,Overdue 31-60,Unmatched,3,24674.33,39.33,3,0,3
+1100,Defense,Indonesia,Overdue 61-90,Missing Remittance,2,24623.11,76.0,2,0,2
+1200,Government,China,Current,Unmatched,3,24574.07,0.0,3,0,3
+1200,Airline,Singapore,Current,Matched,2,24563.44,0.0,0,0,0
+1100,Government,Malaysia,Overdue 61-90,Matched,2,24559.06,78.0,2,0,0
+1000,MRO,Malaysia,Overdue 31-60,Unmatched,1,24554.15,51.0,1,1,1
+1200,OEM,China,Overdue >90,Unmatched,3,24532.17,115.0,3,0,3
+1100,OEM,Indonesia,Overdue 1-30,Unmatched,2,24450.59,11.5,2,0,2
+1000,Defense,Vietnam,Overdue >90,Unmatched,4,24425.46,130.5,4,0,4
+1100,Defense,Philippines,Overdue 31-60,Unmatched,4,24409.77,45.25,4,1,4
+1100,MRO,Thailand,Current,Matched,2,24314.53,0.0,0,1,0
+1300,OEM,Thailand,Overdue >90,Matched,2,24308.16,108.5,2,0,0
+1300,OEM,Vietnam,Overdue 61-90,Missing Remittance,1,24302.2,74.0,1,1,1
+1100,MRO,Thailand,Current,Unmatched,4,24156.9,0.0,4,0,4
+1100,Airline,Australia,Overdue 31-60,Unmatched,2,24080.45,37.0,2,1,2
+1100,MRO,Philippines,Overdue 61-90,Third Party Payment,1,24080.14,84.0,1,0,1
+1300,OEM,Indonesia,Overdue 61-90,Matched,1,24027.52,71.0,1,0,0
+1000,OEM,Philippines,Overdue >90,Missing Remittance,1,24026.79,113.0,1,0,1
+1100,Government,Malaysia,Overdue 1-30,Matched,1,23928.24,25.0,0,0,0
+1000,Government,Philippines,Overdue 31-60,Missing Remittance,2,23924.66,36.5,2,2,2
+1300,Defense,Thailand,Current,Missing Remittance,3,23907.63,0.0,3,1,3
+1300,OEM,Australia,Overdue >90,Unmatched,3,23840.65,124.0,3,0,3
+1100,OEM,Singapore,Current,Partial Match,2,23839.03,0.0,2,0,2
+1300,MRO,Malaysia,Overdue 61-90,Unmatched,2,23798.38,79.5,2,0,2
+1300,Airline,Philippines,Overdue 31-60,Unmatched,1,23763.85,38.0,1,0,1
+1000,Airline,Vietnam,Overdue 1-30,Matched,2,23756.61,8.0,0,0,0
+1100,Airline,Australia,Current,Missing Remittance,1,23753.64,0.0,1,1,1
+1000,Government,Singapore,Overdue >90,Matched,4,23712.09,130.5,4,1,0
+1200,Commercial,Philippines,Current,Unmatched,6,23687.74,0.0,6,0,6
+1100,Government,Australia,Overdue 61-90,Missing Remittance,3,23610.93,78.67,3,0,3
+1300,Defense,Singapore,Overdue >90,Missing Remittance,2,23602.6,94.0,2,1,2
+1200,Defense,Thailand,Overdue 61-90,Matched,2,23584.7,76.5,2,0,0
+1200,MRO,Malaysia,Overdue >90,Matched,1,23536.99,113.0,1,1,0
+1200,Defense,Thailand,Overdue 1-30,Third Party Payment,2,23523.5,19.5,2,1,2
+1300,Government,Singapore,Overdue >90,Missing Remittance,3,23509.76,119.67,3,0,3
+1100,OEM,Australia,Overdue 31-60,Unmatched,3,23508.09,44.0,3,1,3
+1000,Commercial,China,Overdue >90,Unmatched,2,23409.59,98.5,2,0,2
+1300,Commercial,Vietnam,Current,Partial Match,1,23363.18,0.0,1,1,1
+1100,Airline,Singapore,Overdue 31-60,Matched,2,23350.62,50.5,0,0,0
+1000,Commercial,Australia,Overdue 31-60,Missing Remittance,3,23301.86,42.0,3,0,3
+1200,MRO,Australia,Overdue 31-60,Third Party Payment,1,23294.05,32.0,1,0,1
+1300,Defense,Vietnam,Overdue >90,Matched,5,23257.74,145.6,5,0,0
+1200,Defense,Australia,Current,Missing Remittance,1,23248.44,0.0,1,0,1
+1200,MRO,Vietnam,Overdue >90,Partial Match,3,23230.17,140.67,3,1,3
+1200,Defense,Philippines,Overdue >90,Missing Remittance,2,23117.69,131.0,2,0,2
+1300,OEM,Singapore,Overdue 1-30,Unmatched,3,23096.39,18.67,3,1,3
+1300,OEM,Australia,Overdue >90,Missing Remittance,2,23079.26,106.5,2,0,2
+1200,OEM,Vietnam,Overdue 61-90,Unmatched,3,23077.17,78.0,3,1,3
+1300,Government,Thailand,Overdue >90,Third Party Payment,2,23048.32,130.5,2,1,2
+1300,Airline,Singapore,Current,Matched,1,23046.76,0.0,0,1,0
+1300,Airline,China,Overdue 31-60,Third Party Payment,1,23015.96,60.0,1,1,1
+1000,Airline,Philippines,Overdue 61-90,Unmatched,1,22989.77,67.0,1,0,1
+1300,Government,Vietnam,Current,Missing Remittance,3,22989.23,0.0,3,0,3
+1200,Commercial,Vietnam,Current,Unmatched,5,22982.97,0.0,5,1,5
+1100,OEM,Indonesia,Overdue 31-60,Missing Remittance,3,22966.59,44.33,3,0,3
+1200,Airline,China,Overdue >90,Matched,4,22914.83,133.25,4,2,0
+1200,Airline,Indonesia,Overdue 31-60,Third Party Payment,1,22914.18,46.0,1,1,1
+1100,Defense,Indonesia,Overdue 1-30,Unmatched,1,22900.95,16.0,1,1,1
+1100,Defense,Philippines,Current,Unmatched,4,22886.48,0.0,4,1,4
+1300,Airline,Vietnam,Overdue >90,Partial Match,2,22804.15,127.0,2,0,2
+1300,MRO,China,Overdue 31-60,Partial Match,1,22745.41,44.0,1,0,1
+1300,Defense,Vietnam,Overdue 31-60,Missing Remittance,1,22714.57,39.0,1,0,1
+1100,Defense,Malaysia,Overdue >90,Unmatched,4,22689.61,120.5,4,1,4
+1300,Defense,Vietnam,Overdue >90,Unmatched,2,22681.67,157.0,2,0,2
+1000,Commercial,Australia,Overdue >90,Missing Remittance,2,22675.26,133.0,2,2,2
+1100,Government,Malaysia,Overdue 61-90,Partial Match,3,22658.94,75.33,3,1,3
+1100,Commercial,Vietnam,Overdue 1-30,Third Party Payment,1,22625.14,25.0,1,0,1
+1300,Commercial,Malaysia,Overdue 31-60,Matched,1,22484.26,50.0,0,0,0
+1100,Government,Vietnam,Current,Matched,3,22476.76,0.0,0,1,0
+1300,Commercial,Vietnam,Overdue >90,Partial Match,2,22439.45,132.5,2,0,2
+1200,Commercial,Australia,Overdue 1-30,Unmatched,2,22437.97,24.5,2,0,2
+1300,Defense,Philippines,Current,Matched,5,22390.5,0.0,0,1,0
+1200,Government,China,Overdue 1-30,Third Party Payment,1,22390.24,3.0,1,0,1
+1100,OEM,Thailand,Current,Matched,2,22330.28,0.0,0,1,0
+1200,Commercial,Malaysia,Overdue 1-30,Unmatched,1,22274.16,13.0,1,0,1
+1200,Defense,Australia,Overdue 61-90,Unmatched,2,22252.31,70.5,2,0,2
+1200,Defense,Thailand,Overdue 61-90,Unmatched,4,22238.42,76.5,4,1,4
+1200,Airline,Australia,Overdue >90,Missing Remittance,1,22178.01,136.0,1,0,1
+1300,OEM,Thailand,Overdue 31-60,Unmatched,3,22173.71,47.0,3,0,3
+1300,Airline,China,Current,Partial Match,1,22143.97,0.0,1,0,1
+1100,Defense,China,Overdue 1-30,Partial Match,1,22140.84,24.0,1,0,1
+1300,OEM,Philippines,Overdue 61-90,Unmatched,7,22107.28,76.86,7,2,7
+1300,Government,Singapore,Overdue 1-30,Missing Remittance,1,22074.0,2.0,1,0,1
+1000,Defense,Indonesia,Overdue 31-60,Unmatched,1,21981.52,38.0,1,1,1
+1200,MRO,Thailand,Overdue 1-30,Unmatched,1,21979.47,9.0,1,0,1
+1300,Government,Vietnam,Overdue 1-30,Partial Match,1,21976.88,3.0,1,0,1
+1100,Defense,Philippines,Current,Missing Remittance,3,21947.7,0.0,3,1,3
+1100,MRO,Philippines,Overdue >90,Missing Remittance,2,21889.64,139.0,2,2,2
+1300,Airline,Thailand,Overdue 31-60,Matched,2,21860.45,41.5,0,1,0
+1200,Government,Vietnam,Overdue 31-60,Matched,3,21853.15,48.33,0,0,0
+1300,Airline,Philippines,Overdue 1-30,Partial Match,1,21800.32,2.0,1,1,1
+1300,Commercial,Vietnam,Overdue 1-30,Missing Remittance,1,21790.01,2.0,1,0,1
+1200,Defense,Vietnam,Overdue 31-60,Unmatched,2,21789.02,48.0,2,2,2
+1300,MRO,Australia,Overdue 61-90,Matched,1,21749.92,81.0,1,0,0
+1300,Government,Malaysia,Overdue >90,Matched,2,21705.37,116.0,2,0,0
+1100,Defense,Vietnam,Overdue >90,Third Party Payment,3,21688.82,117.0,3,1,3
+1300,Defense,Indonesia,Overdue 1-30,Matched,3,21687.54,19.33,0,1,0
+1200,MRO,Philippines,Overdue >90,Third Party Payment,1,21530.19,131.0,1,0,1
+1200,Government,Indonesia,Overdue 61-90,Missing Remittance,1,21524.55,80.0,1,0,1
+1300,Defense,Indonesia,Current,Matched,1,21515.16,0.0,0,0,0
+1300,Government,Malaysia,Overdue 61-90,Third Party Payment,1,21502.59,65.0,1,1,1
+1200,OEM,Philippines,Overdue >90,Third Party Payment,2,21450.77,114.5,2,0,2
+1000,Commercial,Malaysia,Overdue 61-90,Matched,2,21425.04,78.0,2,1,0
+1000,Defense,Philippines,Overdue >90,Third Party Payment,1,21328.2,108.0,1,0,1
+1300,MRO,Philippines,Current,Missing Remittance,1,21298.09,0.0,1,0,1
+1200,Defense,Malaysia,Current,Matched,2,21294.75,0.0,0,0,0
+1300,OEM,China,Overdue 61-90,Unmatched,1,21265.94,69.0,1,0,1
+1200,Government,Australia,Overdue >90,Unmatched,2,21218.57,140.5,2,0,2
+1300,Airline,Vietnam,Overdue 61-90,Unmatched,2,21159.02,65.5,2,0,2
+1300,Defense,Australia,Overdue >90,Third Party Payment,2,21148.01,141.0,2,0,2
+1000,OEM,Singapore,Current,Matched,5,21108.96,0.0,0,1,0
+1100,OEM,Vietnam,Overdue 31-60,Unmatched,1,21024.24,45.0,1,0,1
+1000,Government,Philippines,Overdue 1-30,Matched,1,21020.56,12.0,0,1,0
+1000,Defense,Philippines,Current,Third Party Payment,3,20998.13,0.0,3,0,3
+1300,Defense,Australia,Current,Unmatched,4,20982.42,0.0,4,1,4
+1200,Commercial,Philippines,Overdue >90,Matched,2,20901.79,99.0,2,2,0
+1300,Government,Vietnam,Overdue >90,Missing Remittance,2,20868.72,133.0,2,0,2
+1100,Commercial,Australia,Current,Unmatched,3,20839.34,0.0,3,0,3
+1300,Commercial,Singapore,Overdue >90,Third Party Payment,2,20773.62,102.5,2,0,2
+1100,MRO,Vietnam,Current,Missing Remittance,2,20753.3,0.0,2,1,2
+1100,MRO,Vietnam,Overdue 31-60,Unmatched,1,20695.03,44.0,1,0,1
+1200,Defense,Philippines,Overdue 1-30,Unmatched,5,20689.94,12.8,5,1,5
+1300,MRO,Vietnam,Current,Unmatched,2,20686.83,0.0,2,0,2
+1000,Government,Australia,Current,Unmatched,3,20686.56,0.0,3,0,3
+1000,Government,Malaysia,Current,Third Party Payment,1,20684.46,0.0,1,0,1
+1300,Defense,Philippines,Overdue >90,Unmatched,4,20650.62,142.5,4,0,4
+1300,OEM,Philippines,Overdue 31-60,Missing Remittance,4,20649.24,44.25,4,1,4
+1300,Airline,Singapore,Overdue 31-60,Partial Match,1,20609.7,59.0,1,0,1
+1200,OEM,Vietnam,Current,Missing Remittance,2,20597.23,0.0,2,0,2
+1300,Defense,Philippines,Current,Third Party Payment,1,20571.69,0.0,1,0,1
+1300,Airline,Australia,Overdue >90,Matched,2,20554.77,115.0,2,0,0
+1200,MRO,Philippines,Current,Unmatched,3,20507.06,0.0,3,0,3
+1000,MRO,Philippines,Overdue >90,Matched,3,20490.74,141.33,3,0,0
+1100,MRO,Australia,Overdue 1-30,Third Party Payment,2,20485.31,6.0,2,0,2
+1300,Airline,China,Overdue >90,Matched,3,20416.48,127.0,3,1,0
+1100,Airline,Vietnam,Current,Matched,3,20409.72,0.0,0,0,0
+1100,MRO,Malaysia,Current,Matched,2,20403.12,0.0,0,0,0
+1200,Airline,China,Overdue >90,Partial Match,4,20387.33,137.25,4,1,4
+1100,OEM,China,Overdue 1-30,Unmatched,2,20285.82,23.0,2,0,2
+1200,Defense,Australia,Overdue 31-60,Missing Remittance,1,20208.97,50.0,1,0,1
+1200,Government,Singapore,Overdue 61-90,Partial Match,1,20166.45,63.0,1,0,1
+1000,Defense,Singapore,Overdue >90,Missing Remittance,2,20157.24,160.0,2,0,2
+1000,Defense,Vietnam,Current,Third Party Payment,2,20145.39,0.0,2,0,2
+1100,Government,China,Overdue 31-60,Unmatched,1,20126.46,48.0,1,0,1
+1200,Commercial,China,Current,Unmatched,3,20101.55,0.0,3,0,3
+1000,Defense,Australia,Overdue >90,Partial Match,1,20084.61,118.0,1,1,1
+1300,Commercial,Philippines,Current,Unmatched,3,20069.47,0.0,3,0,3
+1000,OEM,Vietnam,Current,Unmatched,5,20058.34,0.0,5,1,5
+1100,MRO,Malaysia,Overdue 31-60,Unmatched,3,20028.97,43.33,3,1,3
+1200,Airline,Australia,Current,Missing Remittance,2,20023.12,0.0,2,1,2
+1300,Defense,Indonesia,Current,Partial Match,3,19980.33,0.0,3,1,3
+1000,MRO,Australia,Current,Unmatched,1,19953.28,0.0,1,0,1
+1300,Airline,Indonesia,Overdue 31-60,Unmatched,1,19852.05,53.0,1,0,1
+1000,Defense,Thailand,Overdue >90,Unmatched,4,19848.13,130.5,4,2,4
+1300,Airline,Indonesia,Overdue 31-60,Partial Match,1,19804.15,51.0,1,0,1
+1000,Defense,Malaysia,Overdue >90,Partial Match,2,19800.64,94.5,2,0,2
+1300,Commercial,Vietnam,Overdue >90,Matched,1,19759.34,142.0,1,0,0
+1000,Government,Vietnam,Current,Matched,2,19751.69,0.0,0,0,0
+1100,MRO,Vietnam,Current,Third Party Payment,1,19740.47,0.0,1,0,1
+1100,MRO,Vietnam,Overdue 31-60,Third Party Payment,1,19674.71,46.0,1,0,1
+1100,Government,Malaysia,Overdue 1-30,Missing Remittance,1,19656.86,1.0,1,0,1
+1100,Defense,Australia,Current,Third Party Payment,1,19650.9,0.0,1,0,1
+1300,Airline,Singapore,Overdue 31-60,Matched,1,19640.98,38.0,0,0,0
+1000,MRO,Philippines,Overdue 31-60,Matched,1,19631.16,42.0,0,0,0
+1000,Government,Vietnam,Overdue 61-90,Missing Remittance,3,19623.57,79.0,3,0,3
+1100,Commercial,Philippines,Current,Third Party Payment,1,19590.81,0.0,1,0,1
+1200,OEM,Singapore,Overdue >90,Missing Remittance,2,19550.24,105.5,2,1,2
+1000,Commercial,Australia,Overdue >90,Partial Match,2,19547.63,109.5,2,0,2
+1100,Defense,Philippines,Overdue 31-60,Partial Match,1,19517.47,55.0,1,1,1
+1000,OEM,China,Overdue 1-30,Unmatched,2,19476.07,3.5,2,0,2
+1100,Airline,China,Overdue 31-60,Partial Match,1,19466.5,42.0,1,0,1
+1200,MRO,Malaysia,Current,Unmatched,1,19462.46,0.0,1,1,1
+1200,Airline,Malaysia,Overdue 31-60,Unmatched,2,19458.52,45.0,2,0,2
+1300,Commercial,Vietnam,Overdue 1-30,Partial Match,1,19364.24,17.0,1,0,1
+1100,Defense,Vietnam,Current,Partial Match,1,19337.09,0.0,1,0,1
+1200,Defense,Singapore,Overdue >90,Unmatched,2,19313.69,140.0,2,0,2
+1000,Airline,Thailand,Overdue >90,Unmatched,2,19199.71,155.0,2,0,2
+1000,Airline,Philippines,Current,Missing Remittance,1,19197.19,0.0,1,0,1
+1000,MRO,Vietnam,Current,Unmatched,2,19194.7,0.0,2,0,2
+1100,Airline,Indonesia,Overdue 31-60,Matched,1,19178.37,55.0,0,1,0
+1300,Airline,China,Current,Matched,2,19162.03,0.0,0,0,0
+1100,MRO,China,Current,Missing Remittance,3,19152.9,0.0,3,1,3
+1300,Airline,Singapore,Overdue >90,Unmatched,1,19149.53,100.0,1,0,1
+1300,Commercial,Thailand,Overdue 61-90,Missing Remittance,1,19127.97,61.0,1,0,1
+1200,OEM,Australia,Overdue >90,Partial Match,2,19122.62,119.0,2,0,2
+1000,Airline,China,Overdue >90,Third Party Payment,2,19120.41,125.5,2,0,2
+1100,Government,Indonesia,Current,Matched,2,18897.77,0.0,0,0,0
+1000,Commercial,China,Overdue 31-60,Unmatched,1,18798.02,37.0,1,0,1
+1300,OEM,Thailand,Current,Matched,2,18794.53,0.0,0,1,0
+1100,OEM,Philippines,Overdue 31-60,Unmatched,3,18756.75,41.67,3,0,3
+1000,OEM,Vietnam,Current,Partial Match,1,18746.15,0.0,1,1,1
+1000,Government,China,Overdue >90,Partial Match,3,18703.71,134.33,3,0,3
+1300,MRO,Australia,Current,Partial Match,1,18697.13,0.0,1,0,1
+1300,OEM,Indonesia,Overdue >90,Missing Remittance,2,18649.52,114.5,2,1,2
+1200,Defense,Philippines,Overdue 61-90,Unmatched,2,18628.28,67.0,2,0,2
+1300,Government,Indonesia,Overdue 31-60,Unmatched,1,18621.85,46.0,1,0,1
+1100,Airline,Malaysia,Overdue 1-30,Missing Remittance,1,18510.4,8.0,1,1,1
+1300,Commercial,Singapore,Overdue >90,Matched,2,18496.23,118.0,2,0,0
+1200,Commercial,China,Overdue 1-30,Matched,1,18484.51,9.0,0,0,0
+1000,Airline,Thailand,Current,Matched,2,18483.52,0.0,0,1,0
+1300,Defense,Australia,Overdue 61-90,Missing Remittance,2,18481.22,83.0,2,0,2
+1000,MRO,Thailand,Overdue 1-30,Missing Remittance,3,18454.1,22.67,3,0,3
+1200,Defense,Indonesia,Overdue 61-90,Missing Remittance,4,18443.39,65.0,4,2,4
+1000,Commercial,Thailand,Overdue 61-90,Matched,1,18412.71,87.0,1,0,0
+1000,Airline,Indonesia,Overdue >90,Partial Match,1,18405.94,137.0,1,0,1
+1000,Commercial,Vietnam,Overdue 31-60,Unmatched,1,18338.62,38.0,1,0,1
+1000,Defense,Vietnam,Current,Matched,4,18335.59,0.0,0,1,0
+1200,OEM,Thailand,Overdue 1-30,Matched,1,18317.49,27.0,0,0,0
+1100,Defense,Indonesia,Overdue 31-60,Missing Remittance,1,18293.87,40.0,1,0,1
+1300,OEM,Philippines,Overdue 1-30,Missing Remittance,2,18268.91,16.0,2,0,2
+1300,Government,Singapore,Current,Matched,3,18257.76,0.0,0,0,0
+1000,Defense,Philippines,Overdue 1-30,Missing Remittance,2,18232.15,23.5,2,0,2
+1100,Government,China,Current,Unmatched,1,18220.99,0.0,1,1,1
+1000,MRO,Philippines,Overdue 61-90,Unmatched,1,18215.87,77.0,1,1,1
+1200,OEM,China,Overdue >90,Third Party Payment,2,18085.21,126.5,2,0,2
+1000,Airline,China,Overdue 61-90,Missing Remittance,1,18047.14,80.0,1,0,1
+1200,Commercial,Australia,Overdue 1-30,Third Party Payment,1,18035.56,15.0,1,0,1
+1100,Commercial,Australia,Overdue >90,Third Party Payment,2,18035.34,141.5,2,0,2
+1200,Commercial,China,Overdue 61-90,Unmatched,1,18033.29,70.0,1,0,1
+1100,Defense,Malaysia,Overdue 31-60,Partial Match,1,17994.5,36.0,1,0,1
+1200,Airline,Thailand,Overdue 61-90,Unmatched,2,17956.03,69.0,2,0,2
+1300,Defense,Vietnam,Overdue 1-30,Third Party Payment,2,17954.44,30.0,2,1,2
+1200,OEM,Thailand,Current,Matched,1,17908.82,0.0,0,0,0
+1300,Commercial,Vietnam,Current,Missing Remittance,1,17828.46,0.0,1,1,1
+1000,OEM,Australia,Overdue 1-30,Unmatched,3,17799.4,5.0,3,0,3
+1000,Airline,China,Current,Missing Remittance,2,17748.91,0.0,2,0,2
+1100,Airline,Philippines,Overdue 61-90,Missing Remittance,1,17725.71,67.0,1,0,1
+1000,Defense,Vietnam,Overdue 61-90,Partial Match,1,17720.2,69.0,1,0,1
+1200,Government,China,Overdue >90,Partial Match,2,17686.12,121.0,2,1,2
+1000,Defense,Vietnam,Current,Unmatched,4,17623.98,0.0,4,0,4
+1200,Airline,Indonesia,Overdue 31-60,Missing Remittance,1,17622.44,55.0,1,0,1
+1100,Defense,Australia,Overdue >90,Matched,1,17614.89,156.0,1,0,0
+1100,Government,Singapore,Overdue >90,Matched,4,17612.18,118.75,4,0,0
+1000,Defense,Vietnam,Overdue 31-60,Matched,1,17563.98,47.0,0,0,0
+1100,Airline,Philippines,Overdue 31-60,Third Party Payment,2,17552.21,48.5,2,0,2
+1100,Commercial,Philippines,Overdue 31-60,Matched,2,17548.97,33.0,0,0,0
+1100,MRO,Thailand,Overdue 61-90,Unmatched,2,17510.44,71.0,2,0,2
+1200,Government,Singapore,Overdue 61-90,Missing Remittance,2,17487.64,84.0,2,0,2
+1000,OEM,Australia,Current,Third Party Payment,1,17482.08,0.0,1,0,1
+1200,MRO,Philippines,Overdue 1-30,Unmatched,1,17456.26,28.0,1,0,1
+1000,OEM,Indonesia,Current,Unmatched,2,17445.56,0.0,2,0,2
+1100,MRO,Thailand,Overdue >90,Matched,1,17431.07,150.0,1,0,0
+1200,Government,Singapore,Current,Partial Match,1,17427.37,0.0,1,0,1
+1000,Commercial,Thailand,Overdue 31-60,Third Party Payment,2,17420.11,44.0,2,0,2
+1300,OEM,Thailand,Overdue 31-60,Missing Remittance,1,17416.92,47.0,1,0,1
+1100,OEM,Philippines,Current,Unmatched,2,17411.72,0.0,2,0,2
+1100,Defense,China,Overdue 31-60,Unmatched,3,17391.34,53.0,3,0,3
+1000,Defense,Thailand,Overdue 31-60,Matched,3,17368.0,36.33,0,1,0
+1200,Airline,China,Current,Matched,2,17282.82,0.0,0,0,0
+1300,Airline,Australia,Overdue 31-60,Unmatched,2,17260.77,51.5,2,1,2
+1100,MRO,China,Overdue >90,Unmatched,2,17220.67,145.0,2,1,2
+1200,Government,Malaysia,Overdue >90,Third Party Payment,2,17200.21,101.5,2,1,2
+1000,Defense,Thailand,Overdue 61-90,Matched,1,17192.37,81.0,1,0,0
+1000,MRO,Philippines,Overdue 61-90,Missing Remittance,1,17180.78,79.0,1,1,1
+1100,Government,Malaysia,Overdue 31-60,Unmatched,2,17132.23,45.5,2,0,2
+1000,Commercial,Australia,Overdue 1-30,Matched,2,17127.49,8.5,0,0,0
+1000,Commercial,Philippines,Overdue 1-30,Unmatched,3,17116.41,17.33,3,0,3
+1000,Airline,Vietnam,Overdue 31-60,Unmatched,3,17070.25,54.67,3,0,3
+1100,Commercial,Vietnam,Current,Matched,1,17062.79,0.0,0,0,0
+1300,Defense,Vietnam,Overdue 1-30,Missing Remittance,2,16994.04,13.5,2,1,2
+1000,Defense,Thailand,Overdue 1-30,Partial Match,1,16985.05,21.0,1,0,1
+1000,MRO,Thailand,Overdue >90,Missing Remittance,2,16983.31,129.0,2,0,2
+1200,OEM,Philippines,Current,Unmatched,2,16904.05,0.0,2,0,2
+1200,MRO,China,Current,Unmatched,3,16898.12,0.0,3,0,3
+1300,Government,Malaysia,Overdue 1-30,Matched,3,16894.52,16.0,0,0,0
+1300,OEM,Thailand,Overdue >90,Third Party Payment,2,16883.92,113.5,2,0,2
+1000,Government,China,Current,Partial Match,3,16863.41,0.0,3,0,3
+1200,MRO,Australia,Current,Unmatched,2,16738.99,0.0,2,0,2
+1300,MRO,Thailand,Overdue 31-60,Matched,1,16738.9,48.0,0,1,0
+1300,MRO,Thailand,Overdue >90,Matched,4,16736.96,120.25,4,0,0
+1300,Commercial,Thailand,Overdue 1-30,Missing Remittance,1,16720.14,17.0,1,0,1
+1200,Defense,Australia,Overdue >90,Unmatched,2,16681.21,107.5,2,0,2
+1000,Defense,Singapore,Overdue >90,Partial Match,1,16610.72,91.0,1,0,1
+1300,MRO,Australia,Overdue >90,Missing Remittance,2,16572.83,130.0,2,0,2
+1200,Government,Indonesia,Overdue >90,Matched,2,16545.62,133.0,2,1,0
+1200,Defense,Thailand,Overdue 31-60,Unmatched,4,16516.05,46.0,4,2,4
+1100,OEM,Singapore,Current,Matched,3,16492.63,0.0,0,0,0
+1000,MRO,China,Overdue 31-60,Partial Match,1,16485.81,59.0,1,0,1
+1200,Defense,Indonesia,Overdue 1-30,Missing Remittance,2,16461.0,12.0,2,0,2
+1300,OEM,Thailand,Overdue 61-90,Matched,2,16432.34,76.5,2,0,0
+1200,Government,Singapore,Overdue >90,Missing Remittance,3,16423.22,108.67,3,1,3
+1300,Airline,Australia,Current,Partial Match,2,16421.22,0.0,2,2,2
+1300,Commercial,Thailand,Current,Missing Remittance,1,16361.41,0.0,1,0,1
+1000,Airline,Australia,Overdue 31-60,Missing Remittance,1,16323.66,56.0,1,1,1
+1100,Airline,Vietnam,Overdue >90,Partial Match,2,16309.61,137.5,2,1,2
+1200,Airline,Malaysia,Current,Matched,1,16299.74,0.0,0,1,0
+1100,Defense,Indonesia,Overdue >90,Unmatched,3,16275.67,129.0,3,0,3
+1000,Airline,Vietnam,Overdue 61-90,Missing Remittance,1,16254.83,76.0,1,1,1
+1000,Airline,Australia,Overdue >90,Matched,1,16237.04,140.0,1,0,0
+1300,MRO,Australia,Overdue >90,Unmatched,3,16180.6,130.67,3,0,3
+1000,Government,Indonesia,Overdue 1-30,Unmatched,3,16163.71,17.0,3,1,3
+1000,Government,Singapore,Current,Missing Remittance,3,16146.62,0.0,3,0,3
+1000,Commercial,Indonesia,Overdue 31-60,Partial Match,1,16112.61,43.0,1,0,1
+1200,Airline,Philippines,Overdue 31-60,Third Party Payment,1,16103.35,58.0,1,0,1
+1100,Airline,China,Overdue >90,Unmatched,6,16103.02,128.67,6,2,6
+1000,Government,China,Current,Unmatched,2,16082.21,0.0,2,0,2
+1100,MRO,Indonesia,Overdue 1-30,Partial Match,1,16071.54,12.0,1,0,1
+1200,Commercial,Indonesia,Overdue 61-90,Matched,1,16069.6,85.0,1,1,0
+1000,Government,Australia,Overdue 31-60,Unmatched,1,16038.79,38.0,1,1,1
+1200,Commercial,Singapore,Current,Matched,2,16031.7,0.0,0,1,0
+1000,Defense,Thailand,Current,Matched,2,16010.07,0.0,0,0,0
+1000,Defense,Philippines,Overdue >90,Unmatched,2,15998.57,147.5,2,0,2
+1300,Government,Australia,Current,Partial Match,1,15971.14,0.0,1,0,1
+1100,Commercial,Vietnam,Current,Partial Match,1,15931.14,0.0,1,0,1
+1100,OEM,Australia,Current,Matched,2,15899.93,0.0,0,1,0
+1200,Defense,China,Overdue >90,Missing Remittance,3,15895.96,121.33,3,1,3
+1300,Government,Malaysia,Overdue 31-60,Missing Remittance,3,15845.69,39.0,3,2,3
+1000,Government,Malaysia,Overdue 61-90,Partial Match,3,15823.07,75.67,3,1,3
+1300,OEM,Vietnam,Current,Unmatched,4,15818.5,0.0,4,0,4
+1200,Commercial,Thailand,Overdue 31-60,Missing Remittance,1,15816.88,45.0,1,1,1
+1200,MRO,Philippines,Overdue 31-60,Unmatched,1,15808.75,53.0,1,0,1
+1000,OEM,Thailand,Overdue 31-60,Third Party Payment,1,15763.25,31.0,1,0,1
+1100,Defense,Singapore,Overdue 1-30,Matched,1,15762.01,5.0,0,0,0
+1100,OEM,Philippines,Overdue >90,Matched,2,15728.13,129.5,2,0,0
+1300,Commercial,Singapore,Overdue 31-60,Unmatched,2,15705.24,39.0,2,0,2
+1000,Defense,Philippines,Overdue >90,Matched,3,15672.23,112.0,3,1,0
+1300,Defense,Indonesia,Overdue 31-60,Missing Remittance,1,15653.92,35.0,1,0,1
+1000,Airline,Australia,Overdue 61-90,Third Party Payment,1,15633.83,70.0,1,0,1
+1300,OEM,Singapore,Overdue 61-90,Missing Remittance,1,15625.28,82.0,1,0,1
+1000,Airline,Singapore,Overdue 61-90,Matched,1,15588.44,81.0,1,0,0
+1200,OEM,China,Overdue 31-60,Matched,2,15570.06,47.0,0,0,0
+1100,Airline,Singapore,Overdue >90,Matched,2,15496.24,134.5,2,0,0
+1300,Defense,China,Overdue 61-90,Third Party Payment,1,15459.86,76.0,1,0,1
+1000,Airline,Malaysia,Overdue >90,Unmatched,1,15422.41,107.0,1,0,1
+1100,MRO,Philippines,Overdue 1-30,Third Party Payment,1,15405.74,10.0,1,0,1
+1300,OEM,Indonesia,Overdue 61-90,Unmatched,1,15327.28,63.0,1,0,1
+1000,Airline,Vietnam,Overdue >90,Matched,3,15315.22,130.67,3,1,0
+1200,Defense,Indonesia,Current,Matched,1,15282.8,0.0,0,1,0
+1000,Government,Thailand,Overdue >90,Partial Match,1,15279.08,141.0,1,0,1
+1100,Commercial,Malaysia,Overdue 1-30,Partial Match,1,15274.05,24.0,1,0,1
+1200,Government,China,Current,Missing Remittance,1,15273.95,0.0,1,0,1
+1000,Defense,Indonesia,Current,Partial Match,1,15269.36,0.0,1,0,1
+1100,Government,Thailand,Overdue >90,Unmatched,1,15257.11,92.0,1,0,1
+1100,MRO,China,Overdue >90,Matched,2,15239.98,155.5,2,0,0
+1200,MRO,Thailand,Overdue >90,Unmatched,3,15189.29,127.33,3,0,3
+1200,Government,Australia,Overdue >90,Missing Remittance,1,15168.35,97.0,1,0,1
+1300,OEM,Philippines,Overdue 1-30,Third Party Payment,1,15147.43,28.0,1,0,1
+1200,MRO,China,Current,Matched,2,15137.73,0.0,0,1,0
+1000,Commercial,Vietnam,Current,Missing Remittance,1,15134.72,0.0,1,0,1
+1100,Government,China,Overdue >90,Partial Match,3,15085.41,119.33,3,0,3
+1100,Airline,Singapore,Overdue 31-60,Missing Remittance,2,15011.97,35.5,2,0,2
+1000,Defense,Malaysia,Overdue >90,Missing Remittance,2,14922.04,135.0,2,0,2
+1100,Defense,Singapore,Overdue 61-90,Third Party Payment,2,14823.3,68.5,2,0,2
+1300,Defense,Thailand,Overdue 1-30,Missing Remittance,1,14782.29,21.0,1,0,1
+1000,MRO,Australia,Overdue 31-60,Unmatched,1,14780.09,42.0,1,0,1
+1000,MRO,China,Current,Missing Remittance,2,14761.83,0.0,2,1,2
+1200,MRO,Vietnam,Overdue >90,Unmatched,3,14746.77,130.0,3,2,3
+1000,Commercial,China,Current,Missing Remittance,2,14729.78,0.0,2,0,2
+1200,Government,Vietnam,Overdue 61-90,Unmatched,2,14728.15,74.0,2,1,2
+1200,Defense,Indonesia,Current,Missing Remittance,3,14720.72,0.0,3,0,3
+1100,MRO,Singapore,Overdue >90,Missing Remittance,1,14681.99,98.0,1,0,1
+1100,OEM,China,Overdue >90,Missing Remittance,2,14671.84,139.5,2,0,2
+1100,Government,Singapore,Current,Matched,1,14657.21,0.0,0,0,0
+1100,OEM,Vietnam,Current,Unmatched,4,14609.89,0.0,4,1,4
+1300,Commercial,Malaysia,Overdue 61-90,Matched,2,14598.07,81.5,2,0,0
+1200,Airline,Thailand,Overdue >90,Missing Remittance,2,14579.59,137.5,2,0,2
+1200,Defense,Indonesia,Overdue 1-30,Unmatched,2,14572.28,26.5,2,0,2
+1000,MRO,Vietnam,Overdue 61-90,Matched,1,14572.17,86.0,1,0,0
+1100,Government,Indonesia,Overdue 31-60,Missing Remittance,1,14561.57,53.0,1,0,1
+1000,Defense,Indonesia,Current,Missing Remittance,1,14487.38,0.0,1,0,1
+1300,OEM,Vietnam,Overdue 1-30,Matched,2,14486.37,6.5,0,1,0
+1000,Government,Indonesia,Overdue >90,Partial Match,2,14466.46,122.0,2,1,2
+1100,MRO,China,Overdue 1-30,Unmatched,1,14465.8,13.0,1,0,1
+1200,Defense,Philippines,Current,Third Party Payment,1,14426.4,0.0,1,1,1
+1300,MRO,Indonesia,Overdue 61-90,Unmatched,2,14419.85,73.0,2,0,2
+1200,Commercial,Singapore,Current,Partial Match,1,14415.45,0.0,1,0,1
+1100,OEM,Thailand,Overdue 61-90,Matched,2,14406.24,76.5,2,0,0
+1100,Commercial,Singapore,Current,Matched,3,14405.79,0.0,0,0,0
+1300,OEM,Philippines,Current,Matched,2,14404.16,0.0,0,0,0
+1300,Airline,Philippines,Overdue 61-90,Missing Remittance,1,14400.83,85.0,1,0,1
+1000,Airline,Australia,Current,Matched,1,14374.03,0.0,0,0,0
+1300,Airline,China,Overdue 31-60,Matched,2,14372.3,33.0,0,0,0
+1100,Commercial,Australia,Overdue 1-30,Unmatched,3,14360.08,16.67,3,2,3
+1100,Defense,Philippines,Overdue 61-90,Partial Match,1,14326.17,77.0,1,0,1
+1000,Defense,Singapore,Overdue 61-90,Unmatched,2,14315.78,79.5,2,0,2
+1000,Defense,Philippines,Overdue 61-90,Matched,3,14311.38,76.67,3,0,0
+1100,Government,Philippines,Overdue >90,Missing Remittance,2,14293.79,124.5,2,1,2
+1100,MRO,Australia,Overdue 1-30,Unmatched,1,14291.04,6.0,1,0,1
+1200,OEM,Thailand,Overdue 31-60,Unmatched,1,14228.41,51.0,1,0,1
+1000,Airline,Vietnam,Overdue 1-30,Unmatched,3,14222.96,17.33,3,1,3
+1200,Airline,Thailand,Overdue 1-30,Third Party Payment,2,14222.88,14.0,2,0,2
+1100,OEM,Singapore,Overdue >90,Missing Remittance,3,14205.86,133.0,3,1,3
+1000,OEM,Vietnam,Overdue 61-90,Third Party Payment,1,14174.33,88.0,1,1,1
+1300,Defense,Malaysia,Current,Unmatched,3,14155.61,0.0,3,1,3
+1100,Defense,Vietnam,Overdue 1-30,Missing Remittance,3,14153.66,13.0,3,1,3
+1200,Defense,Philippines,Current,Partial Match,1,14090.96,0.0,1,0,1
+1300,MRO,Malaysia,Current,Missing Remittance,1,14068.23,0.0,1,0,1
+1100,Government,Singapore,Overdue >90,Unmatched,2,14062.83,134.0,2,1,2
+1100,Commercial,Thailand,Current,Third Party Payment,2,14001.56,0.0,2,0,2
+1000,Defense,Singapore,Overdue 61-90,Missing Remittance,1,14000.31,71.0,1,0,1
+1000,Defense,Philippines,Overdue 31-60,Unmatched,4,13933.2,45.5,4,0,4
+1200,MRO,Thailand,Overdue >90,Matched,2,13891.78,136.0,2,1,0
+1300,Defense,Australia,Overdue >90,Unmatched,1,13891.24,126.0,1,0,1
+1000,Commercial,Australia,Overdue >90,Matched,2,13877.51,128.0,2,0,0
+1300,Airline,Australia,Overdue 61-90,Matched,2,13858.73,81.5,2,0,0
+1000,Government,Indonesia,Overdue 31-60,Unmatched,2,13808.85,46.5,2,1,2
+1000,Defense,Malaysia,Overdue 1-30,Partial Match,2,13787.41,15.0,2,0,2
+1000,OEM,Thailand,Overdue 1-30,Unmatched,2,13777.27,24.0,2,1,2
+1200,Defense,Vietnam,Overdue 1-30,Matched,1,13729.86,17.0,0,0,0
+1300,Commercial,Australia,Overdue 61-90,Unmatched,2,13701.29,85.5,2,1,2
+1000,Defense,Thailand,Overdue 31-60,Unmatched,2,13700.72,55.5,2,0,2
+1100,Defense,Vietnam,Overdue 1-30,Third Party Payment,2,13694.93,9.5,2,1,2
+1000,MRO,China,Overdue 61-90,Missing Remittance,2,13675.01,82.0,2,0,2
+1200,OEM,Philippines,Current,Missing Remittance,3,13670.35,0.0,3,1,3
+1100,Defense,Philippines,Overdue 61-90,Missing Remittance,1,13644.15,66.0,1,0,1
+1300,Commercial,Australia,Current,Missing Remittance,3,13540.78,0.0,3,0,3
+1100,Airline,China,Overdue >90,Partial Match,1,13536.88,136.0,1,0,1
+1200,MRO,Philippines,Overdue 61-90,Matched,2,13534.47,78.0,2,1,0
+1100,Government,Indonesia,Overdue 1-30,Matched,1,13513.73,25.0,0,0,0
+1200,Defense,Singapore,Overdue 1-30,Matched,3,13504.91,7.33,0,0,0
+1100,Defense,Indonesia,Overdue 1-30,Matched,1,13474.31,30.0,0,0,0
+1000,OEM,China,Overdue 1-30,Matched,2,13468.35,17.0,0,0,0
+1200,Government,Indonesia,Overdue 31-60,Partial Match,1,13450.92,39.0,1,0,1
+1000,Government,China,Overdue 1-30,Unmatched,1,13446.88,27.0,1,0,1
+1300,Defense,Thailand,Overdue 31-60,Missing Remittance,1,13431.83,58.0,1,0,1
+1300,Government,Australia,Overdue >90,Partial Match,1,13409.29,135.0,1,0,1
+1100,MRO,China,Current,Partial Match,4,13407.63,0.0,4,2,4
+1300,Commercial,Philippines,Overdue 61-90,Matched,2,13387.1,67.5,2,1,0
+1200,Airline,Thailand,Overdue 61-90,Partial Match,1,13376.78,81.0,1,0,1
+1300,Airline,Thailand,Current,Missing Remittance,2,13352.75,0.0,2,0,2
+1200,Defense,Philippines,Current,Unmatched,3,13337.05,0.0,3,0,3
+1300,OEM,Indonesia,Overdue >90,Unmatched,3,13336.77,119.67,3,0,3
+1300,MRO,Thailand,Overdue 1-30,Unmatched,1,13331.83,30.0,1,0,1
+1000,Government,Malaysia,Overdue 31-60,Partial Match,1,13323.01,40.0,1,0,1
+1100,Defense,China,Overdue 31-60,Matched,2,13317.19,51.5,0,1,0
+1200,OEM,Thailand,Current,Partial Match,2,13308.26,0.0,2,0,2
+1200,Commercial,Malaysia,Current,Partial Match,3,13297.74,0.0,3,0,3
+1100,OEM,Vietnam,Overdue 61-90,Matched,2,13292.51,66.5,2,0,0
+1000,Defense,China,Overdue 61-90,Unmatched,2,13280.69,76.0,2,0,2
+1300,MRO,Philippines,Overdue 31-60,Partial Match,1,13217.72,45.0,1,0,1
+1000,Defense,Thailand,Overdue 1-30,Unmatched,2,13204.23,9.0,2,1,2
+1300,OEM,Vietnam,Overdue 61-90,Partial Match,2,13202.01,80.0,2,2,2
+1000,MRO,Australia,Current,Third Party Payment,1,13190.34,0.0,1,0,1
+1000,Commercial,Australia,Current,Matched,2,13186.79,0.0,0,0,0
+1100,MRO,Philippines,Overdue 61-90,Missing Remittance,1,13161.81,78.0,1,0,1
+1100,Commercial,Australia,Overdue >90,Partial Match,2,13149.39,128.0,2,0,2
+1000,MRO,Malaysia,Overdue 31-60,Third Party Payment,1,13149.27,34.0,1,0,1
+1300,Commercial,Singapore,Current,Matched,1,13148.15,0.0,0,0,0
+1200,Commercial,Philippines,Overdue 61-90,Missing Remittance,1,13141.48,78.0,1,0,1
+1100,OEM,Singapore,Overdue 61-90,Matched,2,13137.59,68.0,2,0,0
+1000,OEM,Australia,Overdue 31-60,Matched,1,13083.73,54.0,0,0,0
+1000,Airline,Thailand,Overdue >90,Partial Match,1,13032.12,116.0,1,1,1
+1200,Commercial,Philippines,Overdue 1-30,Matched,1,13030.41,11.0,0,0,0
+1000,MRO,Singapore,Overdue 1-30,Matched,1,13003.44,6.0,0,0,0
+1000,Commercial,Singapore,Overdue 61-90,Matched,2,12970.78,73.0,2,1,0
+1200,OEM,Philippines,Overdue 1-30,Partial Match,1,12950.13,11.0,1,0,1
+1200,MRO,Indonesia,Current,Missing Remittance,1,12881.24,0.0,1,0,1
+1300,Commercial,Singapore,Current,Partial Match,1,12877.49,0.0,1,0,1
+1300,Commercial,China,Overdue 1-30,Matched,1,12853.55,11.0,0,0,0
+1200,OEM,Philippines,Overdue 61-90,Matched,1,12826.2,68.0,1,1,0
+1000,MRO,Philippines,Current,Unmatched,2,12802.71,0.0,2,0,2
+1300,Airline,China,Overdue 61-90,Partial Match,2,12746.0,72.0,2,1,2
+1200,MRO,Thailand,Current,Missing Remittance,1,12697.82,0.0,1,0,1
+1300,Defense,Indonesia,Overdue 61-90,Matched,2,12670.74,87.0,2,0,0
+1100,Defense,Malaysia,Overdue >90,Third Party Payment,1,12662.29,127.0,1,0,1
+1100,Commercial,China,Overdue >90,Missing Remittance,2,12607.49,128.0,2,0,2
+1200,OEM,Australia,Current,Unmatched,1,12599.87,0.0,1,0,1
+1100,Government,China,Overdue 1-30,Unmatched,1,12599.75,5.0,1,0,1
+1000,Government,Malaysia,Overdue 31-60,Missing Remittance,1,12582.3,56.0,1,1,1
+1300,Defense,Singapore,Overdue 31-60,Third Party Payment,1,12516.96,45.0,1,0,1
+1300,Defense,Thailand,Overdue >90,Missing Remittance,3,12516.16,122.0,3,0,3
+1000,OEM,China,Current,Third Party Payment,1,12478.73,0.0,1,1,1
+1200,Commercial,Singapore,Overdue 61-90,Matched,2,12403.64,69.5,2,0,0
+1300,Commercial,Indonesia,Overdue >90,Unmatched,1,12388.03,147.0,1,1,1
+1300,Defense,Malaysia,Overdue 31-60,Matched,1,12359.84,40.0,0,0,0
+1200,MRO,Thailand,Overdue >90,Missing Remittance,1,12355.21,132.0,1,0,1
+1100,MRO,Philippines,Overdue 1-30,Matched,1,12309.14,22.0,0,0,0
+1300,MRO,Philippines,Current,Matched,1,12283.3,0.0,0,0,0
+1200,MRO,Philippines,Overdue 1-30,Matched,1,12252.41,20.0,0,0,0
+1300,Commercial,Vietnam,Overdue 31-60,Unmatched,1,12252.36,49.0,1,0,1
+1200,Airline,Vietnam,Overdue 1-30,Matched,2,12247.39,19.0,0,0,0
+1200,OEM,China,Overdue 1-30,Missing Remittance,1,12187.1,2.0,1,0,1
+1000,Commercial,Singapore,Overdue >90,Matched,2,12182.5,123.0,2,0,0
+1300,OEM,Malaysia,Overdue 61-90,Missing Remittance,1,12166.43,64.0,1,0,1
+1100,Commercial,Australia,Overdue 31-60,Partial Match,1,12166.14,41.0,1,0,1
+1300,OEM,China,Current,Matched,2,12164.87,0.0,0,0,0
+1200,Defense,Vietnam,Overdue 1-30,Missing Remittance,2,12137.26,20.5,2,0,2
+1200,Defense,Thailand,Current,Third Party Payment,2,12124.0,0.0,2,0,2
+1100,Commercial,China,Overdue 31-60,Missing Remittance,1,12084.52,56.0,1,1,1
+1100,Government,Indonesia,Overdue 1-30,Unmatched,1,12055.36,13.0,1,0,1
+1000,MRO,Thailand,Overdue >90,Third Party Payment,1,12050.1,93.0,1,0,1
+1300,Airline,Vietnam,Overdue 1-30,Matched,2,12019.79,17.0,0,0,0
+1100,MRO,Philippines,Overdue 61-90,Matched,2,12015.04,79.0,2,0,0
+1300,Government,Indonesia,Overdue 31-60,Matched,2,12009.86,46.0,0,0,0
+1300,Airline,Singapore,Current,Partial Match,2,11998.28,0.0,2,0,2
+1300,Defense,Malaysia,Overdue >90,Missing Remittance,1,11983.34,169.0,1,0,1
+1000,Government,China,Overdue 61-90,Third Party Payment,1,11950.39,81.0,1,0,1
+1300,Commercial,China,Overdue 61-90,Matched,1,11888.03,86.0,1,0,0
+1200,Airline,Philippines,Current,Matched,2,11886.04,0.0,0,0,0
+1300,MRO,Philippines,Overdue 61-90,Matched,1,11878.16,80.0,1,0,0
+1100,MRO,Thailand,Overdue 61-90,Third Party Payment,1,11864.23,90.0,1,0,1
+1300,Defense,Vietnam,Overdue 1-30,Unmatched,1,11854.5,17.0,1,0,1
+1100,Airline,Vietnam,Overdue 31-60,Third Party Payment,2,11847.65,44.5,2,0,2
+1000,Defense,China,Current,Third Party Payment,1,11846.6,0.0,1,0,1
+1100,OEM,Vietnam,Overdue 1-30,Partial Match,1,11846.44,11.0,1,0,1
+1100,Government,Thailand,Overdue >90,Third Party Payment,1,11832.01,128.0,1,0,1
+1100,OEM,China,Overdue 61-90,Missing Remittance,1,11827.39,89.0,1,1,1
+1100,Government,Australia,Overdue >90,Unmatched,1,11813.51,96.0,1,0,1
+1100,Airline,Indonesia,Overdue >90,Missing Remittance,2,11804.54,108.0,2,1,2
+1300,Airline,Indonesia,Current,Matched,2,11784.19,0.0,0,2,0
+1000,Defense,Vietnam,Overdue >90,Missing Remittance,2,11747.02,133.5,2,0,2
+1200,Government,Indonesia,Current,Missing Remittance,1,11676.66,0.0,1,0,1
+1200,Defense,China,Overdue 1-30,Missing Remittance,1,11670.39,3.0,1,1,1
+1100,Commercial,Australia,Overdue 61-90,Matched,1,11668.53,68.0,1,0,0
+1300,MRO,Vietnam,Overdue 61-90,Unmatched,2,11656.13,63.0,2,0,2
+1200,Government,Indonesia,Overdue 61-90,Matched,1,11650.92,66.0,1,0,0
+1300,OEM,Australia,Overdue 1-30,Unmatched,2,11650.49,16.5,2,0,2
+1000,Airline,Thailand,Overdue 1-30,Partial Match,1,11625.4,27.0,1,0,1
+1000,MRO,China,Overdue 61-90,Partial Match,2,11621.19,78.5,2,0,2
+1100,Commercial,Singapore,Overdue 1-30,Partial Match,1,11621.15,6.0,1,0,1
+1000,Government,Vietnam,Overdue >90,Matched,2,11616.87,159.0,2,0,0
+1000,Defense,Philippines,Overdue 61-90,Unmatched,1,11602.23,87.0,1,0,1
+1100,Airline,Indonesia,Overdue 61-90,Partial Match,1,11591.15,65.0,1,0,1
+1000,OEM,Indonesia,Overdue 31-60,Unmatched,1,11575.09,34.0,1,0,1
+1300,OEM,Singapore,Overdue 1-30,Partial Match,1,11571.96,3.0,1,0,1
+1000,Government,Malaysia,Overdue 61-90,Missing Remittance,1,11535.27,61.0,1,0,1
+1000,Commercial,Malaysia,Current,Unmatched,2,11485.9,0.0,2,0,2
+1100,OEM,Australia,Overdue >90,Matched,2,11476.37,131.5,2,0,0
+1100,OEM,Australia,Overdue 1-30,Matched,1,11470.97,17.0,0,0,0
+1100,Airline,Malaysia,Overdue 31-60,Third Party Payment,1,11451.2,46.0,1,1,1
+1300,Government,Thailand,Overdue 31-60,Third Party Payment,1,11446.28,52.0,1,0,1
+1200,OEM,China,Overdue >90,Missing Remittance,3,11431.57,117.33,3,0,3
+1000,Commercial,Malaysia,Overdue >90,Partial Match,1,11419.76,138.0,1,1,1
+1100,Airline,Thailand,Current,Missing Remittance,2,11398.52,0.0,2,0,2
+1300,OEM,Malaysia,Current,Partial Match,1,11394.14,0.0,1,0,1
+1300,Airline,Thailand,Overdue >90,Unmatched,3,11391.46,129.33,3,0,3
+1100,MRO,China,Overdue 61-90,Matched,1,11391.09,66.0,1,1,0
+1100,Government,Indonesia,Overdue >90,Matched,1,11333.66,108.0,1,0,0
+1200,OEM,Singapore,Overdue 31-60,Matched,2,11331.48,44.0,0,0,0
+1100,Airline,Vietnam,Overdue 31-60,Matched,2,11311.08,38.0,0,0,0
+1200,Government,Indonesia,Overdue >90,Missing Remittance,2,11294.12,113.5,2,1,2
+1000,OEM,Vietnam,Current,Missing Remittance,1,11259.07,0.0,1,0,1
+1300,Defense,Philippines,Overdue >90,Missing Remittance,3,11251.34,152.67,3,1,3
+1000,Defense,China,Overdue >90,Matched,1,11225.37,153.0,1,1,0
+1300,MRO,Philippines,Overdue 1-30,Unmatched,1,11203.1,30.0,1,0,1
+1100,Commercial,Philippines,Overdue 1-30,Unmatched,3,11194.09,18.33,3,1,3
+1100,OEM,Vietnam,Overdue 31-60,Missing Remittance,2,11178.83,49.0,2,0,2
+1300,OEM,Vietnam,Overdue 61-90,Matched,1,11161.54,72.0,1,0,0
+1300,Commercial,Philippines,Overdue >90,Missing Remittance,2,11149.3,123.5,2,1,2
+1300,Government,Australia,Overdue 61-90,Unmatched,1,11148.84,75.0,1,1,1
+1300,OEM,Singapore,Current,Partial Match,2,11128.83,0.0,2,1,2
+1200,Defense,Thailand,Overdue >90,Missing Remittance,3,11107.1,118.67,3,0,3
+1000,Commercial,Vietnam,Overdue >90,Missing Remittance,2,11082.34,124.5,2,0,2
+1100,OEM,China,Overdue 61-90,Unmatched,1,11075.95,89.0,1,0,1
+1000,Defense,Philippines,Overdue >90,Partial Match,1,11074.89,149.0,1,0,1
+1200,Government,Malaysia,Overdue 61-90,Matched,2,11061.46,70.0,2,0,0
+1100,MRO,Thailand,Overdue >90,Unmatched,2,11046.0,133.5,2,0,2
+1200,OEM,Thailand,Overdue 1-30,Unmatched,1,11019.45,27.0,1,1,1
+1000,Government,Malaysia,Overdue >90,Third Party Payment,1,11009.57,146.0,1,0,1
+1000,OEM,China,Current,Matched,2,10995.91,0.0,0,0,0
+1200,Defense,Philippines,Overdue 31-60,Missing Remittance,1,10982.54,36.0,1,0,1
+1100,Defense,Indonesia,Overdue >90,Missing Remittance,1,10979.38,107.0,1,0,1
+1300,Government,Indonesia,Overdue >90,Third Party Payment,1,10973.68,111.0,1,0,1
+1100,Airline,Vietnam,Overdue 31-60,Unmatched,2,10958.31,40.0,2,1,2
+1200,Commercial,Australia,Overdue 31-60,Unmatched,2,10954.83,32.0,2,0,2
+1300,Defense,Australia,Current,Missing Remittance,1,10942.27,0.0,1,0,1
+1200,MRO,China,Overdue 31-60,Matched,3,10907.18,48.33,0,1,0
+1300,OEM,Singapore,Overdue 1-30,Third Party Payment,1,10903.94,11.0,1,0,1
+1200,OEM,Indonesia,Overdue >90,Matched,1,10880.47,93.0,1,0,0
+1100,OEM,Malaysia,Current,Matched,1,10877.17,0.0,0,0,0
+1300,Government,Australia,Overdue 31-60,Matched,1,10853.27,34.0,0,0,0
+1100,OEM,Philippines,Overdue 1-30,Matched,1,10847.88,15.0,0,0,0
+1100,MRO,Australia,Overdue >90,Unmatched,2,10824.04,123.0,2,2,2
+1200,OEM,Malaysia,Overdue 31-60,Matched,1,10792.81,59.0,0,0,0
+1200,OEM,Thailand,Overdue 61-90,Unmatched,3,10791.24,83.0,3,2,3
+1100,Commercial,Philippines,Overdue 31-60,Partial Match,1,10761.09,49.0,1,0,1
+1300,Government,Indonesia,Overdue 61-90,Matched,1,10733.34,86.0,1,0,0
+1000,Commercial,Thailand,Overdue 31-60,Missing Remittance,1,10699.61,35.0,1,0,1
+1300,Government,Thailand,Overdue 61-90,Matched,1,10698.67,64.0,1,0,0
+1200,Defense,Singapore,Overdue 1-30,Unmatched,2,10680.7,12.0,2,1,2
+1200,MRO,China,Overdue 61-90,Matched,2,10680.39,75.5,2,1,0
+1200,MRO,Thailand,Current,Third Party Payment,1,10659.95,0.0,1,0,1
+1300,Commercial,Australia,Overdue 1-30,Matched,1,10656.12,19.0,0,0,0
+1000,Airline,China,Current,Unmatched,1,10644.39,0.0,1,1,1
+1000,Commercial,Thailand,Overdue 31-60,Matched,1,10629.91,43.0,0,0,0
+1300,Defense,Thailand,Overdue 61-90,Third Party Payment,1,10620.5,79.0,1,0,1
+1100,MRO,Singapore,Overdue 31-60,Matched,2,10613.11,56.5,0,1,0
+1200,MRO,Australia,Current,Third Party Payment,1,10601.32,0.0,1,0,1
+1000,MRO,Australia,Overdue >90,Missing Remittance,2,10585.36,142.0,2,0,2
+1000,Airline,Malaysia,Overdue 1-30,Unmatched,1,10564.79,20.0,1,0,1
+1000,Government,China,Overdue 1-30,Third Party Payment,1,10559.39,19.0,1,0,1
+1100,OEM,China,Overdue >90,Partial Match,1,10550.72,108.0,1,0,1
+1000,Defense,Malaysia,Current,Unmatched,4,10533.32,0.0,4,0,4
+1000,Government,China,Overdue 61-90,Matched,1,10517.1,74.0,1,0,0
+1300,Defense,Singapore,Overdue 1-30,Matched,1,10493.37,22.0,0,0,0
+1200,Defense,Philippines,Overdue >90,Third Party Payment,1,10492.84,143.0,1,0,1
+1000,Commercial,Singapore,Overdue 1-30,Unmatched,1,10489.12,27.0,1,0,1
+1300,MRO,Vietnam,Overdue 31-60,Partial Match,1,10485.44,40.0,1,0,1
+1100,Commercial,Singapore,Overdue >90,Unmatched,4,10453.49,118.75,4,1,4
+1100,Airline,Indonesia,Current,Missing Remittance,1,10437.74,0.0,1,1,1
+1200,Defense,Thailand,Overdue 1-30,Unmatched,1,10435.12,8.0,1,0,1
+1100,MRO,Philippines,Overdue >90,Partial Match,1,10431.57,97.0,1,0,1
+1100,OEM,Singapore,Overdue 61-90,Unmatched,2,10411.67,69.5,2,1,2
+1300,OEM,China,Overdue 31-60,Missing Remittance,1,10406.18,49.0,1,1,1
+1300,Commercial,Philippines,Current,Missing Remittance,2,10379.05,0.0,2,0,2
+1100,Defense,Vietnam,Overdue >90,Matched,1,10367.42,103.0,1,1,0
+1300,MRO,Singapore,Overdue 31-60,Partial Match,1,10364.82,31.0,1,0,1
+1100,OEM,Australia,Overdue >90,Third Party Payment,1,10348.94,174.0,1,0,1
+1000,MRO,Singapore,Overdue >90,Partial Match,1,10317.21,130.0,1,0,1
+1300,Defense,China,Current,Matched,1,10309.81,0.0,0,0,0
+1200,Defense,China,Overdue 31-60,Missing Remittance,1,10296.78,31.0,1,0,1
+1300,Commercial,Australia,Overdue 1-30,Missing Remittance,1,10295.34,3.0,1,0,1
+1100,Commercial,Indonesia,Overdue 61-90,Matched,1,10275.58,85.0,1,0,0
+1200,Commercial,Vietnam,Overdue >90,Matched,2,10213.42,125.5,2,0,0
+1100,Airline,China,Overdue 61-90,Matched,1,10203.03,79.0,1,0,0
+1100,MRO,Philippines,Overdue 1-30,Missing Remittance,1,10123.82,28.0,1,0,1
+1000,Government,China,Overdue >90,Matched,1,10079.12,142.0,1,0,0
+1100,Airline,Vietnam,Overdue >90,Matched,1,10059.32,103.0,1,0,0
+1000,Commercial,Malaysia,Overdue 61-90,Missing Remittance,2,10056.09,67.0,2,1,2
+1200,Airline,Australia,Overdue 1-30,Unmatched,1,10050.22,21.0,1,1,1
+1200,MRO,Thailand,Overdue 31-60,Unmatched,1,10033.23,51.0,1,1,1
+1200,Defense,Singapore,Overdue >90,Missing Remittance,1,10032.74,135.0,1,0,1
+1000,Airline,Vietnam,Current,Third Party Payment,2,10030.04,0.0,2,0,2
+1100,Airline,Singapore,Overdue >90,Missing Remittance,2,9995.35,102.0,2,0,2
+1100,OEM,Indonesia,Overdue 1-30,Matched,2,9989.61,29.0,0,1,0
+1100,Commercial,Philippines,Overdue >90,Unmatched,1,9977.46,173.0,1,1,1
+1100,Defense,Philippines,Overdue 31-60,Missing Remittance,1,9962.17,43.0,1,1,1
+1200,MRO,Australia,Overdue 61-90,Matched,2,9945.03,78.5,2,0,0
+1100,Government,Thailand,Overdue 61-90,Unmatched,1,9939.05,62.0,1,0,1
+1200,Commercial,Australia,Overdue 1-30,Missing Remittance,2,9933.29,3.5,2,0,2
+1200,Government,Vietnam,Current,Third Party Payment,2,9891.56,0.0,2,0,2
+1100,Defense,China,Overdue >90,Third Party Payment,1,9889.4,163.0,1,0,1
+1100,Airline,China,Current,Unmatched,2,9878.82,0.0,2,0,2
+1300,Commercial,Philippines,Overdue >90,Unmatched,2,9877.58,122.0,2,0,2
+1000,Defense,Malaysia,Overdue 31-60,Unmatched,2,9877.09,47.0,2,1,2
+1100,Commercial,Thailand,Overdue 31-60,Missing Remittance,1,9867.14,56.0,1,0,1
+1000,MRO,Vietnam,Overdue 1-30,Missing Remittance,1,9857.69,1.0,1,0,1
+1300,Government,Vietnam,Overdue 61-90,Matched,3,9851.35,74.0,3,1,0
+1300,Government,Thailand,Current,Partial Match,1,9827.13,0.0,1,0,1
+1000,Airline,Singapore,Current,Third Party Payment,1,9805.91,0.0,1,1,1
+1100,OEM,Indonesia,Overdue >90,Missing Remittance,2,9794.18,139.0,2,1,2
+1000,Government,Vietnam,Overdue 31-60,Missing Remittance,2,9785.64,42.5,2,0,2
+1300,Airline,Indonesia,Overdue 31-60,Missing Remittance,1,9778.53,51.0,1,0,1
+1200,MRO,Vietnam,Current,Missing Remittance,2,9778.11,0.0,2,1,2
+1300,Commercial,Vietnam,Overdue 61-90,Missing Remittance,2,9770.31,77.0,2,0,2
+1300,Defense,Indonesia,Overdue 1-30,Missing Remittance,1,9757.37,24.0,1,0,1
+1200,OEM,Vietnam,Overdue 1-30,Partial Match,1,9750.63,15.0,1,0,1
+1100,Defense,Thailand,Overdue 61-90,Missing Remittance,1,9749.05,77.0,1,0,1
+1000,Defense,Thailand,Overdue 31-60,Missing Remittance,1,9736.58,35.0,1,1,1
+1300,Commercial,Singapore,Overdue 61-90,Matched,3,9728.81,85.33,3,0,0
+1200,Airline,China,Overdue 61-90,Matched,2,9716.39,70.0,2,0,0
+1100,Commercial,Australia,Overdue 31-60,Unmatched,1,9711.58,50.0,1,1,1
+1200,Government,Philippines,Overdue >90,Matched,1,9677.6,97.0,1,0,0
+1100,Government,Philippines,Overdue 1-30,Missing Remittance,1,9666.22,21.0,1,0,1
+1300,Airline,Philippines,Overdue >90,Missing Remittance,1,9656.16,111.0,1,1,1
+1200,OEM,Indonesia,Overdue 61-90,Matched,2,9654.68,74.5,2,0,0
+1300,Commercial,Malaysia,Overdue >90,Matched,1,9591.57,137.0,1,0,0
+1200,Government,China,Overdue 61-90,Unmatched,2,9562.54,80.0,2,0,2
+1100,Defense,Australia,Overdue 31-60,Unmatched,1,9554.0,57.0,1,1,1
+1000,OEM,Indonesia,Overdue 1-30,Unmatched,2,9550.05,8.5,2,0,2
+1100,OEM,Thailand,Overdue >90,Missing Remittance,1,9546.06,157.0,1,0,1
+1200,Commercial,Australia,Overdue 31-60,Missing Remittance,2,9520.19,42.5,2,0,2
+1300,Government,Australia,Current,Missing Remittance,1,9512.39,0.0,1,0,1
+1000,Airline,Singapore,Overdue >90,Matched,2,9506.62,134.5,2,0,0
+1100,Airline,Singapore,Overdue 1-30,Missing Remittance,1,9500.79,17.0,1,1,1
+1200,Government,China,Current,Matched,3,9500.41,0.0,0,1,0
+1300,Government,China,Overdue >90,Missing Remittance,2,9478.96,131.0,2,0,2
+1000,Government,Australia,Overdue >90,Partial Match,2,9477.98,118.0,2,0,2
+1100,Commercial,Indonesia,Overdue 1-30,Unmatched,1,9473.06,21.0,1,0,1
+1000,OEM,Australia,Current,Matched,3,9468.06,0.0,0,0,0
+1200,OEM,Singapore,Overdue >90,Partial Match,2,9463.74,122.0,2,1,2
+1000,Defense,Vietnam,Overdue 1-30,Matched,1,9436.65,6.0,0,0,0
+1100,MRO,Indonesia,Overdue >90,Missing Remittance,1,9427.82,111.0,1,0,1
+1000,Airline,Philippines,Overdue 1-30,Unmatched,1,9404.27,19.0,1,0,1
+1100,OEM,China,Current,Matched,3,9396.89,0.0,0,1,0
+1300,Commercial,Indonesia,Overdue 1-30,Unmatched,1,9391.65,6.0,1,0,1
+1200,Defense,China,Current,Unmatched,1,9376.17,0.0,1,0,1
+1300,Airline,Vietnam,Overdue 61-90,Partial Match,1,9361.37,70.0,1,0,1
+1300,Airline,Thailand,Current,Unmatched,4,9348.64,0.0,4,1,4
+1100,MRO,Thailand,Overdue 61-90,Matched,1,9347.31,85.0,1,0,0
+1200,Commercial,China,Current,Missing Remittance,1,9327.92,0.0,1,1,1
+1300,Airline,Singapore,Overdue 61-90,Unmatched,2,9323.78,76.5,2,2,2
+1200,MRO,Malaysia,Overdue 31-60,Unmatched,1,9323.32,38.0,1,0,1
+1000,Commercial,Malaysia,Overdue 1-30,Unmatched,1,9319.53,1.0,1,0,1
+1300,MRO,Indonesia,Current,Partial Match,1,9303.3,0.0,1,0,1
+1300,OEM,Thailand,Overdue >90,Unmatched,1,9289.59,95.0,1,0,1
+1300,OEM,Australia,Overdue 31-60,Unmatched,1,9285.95,54.0,1,0,1
+1000,Airline,Singapore,Overdue 31-60,Missing Remittance,2,9244.38,46.0,2,0,2
+1200,Airline,Indonesia,Overdue >90,Missing Remittance,1,9197.67,160.0,1,0,1
+1100,Commercial,Singapore,Overdue 31-60,Unmatched,1,9186.8,44.0,1,0,1
+1200,OEM,Indonesia,Overdue >90,Third Party Payment,2,9179.34,131.0,2,0,2
+1100,Defense,Philippines,Current,Matched,3,9177.46,0.0,0,1,0
+1300,Defense,Australia,Overdue 1-30,Unmatched,1,9164.9,1.0,1,1,1
+1200,OEM,Australia,Overdue 61-90,Matched,2,9162.57,73.5,2,0,0
+1300,Government,Singapore,Overdue 61-90,Matched,1,9155.99,82.0,1,0,0
+1300,OEM,Malaysia,Current,Matched,1,9107.92,0.0,0,0,0
+1000,Government,Indonesia,Current,Partial Match,1,9107.35,0.0,1,0,1
+1100,Airline,Singapore,Overdue 61-90,Matched,1,9097.49,85.0,1,0,0
+1300,Defense,Thailand,Current,Unmatched,1,9081.25,0.0,1,1,1
+1100,Defense,Australia,Overdue >90,Partial Match,1,9074.62,112.0,1,1,1
+1100,Commercial,Vietnam,Overdue >90,Missing Remittance,2,9055.4,119.5,2,0,2
+1100,OEM,Vietnam,Overdue >90,Missing Remittance,3,9048.68,158.33,3,0,3
+1200,Defense,Thailand,Overdue 61-90,Partial Match,1,9043.63,64.0,1,0,1
+1200,Defense,Singapore,Current,Unmatched,1,9022.28,0.0,1,1,1
+1100,Defense,China,Current,Matched,1,9015.29,0.0,0,0,0
+1200,MRO,China,Overdue 31-60,Unmatched,2,9014.65,38.0,2,1,2
+1000,Commercial,Philippines,Current,Missing Remittance,3,9007.95,0.0,3,1,3
+1200,Defense,Malaysia,Overdue >90,Matched,2,8987.19,106.5,2,0,0
+1300,Defense,Indonesia,Overdue 31-60,Matched,2,8980.85,54.5,0,0,0
+1000,Airline,Philippines,Current,Third Party Payment,1,8955.52,0.0,1,0,1
+1300,OEM,China,Overdue >90,Partial Match,1,8948.58,130.0,1,0,1
+1300,Defense,Vietnam,Overdue 61-90,Unmatched,3,8938.05,76.33,3,1,3
+1000,Commercial,Vietnam,Overdue 31-60,Partial Match,1,8932.36,52.0,1,0,1
+1300,Airline,Philippines,Overdue 31-60,Matched,1,8931.84,32.0,0,1,0
+1200,Airline,Australia,Overdue 61-90,Unmatched,1,8924.8,84.0,1,1,1
+1100,OEM,Indonesia,Overdue 61-90,Unmatched,1,8911.48,64.0,1,0,1
+1100,Defense,China,Current,Third Party Payment,1,8900.2,0.0,1,1,1
+1300,MRO,Malaysia,Overdue 61-90,Missing Remittance,1,8889.93,86.0,1,0,1
+1200,OEM,Thailand,Overdue 31-60,Third Party Payment,1,8886.72,35.0,1,0,1
+1200,Defense,China,Overdue 1-30,Matched,1,8860.01,10.0,0,0,0
+1200,Airline,Vietnam,Overdue 1-30,Third Party Payment,1,8846.89,8.0,1,0,1
+1300,Defense,Malaysia,Overdue >90,Unmatched,3,8843.51,126.33,3,0,3
+1300,Defense,Vietnam,Current,Partial Match,1,8835.41,0.0,1,0,1
+1000,Defense,Philippines,Overdue 1-30,Matched,1,8816.68,18.0,0,0,0
+1100,Government,Malaysia,Overdue >90,Matched,1,8816.67,140.0,1,0,0
+1000,Airline,Singapore,Overdue 61-90,Missing Remittance,1,8812.4,79.0,1,0,1
+1000,Airline,Philippines,Current,Partial Match,1,8784.65,0.0,1,0,1
+1300,OEM,Vietnam,Overdue 31-60,Unmatched,1,8784.11,44.0,1,0,1
+1300,Government,Singapore,Overdue >90,Partial Match,1,8777.96,105.0,1,0,1
+1200,Defense,Thailand,Overdue 31-60,Missing Remittance,1,8749.78,33.0,1,0,1
+1200,Government,China,Current,Partial Match,2,8747.05,0.0,2,0,2
+1000,Defense,Philippines,Overdue 31-60,Partial Match,1,8728.5,59.0,1,0,1
+1200,Commercial,Malaysia,Overdue >90,Unmatched,1,8713.34,161.0,1,0,1
+1000,Defense,Malaysia,Overdue 1-30,Matched,1,8699.56,21.0,0,0,0
+1300,OEM,Vietnam,Overdue 31-60,Matched,1,8696.34,43.0,0,0,0
+1200,Commercial,Thailand,Overdue 31-60,Partial Match,1,8687.76,43.0,1,0,1
+1000,Airline,China,Overdue 1-30,Unmatched,1,8679.07,17.0,1,0,1
+1000,MRO,Singapore,Current,Partial Match,1,8631.24,0.0,1,0,1
+1300,Defense,Malaysia,Current,Matched,2,8621.95,0.0,0,0,0
+1000,Government,Australia,Current,Matched,1,8605.03,0.0,0,0,0
+1300,MRO,Thailand,Overdue 1-30,Partial Match,1,8579.48,21.0,1,0,1
+1300,Government,Australia,Current,Matched,3,8575.36,0.0,0,1,0
+1300,Defense,China,Overdue 61-90,Missing Remittance,1,8571.41,62.0,1,0,1
+1300,MRO,Indonesia,Current,Third Party Payment,1,8545.46,0.0,1,1,1
+1100,Commercial,Malaysia,Current,Third Party Payment,1,8544.7,0.0,1,0,1
+1000,Airline,Philippines,Overdue >90,Unmatched,1,8534.83,120.0,1,0,1
+1000,Government,Singapore,Current,Partial Match,1,8522.18,0.0,1,0,1
+1300,OEM,Indonesia,Overdue >90,Matched,1,8497.2,100.0,1,0,0
+1100,Airline,China,Current,Matched,2,8494.13,0.0,0,1,0
+1100,Commercial,Singapore,Overdue 31-60,Partial Match,2,8489.74,50.5,2,1,2
+1000,MRO,Philippines,Overdue 1-30,Missing Remittance,1,8482.82,14.0,1,0,1
+1200,Airline,Vietnam,Overdue 31-60,Matched,1,8475.18,37.0,0,0,0
+1200,Commercial,Philippines,Overdue >90,Partial Match,1,8447.47,108.0,1,1,1
+1300,Defense,Indonesia,Current,Unmatched,4,8440.51,0.0,4,1,4
+1200,Government,Indonesia,Current,Partial Match,1,8429.53,0.0,1,0,1
+1000,MRO,Philippines,Overdue 1-30,Matched,1,8406.6,26.0,0,1,0
+1300,Airline,Singapore,Overdue 31-60,Missing Remittance,2,8399.19,49.5,2,1,2
+1200,Government,Thailand,Current,Matched,1,8353.0,0.0,0,0,0
+1200,Defense,Singapore,Overdue 61-90,Third Party Payment,1,8349.68,88.0,1,0,1
+1300,Commercial,Malaysia,Overdue >90,Unmatched,2,8336.98,100.5,2,0,2
+1000,Commercial,Australia,Overdue 31-60,Unmatched,2,8336.42,52.5,2,1,2
+1200,Defense,Indonesia,Overdue 31-60,Partial Match,1,8326.23,59.0,1,0,1
+1200,Airline,Indonesia,Overdue >90,Matched,2,8318.26,140.0,2,0,0
+1200,OEM,Australia,Overdue 31-60,Unmatched,2,8316.41,47.0,2,0,2
+1000,MRO,Philippines,Current,Third Party Payment,1,8303.82,0.0,1,0,1
+1200,Defense,Malaysia,Overdue 31-60,Third Party Payment,1,8297.57,55.0,1,0,1
+1100,Airline,Vietnam,Overdue >90,Third Party Payment,2,8259.69,157.5,2,0,2
+1200,MRO,Philippines,Current,Matched,2,8204.17,0.0,0,1,0
+1100,Defense,Malaysia,Overdue 61-90,Missing Remittance,1,8201.2,74.0,1,0,1
+1300,Government,Indonesia,Overdue >90,Missing Remittance,2,8170.8,138.0,2,0,2
+1200,OEM,Philippines,Overdue 31-60,Matched,1,8167.11,33.0,0,0,0
+1100,MRO,Indonesia,Overdue 61-90,Missing Remittance,1,8162.37,83.0,1,0,1
+1000,Airline,Australia,Overdue 31-60,Matched,1,8160.93,32.0,0,0,0
+1200,Defense,Australia,Current,Unmatched,1,8149.55,0.0,1,0,1
+1300,OEM,Singapore,Overdue >90,Third Party Payment,2,8145.88,122.0,2,2,2
+1100,Airline,Thailand,Overdue 1-30,Unmatched,1,8131.25,5.0,1,1,1
+1100,Government,Australia,Overdue 61-90,Unmatched,1,8114.23,85.0,1,0,1
+1000,Commercial,Singapore,Current,Matched,1,8062.48,0.0,0,0,0
+1100,OEM,Australia,Current,Unmatched,2,8059.41,0.0,2,0,2
+1100,Commercial,Singapore,Overdue 61-90,Unmatched,1,8053.37,74.0,1,0,1
+1000,Airline,Singapore,Overdue 1-30,Matched,1,8035.6,9.0,0,0,0
+1100,Commercial,Australia,Current,Missing Remittance,1,8026.02,0.0,1,0,1
+1000,MRO,Australia,Overdue 61-90,Unmatched,1,8022.3,70.0,1,0,1
+1300,Government,Singapore,Current,Missing Remittance,1,8021.65,0.0,1,1,1
+1000,OEM,China,Overdue >90,Third Party Payment,1,8014.92,149.0,1,0,1
+1200,MRO,Malaysia,Overdue 1-30,Third Party Payment,1,8005.89,25.0,1,0,1
+1300,Government,Vietnam,Overdue 31-60,Missing Remittance,1,8005.45,51.0,1,1,1
+1300,Defense,China,Current,Unmatched,1,7967.82,0.0,1,0,1
+1300,OEM,Thailand,Overdue >90,Partial Match,1,7936.39,141.0,1,1,1
+1100,MRO,Philippines,Overdue 31-60,Unmatched,1,7924.16,32.0,1,0,1
+1000,Government,China,Overdue >90,Unmatched,3,7923.27,126.0,3,0,3
+1300,Government,Vietnam,Overdue 1-30,Third Party Payment,1,7922.96,15.0,1,0,1
+1300,Government,Indonesia,Overdue 1-30,Partial Match,1,7911.34,21.0,1,0,1
+1200,OEM,Philippines,Current,Matched,1,7872.88,0.0,0,0,0
+1000,Defense,Australia,Current,Partial Match,1,7869.25,0.0,1,0,1
+1200,Airline,Indonesia,Current,Matched,1,7845.24,0.0,0,0,0
+1200,Government,Indonesia,Overdue 31-60,Missing Remittance,1,7837.8,56.0,1,0,1
+1200,Government,Australia,Overdue 1-30,Partial Match,1,7812.21,21.0,1,0,1
+1000,Airline,China,Overdue 31-60,Matched,1,7809.59,46.0,0,0,0
+1100,Defense,Vietnam,Current,Matched,1,7802.35,0.0,0,0,0
+1000,Government,China,Overdue >90,Missing Remittance,2,7742.01,113.5,2,0,2
+1300,Airline,Vietnam,Current,Matched,2,7728.45,0.0,0,1,0
+1200,Airline,China,Overdue 1-30,Matched,1,7710.73,11.0,0,1,0
+1200,Commercial,Singapore,Current,Unmatched,1,7709.01,0.0,1,0,1
+1100,Defense,Thailand,Overdue 61-90,Matched,2,7703.71,84.0,2,0,0
+1100,OEM,Thailand,Overdue 1-30,Unmatched,1,7692.35,22.0,1,0,1
+1300,Government,Singapore,Overdue 1-30,Unmatched,1,7660.03,15.0,1,0,1
+1000,OEM,Malaysia,Current,Missing Remittance,1,7656.7,0.0,1,0,1
+1200,Commercial,Australia,Overdue >90,Matched,3,7648.2,108.0,3,0,0
+1200,OEM,Indonesia,Overdue 31-60,Partial Match,2,7639.69,54.0,2,1,2
+1200,Commercial,Malaysia,Overdue 31-60,Unmatched,2,7608.35,38.0,2,0,2
+1100,Defense,Australia,Overdue 61-90,Matched,1,7600.05,70.0,1,0,0
+1300,Commercial,Indonesia,Overdue >90,Matched,1,7598.21,135.0,1,0,0
+1200,OEM,China,Overdue 1-30,Partial Match,1,7594.49,22.0,1,0,1
+1300,Airline,Indonesia,Overdue 61-90,Partial Match,1,7590.24,85.0,1,0,1
+1000,MRO,Vietnam,Overdue 61-90,Missing Remittance,1,7578.79,67.0,1,0,1
+1100,Commercial,Malaysia,Overdue 31-60,Matched,3,7563.75,51.67,0,0,0
+1000,MRO,Thailand,Overdue 31-60,Matched,1,7556.46,34.0,0,0,0
+1200,Commercial,Australia,Overdue 61-90,Unmatched,2,7555.06,75.5,2,1,2
+1000,Airline,Philippines,Current,Matched,1,7552.86,0.0,0,0,0
+1200,OEM,Vietnam,Overdue 1-30,Missing Remittance,1,7524.32,22.0,1,0,1
+1200,Government,Singapore,Overdue 1-30,Missing Remittance,1,7511.33,18.0,1,0,1
+1100,Defense,Australia,Overdue 31-60,Matched,1,7493.5,33.0,0,0,0
+1200,MRO,Philippines,Overdue >90,Matched,2,7486.05,159.5,2,0,0
+1300,Defense,Singapore,Overdue 31-60,Unmatched,1,7484.61,52.0,1,0,1
+1300,MRO,Singapore,Overdue 31-60,Unmatched,1,7484.02,41.0,1,0,1
+1200,Defense,Thailand,Overdue >90,Partial Match,1,7480.77,123.0,1,1,1
+1100,Airline,Vietnam,Overdue 1-30,Missing Remittance,2,7473.28,8.5,2,0,2
+1200,Government,Malaysia,Overdue 31-60,Unmatched,2,7449.59,46.0,2,0,2
+1000,Government,Singapore,Overdue 61-90,Matched,1,7440.58,68.0,1,0,0
+1300,OEM,Indonesia,Overdue 1-30,Matched,1,7440.06,6.0,0,0,0
+1200,Commercial,Malaysia,Overdue 61-90,Matched,1,7432.02,63.0,1,1,0
+1300,Airline,China,Overdue 1-30,Missing Remittance,1,7429.06,29.0,1,1,1
+1000,Airline,Vietnam,Overdue >90,Missing Remittance,1,7414.12,95.0,1,0,1
+1300,Defense,China,Overdue 31-60,Partial Match,1,7406.05,36.0,1,1,1
+1100,OEM,Indonesia,Overdue 61-90,Partial Match,2,7398.98,78.0,2,0,2
+1100,Government,Singapore,Overdue 1-30,Unmatched,1,7393.93,13.0,1,0,1
+1300,Airline,Thailand,Overdue 61-90,Partial Match,2,7371.58,80.5,2,0,2
+1300,OEM,Thailand,Overdue 1-30,Matched,1,7366.15,10.0,0,1,0
+1100,Commercial,Malaysia,Current,Partial Match,1,7359.85,0.0,1,0,1
+1000,OEM,Indonesia,Overdue 61-90,Matched,1,7305.38,73.0,1,0,0
+1300,MRO,China,Overdue >90,Missing Remittance,2,7300.73,115.5,2,0,2
+1100,Airline,Philippines,Overdue >90,Unmatched,1,7298.96,114.0,1,0,1
+1300,MRO,Singapore,Overdue 1-30,Missing Remittance,2,7288.0,3.5,2,0,2
+1100,OEM,Philippines,Overdue >90,Unmatched,1,7284.52,132.0,1,1,1
+1200,Defense,Singapore,Overdue 61-90,Unmatched,2,7278.65,70.0,2,0,2
+1300,Government,Malaysia,Overdue 1-30,Partial Match,3,7273.74,20.67,3,0,3
+1100,Government,Indonesia,Overdue >90,Unmatched,1,7268.51,170.0,1,0,1
+1100,Airline,China,Overdue >90,Third Party Payment,1,7259.06,120.0,1,0,1
+1100,MRO,Malaysia,Overdue 61-90,Unmatched,1,7252.0,74.0,1,0,1
+1200,OEM,Malaysia,Overdue 61-90,Third Party Payment,1,7228.38,83.0,1,0,1
+1300,Defense,Thailand,Overdue >90,Unmatched,1,7219.35,110.0,1,0,1
+1200,Airline,Indonesia,Overdue 31-60,Matched,1,7218.49,50.0,0,0,0
+1000,Government,Indonesia,Overdue 61-90,Partial Match,1,7211.88,71.0,1,0,1
+1300,MRO,Philippines,Overdue 61-90,Missing Remittance,1,7204.1,72.0,1,0,1
+1000,OEM,Philippines,Overdue >90,Matched,2,7203.08,117.5,2,0,0
+1100,OEM,Australia,Overdue 31-60,Third Party Payment,1,7202.26,44.0,1,0,1
+1300,MRO,Malaysia,Current,Unmatched,2,7192.03,0.0,2,0,2
+1100,Commercial,Thailand,Overdue >90,Matched,1,7179.93,114.0,1,0,0
+1100,MRO,Singapore,Overdue 1-30,Partial Match,1,7149.17,27.0,1,0,1
+1200,Defense,Vietnam,Overdue >90,Partial Match,2,7147.77,148.0,2,0,2
+1100,Airline,Australia,Overdue 1-30,Partial Match,1,7142.39,11.0,1,1,1
+1200,OEM,China,Overdue 61-90,Unmatched,1,7129.15,89.0,1,0,1
+1200,MRO,Australia,Overdue >90,Unmatched,1,7110.27,159.0,1,0,1
+1100,MRO,Australia,Overdue 31-60,Partial Match,1,7107.81,43.0,1,1,1
+1300,Defense,Malaysia,Overdue 31-60,Missing Remittance,1,7101.07,36.0,1,0,1
+1100,OEM,Indonesia,Overdue 31-60,Unmatched,1,7099.47,60.0,1,1,1
+1200,OEM,Malaysia,Overdue 31-60,Missing Remittance,1,7049.9,53.0,1,0,1
+1100,Defense,China,Overdue 1-30,Third Party Payment,1,7048.44,10.0,1,0,1
+1100,Government,Singapore,Current,Partial Match,1,7024.89,0.0,1,1,1
+1100,Government,Malaysia,Overdue 1-30,Partial Match,1,7021.48,8.0,1,0,1
+1200,MRO,China,Overdue 1-30,Unmatched,1,7003.35,8.0,1,0,1
+1300,MRO,Philippines,Current,Partial Match,2,7000.22,0.0,2,1,2
+1200,MRO,Malaysia,Current,Missing Remittance,2,6986.94,0.0,2,0,2
+1200,Defense,China,Overdue 61-90,Missing Remittance,1,6986.62,86.0,1,1,1
+1100,OEM,Philippines,Overdue 1-30,Unmatched,1,6969.4,25.0,1,1,1
+1300,MRO,Indonesia,Overdue >90,Missing Remittance,1,6950.15,130.0,1,0,1
+1200,Airline,Thailand,Overdue 31-60,Missing Remittance,1,6941.58,39.0,1,0,1
+1100,Airline,Thailand,Current,Partial Match,1,6935.26,0.0,1,1,1
+1300,Defense,Philippines,Overdue 1-30,Unmatched,1,6919.5,14.0,1,0,1
+1200,Commercial,China,Overdue 61-90,Matched,1,6918.13,61.0,1,0,0
+1300,Commercial,Vietnam,Overdue 31-60,Matched,2,6913.49,44.5,0,0,0
+1200,OEM,Philippines,Overdue 31-60,Third Party Payment,1,6873.0,33.0,1,1,1
+1200,Commercial,Philippines,Overdue 61-90,Unmatched,1,6866.2,86.0,1,0,1
+1000,OEM,Indonesia,Overdue 31-60,Matched,1,6864.22,58.0,0,0,0
+1000,OEM,Australia,Overdue 61-90,Missing Remittance,1,6857.37,85.0,1,0,1
+1200,Commercial,Philippines,Overdue 61-90,Matched,1,6841.59,64.0,1,1,0
+1100,OEM,Vietnam,Current,Missing Remittance,1,6836.05,0.0,1,0,1
+1100,Airline,Philippines,Overdue >90,Missing Remittance,1,6834.06,107.0,1,0,1
+1100,Commercial,Australia,Overdue 1-30,Partial Match,1,6816.74,13.0,1,0,1
+1300,Commercial,Singapore,Overdue 1-30,Missing Remittance,2,6808.87,14.5,2,1,2
+1000,Commercial,Philippines,Overdue 31-60,Matched,3,6803.11,45.67,0,1,0
+1100,Commercial,Vietnam,Overdue 31-60,Missing Remittance,1,6802.24,49.0,1,0,1
+1100,Government,Singapore,Current,Missing Remittance,2,6759.38,0.0,2,0,2
+1100,Commercial,Vietnam,Overdue 61-90,Matched,1,6742.22,63.0,1,0,0
+1000,Government,Australia,Overdue 31-60,Third Party Payment,1,6721.0,50.0,1,0,1
+1200,Airline,China,Overdue >90,Third Party Payment,1,6719.99,102.0,1,1,1
+1100,OEM,China,Overdue 61-90,Partial Match,1,6713.45,79.0,1,0,1
+1200,Airline,Vietnam,Overdue 61-90,Missing Remittance,1,6711.45,88.0,1,0,1
+1000,Government,Vietnam,Overdue 1-30,Third Party Payment,1,6710.65,28.0,1,1,1
+1000,Commercial,Australia,Overdue 61-90,Matched,2,6708.15,72.5,2,1,0
+1200,Defense,Philippines,Current,Missing Remittance,1,6706.67,0.0,1,1,1
+1000,Defense,Vietnam,Overdue 31-60,Missing Remittance,1,6701.14,55.0,1,0,1
+1100,MRO,Philippines,Overdue >90,Unmatched,2,6697.14,116.5,2,0,2
+1300,Commercial,Australia,Overdue 31-60,Matched,1,6686.33,33.0,0,0,0
+1000,Defense,China,Overdue >90,Unmatched,1,6672.71,104.0,1,0,1
+1000,MRO,China,Overdue 31-60,Third Party Payment,2,6665.52,58.0,2,0,2
+1300,Commercial,China,Overdue >90,Matched,2,6656.27,149.5,2,0,0
+1100,Government,Australia,Overdue 31-60,Unmatched,1,6640.82,60.0,1,0,1
+1300,MRO,Malaysia,Overdue >90,Matched,1,6636.07,141.0,1,0,0
+1000,Defense,China,Overdue 31-60,Unmatched,1,6621.89,40.0,1,0,1
+1000,Defense,Philippines,Overdue 1-30,Unmatched,1,6609.56,9.0,1,0,1
+1300,Airline,Singapore,Overdue 1-30,Third Party Payment,1,6604.88,15.0,1,0,1
+1300,Government,Vietnam,Overdue >90,Third Party Payment,2,6553.46,135.5,2,0,2
+1000,Airline,Vietnam,Overdue 31-60,Missing Remittance,1,6547.27,38.0,1,0,1
+1100,Defense,Singapore,Overdue 1-30,Unmatched,3,6535.93,13.0,3,0,3
+1000,MRO,Singapore,Overdue 61-90,Unmatched,2,6527.44,77.5,2,0,2
+1100,MRO,Vietnam,Overdue >90,Missing Remittance,1,6521.29,103.0,1,0,1
+1100,Commercial,Australia,Overdue 1-30,Missing Remittance,1,6503.72,19.0,1,0,1
+1000,OEM,Australia,Overdue 61-90,Unmatched,1,6477.84,84.0,1,1,1
+1100,OEM,Thailand,Overdue 1-30,Partial Match,1,6450.42,30.0,1,0,1
+1200,Defense,Vietnam,Overdue 31-60,Missing Remittance,2,6383.18,43.0,2,1,2
+1100,Commercial,Philippines,Current,Unmatched,3,6380.14,0.0,3,2,3
+1100,OEM,Australia,Current,Partial Match,1,6373.03,0.0,1,0,1
+1200,Commercial,Indonesia,Overdue 31-60,Matched,1,6367.07,34.0,0,0,0
+1000,OEM,Indonesia,Overdue 61-90,Missing Remittance,1,6361.56,67.0,1,0,1
+1000,Airline,Singapore,Overdue 1-30,Unmatched,1,6342.26,20.0,1,0,1
+1100,Government,Vietnam,Overdue >90,Third Party Payment,2,6335.04,118.0,2,1,2
+1200,MRO,Australia,Overdue 61-90,Partial Match,2,6332.69,67.0,2,0,2
+1000,OEM,Philippines,Overdue 31-60,Matched,2,6323.13,48.5,0,0,0
+1100,Defense,Australia,Overdue 1-30,Matched,1,6322.51,13.0,0,0,0
+1000,Airline,Indonesia,Overdue >90,Matched,1,6319.98,117.0,1,0,0
+1000,OEM,Thailand,Current,Third Party Payment,1,6313.89,0.0,1,1,1
+1200,MRO,Thailand,Overdue >90,Partial Match,2,6311.55,130.0,2,1,2
+1100,OEM,Australia,Overdue 31-60,Partial Match,1,6285.71,45.0,1,0,1
+1100,OEM,Thailand,Overdue 1-30,Matched,1,6263.06,5.0,0,0,0
+1200,OEM,Indonesia,Overdue 1-30,Matched,1,6255.54,25.0,0,1,0
+1000,Government,Thailand,Overdue 1-30,Partial Match,1,6239.07,11.0,1,0,1
+1200,Government,China,Overdue 31-60,Unmatched,3,6235.26,45.33,3,1,3
+1200,OEM,Singapore,Overdue 1-30,Unmatched,2,6221.46,28.0,2,0,2
+1300,Defense,Thailand,Overdue 31-60,Unmatched,4,6202.69,46.5,4,0,4
+1300,Government,China,Current,Partial Match,1,6201.62,0.0,1,0,1
+1100,Defense,Singapore,Overdue >90,Matched,2,6185.4,164.0,2,0,0
+1300,Airline,Vietnam,Overdue >90,Third Party Payment,1,6183.91,115.0,1,1,1
+1100,Defense,Malaysia,Overdue >90,Partial Match,2,6157.74,118.0,2,0,2
+1200,Airline,Singapore,Overdue 1-30,Missing Remittance,1,6147.17,4.0,1,0,1
+1300,OEM,Philippines,Current,Third Party Payment,1,6143.28,0.0,1,0,1
+1000,Airline,Vietnam,Overdue >90,Partial Match,2,6140.1,106.5,2,0,2
+1200,Airline,Singapore,Overdue >90,Third Party Payment,1,6128.31,124.0,1,0,1
+1000,Government,Singapore,Overdue 1-30,Matched,1,6123.36,15.0,0,0,0
+1200,MRO,Malaysia,Overdue >90,Third Party Payment,1,6120.47,123.0,1,1,1
+1100,OEM,China,Overdue 31-60,Missing Remittance,1,6104.04,38.0,1,0,1
+1100,MRO,Indonesia,Current,Partial Match,1,6063.8,0.0,1,0,1
+1200,Government,Australia,Overdue 31-60,Missing Remittance,1,6058.63,31.0,1,0,1
+1300,Government,Singapore,Overdue >90,Matched,1,5990.59,146.0,1,0,0
+1000,Defense,Indonesia,Overdue 1-30,Missing Remittance,1,5984.82,10.0,1,0,1
+1000,OEM,Vietnam,Overdue 31-60,Third Party Payment,1,5980.74,59.0,1,0,1
+1000,OEM,Philippines,Overdue 31-60,Unmatched,1,5942.94,60.0,1,1,1
+1100,Defense,Singapore,Current,Partial Match,1,5932.98,0.0,1,0,1
+1300,Government,Singapore,Current,Unmatched,2,5931.31,0.0,2,1,2
+1000,Government,Vietnam,Overdue 1-30,Matched,1,5930.85,25.0,0,0,0
+1100,OEM,Thailand,Overdue 31-60,Third Party Payment,1,5918.2,38.0,1,0,1
+1300,Airline,Singapore,Overdue >90,Matched,1,5895.17,119.0,1,0,0
+1100,Government,Singapore,Overdue 61-90,Partial Match,1,5894.33,72.0,1,0,1
+1100,Government,Australia,Overdue 31-60,Third Party Payment,1,5884.52,47.0,1,0,1
+1100,Airline,Vietnam,Current,Partial Match,1,5877.81,0.0,1,0,1
+1100,OEM,Philippines,Overdue 61-90,Third Party Payment,1,5856.35,83.0,1,1,1
+1000,Airline,Indonesia,Overdue 31-60,Matched,1,5843.14,46.0,0,0,0
+1200,Defense,Malaysia,Overdue 1-30,Missing Remittance,1,5839.36,29.0,1,1,1
+1300,MRO,China,Overdue >90,Third Party Payment,1,5830.89,131.0,1,0,1
+1000,OEM,Singapore,Overdue >90,Matched,2,5826.5,129.5,2,0,0
+1000,MRO,Thailand,Overdue 1-30,Matched,1,5804.58,23.0,0,0,0
+1000,Commercial,China,Current,Unmatched,1,5780.1,0.0,1,0,1
+1000,Defense,Singapore,Overdue 31-60,Matched,2,5774.29,40.0,0,1,0
+1200,Airline,Thailand,Current,Partial Match,2,5771.83,0.0,2,0,2
+1300,Defense,China,Overdue 31-60,Matched,1,5764.26,41.0,0,1,0
+1200,Airline,Vietnam,Overdue 1-30,Missing Remittance,2,5762.65,17.0,2,0,2
+1100,MRO,Malaysia,Overdue 1-30,Unmatched,1,5759.55,13.0,1,0,1
+1100,Government,Indonesia,Overdue 1-30,Missing Remittance,1,5744.89,11.0,1,0,1
+1200,Government,Indonesia,Current,Unmatched,2,5734.36,0.0,2,1,2
+1000,OEM,Philippines,Overdue 31-60,Missing Remittance,1,5732.3,56.0,1,0,1
+1100,Defense,China,Overdue 61-90,Missing Remittance,1,5705.13,70.0,1,0,1
+1000,OEM,China,Overdue 31-60,Matched,2,5694.27,49.0,0,0,0
+1000,Defense,Thailand,Overdue >90,Matched,1,5690.75,94.0,1,0,0
+1100,Commercial,Indonesia,Current,Unmatched,1,5690.15,0.0,1,0,1
+1200,Commercial,Australia,Overdue >90,Third Party Payment,1,5690.13,132.0,1,0,1
+1000,Defense,China,Current,Missing Remittance,1,5675.2,0.0,1,0,1
+1100,Government,Singapore,Overdue 61-90,Missing Remittance,1,5673.58,79.0,1,0,1
+1200,Commercial,Australia,Overdue 1-30,Matched,2,5656.91,16.5,0,0,0
+1200,Government,Thailand,Overdue 1-30,Missing Remittance,1,5653.13,15.0,1,0,1
+1000,Government,Malaysia,Overdue 1-30,Unmatched,1,5652.22,5.0,1,0,1
+1000,Commercial,China,Overdue 61-90,Missing Remittance,1,5635.99,66.0,1,0,1
+1200,OEM,Vietnam,Overdue 1-30,Matched,2,5624.98,7.0,0,0,0
+1100,Defense,Philippines,Overdue >90,Partial Match,2,5622.94,125.5,2,0,2
+1100,Commercial,Thailand,Overdue >90,Missing Remittance,1,5602.26,146.0,1,0,1
+1300,Airline,Singapore,Overdue >90,Third Party Payment,1,5597.63,164.0,1,1,1
+1000,Commercial,Australia,Overdue >90,Third Party Payment,1,5592.12,119.0,1,0,1
+1100,Government,Vietnam,Overdue >90,Partial Match,1,5578.53,151.0,1,0,1
+1100,Commercial,Indonesia,Overdue 61-90,Third Party Payment,1,5572.9,89.0,1,0,1
+1300,Airline,China,Overdue 61-90,Matched,1,5527.09,76.0,1,0,0
+1200,Defense,Indonesia,Current,Unmatched,1,5488.12,0.0,1,0,1
+1200,Commercial,Thailand,Overdue 61-90,Unmatched,1,5481.57,68.0,1,0,1
+1000,Commercial,Australia,Overdue 61-90,Unmatched,2,5479.08,74.5,2,0,2
+1200,Government,Singapore,Overdue 61-90,Unmatched,2,5459.7,84.5,2,0,2
+1000,Airline,Philippines,Overdue 61-90,Third Party Payment,1,5448.29,85.0,1,1,1
+1000,MRO,Singapore,Overdue 31-60,Unmatched,1,5414.45,50.0,1,0,1
+1000,Defense,Singapore,Overdue 1-30,Unmatched,2,5412.21,18.5,2,0,2
+1000,Commercial,Thailand,Overdue >90,Matched,1,5406.39,114.0,1,0,0
+1000,Defense,Singapore,Overdue 31-60,Unmatched,2,5399.12,44.5,2,1,2
+1200,MRO,Thailand,Overdue 31-60,Matched,1,5398.7,45.0,0,0,0
+1200,OEM,Malaysia,Current,Unmatched,1,5390.31,0.0,1,1,1
+1000,Defense,Australia,Overdue >90,Third Party Payment,1,5383.52,98.0,1,0,1
+1000,OEM,Vietnam,Overdue >90,Matched,3,5382.88,118.0,3,0,0
+1300,Defense,Vietnam,Overdue >90,Third Party Payment,1,5370.29,109.0,1,0,1
+1000,Defense,Indonesia,Overdue 1-30,Unmatched,1,5369.51,8.0,1,0,1
+1200,MRO,Australia,Overdue 61-90,Missing Remittance,1,5364.74,81.0,1,0,1
+1100,Defense,Indonesia,Overdue 1-30,Partial Match,2,5362.64,24.5,2,1,2
+1000,Defense,Indonesia,Overdue 61-90,Unmatched,1,5355.87,61.0,1,0,1
+1300,Commercial,Australia,Overdue >90,Partial Match,1,5353.91,111.0,1,0,1
+1300,MRO,Vietnam,Overdue >90,Third Party Payment,1,5338.8,125.0,1,0,1
+1200,OEM,Thailand,Overdue 31-60,Matched,1,5337.68,44.0,0,1,0
+1000,Defense,Singapore,Overdue >90,Matched,1,5335.38,104.0,1,0,0
+1000,Government,Malaysia,Overdue 1-30,Partial Match,1,5321.34,10.0,1,0,1
+1200,OEM,Philippines,Overdue 61-90,Missing Remittance,1,5317.07,80.0,1,0,1
+1200,Defense,China,Current,Partial Match,1,5312.74,0.0,1,0,1
+1300,Defense,Vietnam,Overdue 61-90,Matched,1,5295.19,78.0,1,0,0
+1200,OEM,Thailand,Overdue 61-90,Third Party Payment,1,5288.61,73.0,1,0,1
+1100,Airline,Philippines,Overdue >90,Third Party Payment,1,5279.39,107.0,1,1,1
+1000,Defense,China,Current,Unmatched,1,5276.65,0.0,1,0,1
+1100,Commercial,Malaysia,Overdue 31-60,Missing Remittance,1,5266.04,57.0,1,0,1
+1100,Commercial,Australia,Current,Partial Match,2,5263.18,0.0,2,1,2
+1000,Government,Philippines,Overdue 31-60,Partial Match,1,5262.75,35.0,1,0,1
+1000,Airline,Vietnam,Overdue 1-30,Partial Match,2,5247.0,15.0,2,0,2
+1100,MRO,Thailand,Overdue 1-30,Unmatched,1,5246.99,14.0,1,1,1
+1000,Government,Malaysia,Current,Matched,1,5242.86,0.0,0,0,0
+1000,Government,Singapore,Overdue 1-30,Unmatched,1,5241.31,6.0,1,0,1
+1200,Defense,Indonesia,Overdue 31-60,Missing Remittance,1,5221.81,31.0,1,0,1
+1100,MRO,China,Overdue 1-30,Matched,1,5216.43,21.0,0,1,0
+1100,Government,Indonesia,Current,Unmatched,1,5212.28,0.0,1,0,1
+1200,Defense,Singapore,Overdue 31-60,Partial Match,1,5207.12,35.0,1,0,1
+1100,Airline,Malaysia,Overdue 61-90,Matched,1,5206.51,76.0,1,0,0
+1300,Airline,Thailand,Overdue >90,Third Party Payment,1,5196.38,93.0,1,0,1
+1300,Defense,Thailand,Overdue 1-30,Unmatched,1,5175.72,30.0,1,0,1
+1200,OEM,China,Overdue 31-60,Third Party Payment,1,5170.59,31.0,1,0,1
+1100,MRO,Indonesia,Current,Matched,1,5165.49,0.0,0,0,0
+1100,Defense,Thailand,Overdue 31-60,Unmatched,1,5144.89,57.0,1,0,1
+1200,Commercial,Vietnam,Overdue 61-90,Unmatched,1,5142.58,82.0,1,0,1
+1300,Airline,Singapore,Overdue 1-30,Matched,1,5100.48,4.0,0,0,0
+1100,Defense,Malaysia,Overdue 61-90,Unmatched,2,5077.14,74.5,2,0,2
+1200,Government,China,Overdue 31-60,Matched,1,5074.39,41.0,0,0,0
+1000,MRO,Malaysia,Overdue 1-30,Unmatched,1,5068.47,18.0,1,0,1
+1000,OEM,Thailand,Overdue >90,Third Party Payment,1,5062.51,104.0,1,0,1
+1100,Defense,Vietnam,Overdue 61-90,Missing Remittance,1,5043.1,82.0,1,0,1
+1100,MRO,Australia,Overdue 31-60,Third Party Payment,1,5032.64,55.0,1,0,1
+1100,Defense,Philippines,Overdue 1-30,Missing Remittance,1,5028.24,12.0,1,0,1
+1300,MRO,China,Overdue 1-30,Unmatched,2,5027.72,5.0,2,1,2
+1100,Airline,Australia,Current,Unmatched,1,5025.01,0.0,1,0,1
+1100,MRO,Vietnam,Overdue 61-90,Matched,1,5024.02,76.0,1,1,0
+1000,Airline,China,Overdue 31-60,Missing Remittance,1,5021.64,59.0,1,0,1
+1100,Government,Malaysia,Overdue >90,Partial Match,1,5018.28,97.0,1,0,1
+1100,Defense,Vietnam,Overdue 31-60,Unmatched,1,5016.36,37.0,1,0,1
+1000,Airline,Singapore,Overdue >90,Third Party Payment,1,5008.01,153.0,1,0,1
+1000,Defense,Vietnam,Overdue 61-90,Unmatched,1,4980.92,74.0,1,0,1
+1100,Commercial,Malaysia,Overdue >90,Missing Remittance,1,4970.13,167.0,1,1,1
+1300,MRO,Indonesia,Overdue 1-30,Third Party Payment,1,4962.88,12.0,1,0,1
+1100,Defense,Thailand,Overdue >90,Partial Match,2,4951.44,133.5,2,1,2
+1000,Airline,China,Current,Partial Match,1,4946.76,0.0,1,0,1
+1200,MRO,Thailand,Overdue 61-90,Matched,2,4941.83,73.5,2,1,0
+1000,Commercial,Singapore,Overdue >90,Partial Match,1,4939.68,137.0,1,0,1
+1100,Airline,Philippines,Overdue 1-30,Matched,1,4929.25,18.0,0,1,0
+1300,MRO,Malaysia,Overdue 1-30,Unmatched,1,4922.17,24.0,1,0,1
+1100,OEM,Singapore,Overdue >90,Third Party Payment,1,4910.84,117.0,1,1,1
+1300,Commercial,Australia,Overdue >90,Unmatched,2,4909.76,113.5,2,0,2
+1200,Government,Thailand,Overdue 61-90,Unmatched,3,4902.27,73.33,3,0,3
+1300,Airline,Thailand,Overdue 61-90,Unmatched,1,4878.47,77.0,1,0,1
+1100,Commercial,Indonesia,Overdue 1-30,Missing Remittance,1,4862.99,26.0,1,0,1
+1000,Commercial,Indonesia,Overdue >90,Missing Remittance,1,4858.58,111.0,1,1,1
+1300,Commercial,Australia,Current,Matched,2,4858.57,0.0,0,0,0
+1000,Defense,Malaysia,Overdue 31-60,Matched,1,4858.07,41.0,0,0,0
+1300,Government,Thailand,Overdue 1-30,Unmatched,1,4809.81,24.0,1,1,1
+1000,Government,Thailand,Overdue 61-90,Matched,1,4802.47,63.0,1,0,0
+1300,Government,Vietnam,Overdue 61-90,Unmatched,2,4800.53,67.5,2,0,2
+1200,OEM,Thailand,Overdue 31-60,Missing Remittance,2,4782.33,46.0,2,1,2
+1100,Government,Singapore,Current,Third Party Payment,1,4763.65,0.0,1,0,1
+1300,MRO,China,Overdue 61-90,Third Party Payment,1,4763.4,64.0,1,0,1
+1300,OEM,Vietnam,Current,Matched,3,4746.47,0.0,0,0,0
+1100,Government,Vietnam,Overdue 31-60,Matched,1,4739.68,40.0,0,0,0
+1300,Defense,Australia,Overdue 61-90,Matched,1,4719.38,89.0,1,1,0
+1100,Defense,Malaysia,Overdue >90,Missing Remittance,1,4718.82,106.0,1,0,1
+1100,OEM,Vietnam,Current,Matched,1,4712.96,0.0,0,0,0
+1300,Government,Vietnam,Overdue 31-60,Partial Match,1,4700.97,60.0,1,0,1
+1100,Defense,Thailand,Overdue 31-60,Third Party Payment,1,4697.82,49.0,1,0,1
+1100,Government,Thailand,Overdue 1-30,Unmatched,1,4660.44,19.0,1,0,1
+1200,Commercial,Philippines,Overdue 1-30,Unmatched,1,4660.1,5.0,1,0,1
+1200,MRO,Philippines,Current,Partial Match,1,4645.65,0.0,1,0,1
+1000,Commercial,Singapore,Overdue 1-30,Missing Remittance,1,4628.59,24.0,1,0,1
+1000,Defense,Philippines,Overdue 31-60,Matched,1,4623.53,37.0,0,0,0
+1100,Government,Thailand,Current,Partial Match,1,4614.68,0.0,1,0,1
+1000,OEM,Singapore,Overdue 1-30,Missing Remittance,1,4587.58,7.0,1,0,1
+1000,MRO,China,Overdue 1-30,Unmatched,1,4585.98,28.0,1,0,1
+1200,Commercial,Thailand,Overdue >90,Unmatched,1,4584.11,97.0,1,0,1
+1000,Commercial,Philippines,Overdue 31-60,Third Party Payment,1,4583.58,32.0,1,0,1
+1300,MRO,Thailand,Overdue 61-90,Matched,1,4572.85,80.0,1,0,0
+1200,Commercial,Malaysia,Overdue 61-90,Partial Match,1,4556.3,84.0,1,0,1
+1000,Government,Philippines,Overdue >90,Partial Match,1,4556.16,142.0,1,1,1
+1000,MRO,Indonesia,Overdue 61-90,Unmatched,1,4550.36,67.0,1,0,1
+1100,Airline,Vietnam,Overdue 1-30,Partial Match,1,4538.47,20.0,1,0,1
+1200,Government,Singapore,Overdue 61-90,Matched,1,4538.36,67.0,1,1,0
+1300,MRO,Philippines,Overdue 1-30,Partial Match,1,4536.15,5.0,1,0,1
+1000,Airline,Singapore,Overdue >90,Missing Remittance,1,4531.72,118.0,1,0,1
+1300,Government,Australia,Overdue 31-60,Third Party Payment,1,4491.09,59.0,1,0,1
+1000,Defense,Malaysia,Overdue 61-90,Missing Remittance,1,4484.07,87.0,1,0,1
+1300,Airline,China,Current,Unmatched,1,4483.44,0.0,1,0,1
+1000,OEM,Philippines,Overdue 31-60,Third Party Payment,1,4483.24,37.0,1,0,1
+1100,Airline,Thailand,Overdue 31-60,Unmatched,1,4460.83,52.0,1,1,1
+1000,Government,Vietnam,Overdue 61-90,Unmatched,1,4454.54,82.0,1,0,1
+1200,Commercial,Vietnam,Overdue 1-30,Matched,1,4450.91,28.0,0,1,0
+1300,Defense,China,Overdue >90,Matched,2,4444.28,112.0,2,0,0
+1100,Airline,Indonesia,Overdue >90,Matched,1,4443.19,96.0,1,1,0
+1100,Defense,Vietnam,Overdue 31-60,Matched,1,4397.58,31.0,0,0,0
+1000,Government,Malaysia,Overdue >90,Matched,1,4385.03,129.0,1,1,0
+1200,MRO,Vietnam,Overdue 31-60,Unmatched,1,4371.18,37.0,1,0,1
+1300,Airline,Thailand,Current,Matched,1,4363.48,0.0,0,0,0
+1000,Commercial,Vietnam,Current,Third Party Payment,1,4344.71,0.0,1,0,1
+1100,Government,China,Overdue >90,Matched,1,4344.46,148.0,1,0,0
+1300,Airline,Vietnam,Current,Third Party Payment,1,4336.11,0.0,1,0,1
+1300,Government,Indonesia,Current,Third Party Payment,1,4324.21,0.0,1,1,1
+1200,Airline,Indonesia,Overdue 31-60,Partial Match,1,4321.19,48.0,1,0,1
+1100,MRO,Thailand,Overdue 61-90,Missing Remittance,1,4282.84,62.0,1,0,1
+1000,Commercial,Indonesia,Current,Partial Match,1,4278.12,0.0,1,0,1
+1100,OEM,Philippines,Overdue 61-90,Unmatched,2,4273.68,80.0,2,0,2
+1100,Government,Vietnam,Overdue 61-90,Missing Remittance,1,4264.95,85.0,1,0,1
+1200,Airline,Vietnam,Overdue >90,Matched,1,4264.21,159.0,1,1,0
+1200,Defense,Singapore,Overdue 61-90,Missing Remittance,1,4262.97,72.0,1,0,1
+1000,Airline,Indonesia,Overdue 1-30,Matched,1,4258.33,28.0,0,0,0
+1300,Government,Vietnam,Overdue 31-60,Unmatched,1,4254.14,39.0,1,0,1
+1200,Airline,Australia,Overdue 1-30,Third Party Payment,1,4247.68,4.0,1,0,1
+1100,OEM,Indonesia,Overdue 61-90,Missing Remittance,2,4225.79,68.5,2,0,2
+1200,Commercial,Australia,Overdue 1-30,Partial Match,1,4214.05,18.0,1,0,1
+1000,OEM,Malaysia,Overdue 61-90,Matched,1,4212.47,65.0,1,0,0
+1000,MRO,Australia,Overdue >90,Matched,1,4200.09,129.0,1,0,0
+1300,Government,Indonesia,Overdue 31-60,Third Party Payment,1,4199.32,46.0,1,0,1
+1200,Commercial,Vietnam,Overdue 31-60,Matched,3,4186.32,51.33,0,0,0
+1300,Airline,Malaysia,Overdue 31-60,Matched,1,4184.28,39.0,0,0,0
+1200,OEM,Thailand,Overdue >90,Partial Match,1,4182.25,118.0,1,0,1
+1300,Commercial,Singapore,Overdue 31-60,Matched,2,4174.06,51.0,0,1,0
+1000,Government,Singapore,Overdue 61-90,Third Party Payment,1,4156.57,62.0,1,0,1
+1200,Defense,Philippines,Overdue 31-60,Unmatched,1,4144.7,48.0,1,1,1
+1100,OEM,China,Overdue 1-30,Missing Remittance,2,4141.28,10.5,2,0,2
+1000,Commercial,Indonesia,Overdue 31-60,Unmatched,2,4134.15,38.5,2,0,2
+1100,MRO,Indonesia,Overdue 1-30,Missing Remittance,1,4132.77,26.0,1,0,1
+1000,Defense,Indonesia,Current,Matched,1,4106.08,0.0,0,0,0
+1100,OEM,Malaysia,Overdue >90,Partial Match,1,4101.93,109.0,1,0,1
+1300,MRO,Indonesia,Current,Matched,1,4089.61,0.0,0,0,0
+1300,OEM,Indonesia,Overdue 61-90,Missing Remittance,1,4088.14,62.0,1,0,1
+1000,OEM,Australia,Current,Unmatched,2,4082.68,0.0,2,1,2
+1300,Commercial,Malaysia,Overdue >90,Third Party Payment,1,4069.96,129.0,1,0,1
+1200,Airline,Vietnam,Overdue >90,Partial Match,1,4068.5,105.0,1,0,1
+1100,Airline,Philippines,Overdue 31-60,Missing Remittance,1,4037.47,44.0,1,1,1
+1300,MRO,Thailand,Overdue 1-30,Missing Remittance,1,4031.59,7.0,1,0,1
+1300,Airline,Australia,Overdue 1-30,Unmatched,3,4022.61,11.0,3,1,3
+1300,Airline,Indonesia,Overdue 1-30,Missing Remittance,1,4004.75,18.0,1,0,1
+1200,Government,Malaysia,Overdue 1-30,Matched,1,4003.57,12.0,0,0,0
+1200,Commercial,Vietnam,Overdue 31-60,Third Party Payment,1,3998.65,44.0,1,0,1
+1200,Commercial,Indonesia,Overdue 61-90,Third Party Payment,1,3985.34,80.0,1,0,1
+1000,MRO,Thailand,Current,Missing Remittance,1,3977.21,0.0,1,0,1
+1200,Government,China,Overdue 1-30,Unmatched,1,3974.26,19.0,1,0,1
+1100,MRO,Australia,Overdue 61-90,Unmatched,1,3972.76,79.0,1,0,1
+1300,MRO,Philippines,Overdue >90,Missing Remittance,2,3969.91,116.5,2,1,2
+1000,Airline,Philippines,Current,Unmatched,1,3963.87,0.0,1,0,1
+1200,OEM,Australia,Overdue 1-30,Unmatched,1,3956.55,27.0,1,1,1
+1000,MRO,Indonesia,Current,Matched,2,3954.6,0.0,0,0,0
+1000,Defense,Vietnam,Overdue 31-60,Partial Match,1,3954.55,40.0,1,0,1
+1200,OEM,Singapore,Overdue 1-30,Missing Remittance,1,3952.02,28.0,1,0,1
+1200,Airline,China,Overdue 31-60,Matched,1,3940.84,60.0,0,0,0
+1300,Government,Indonesia,Current,Missing Remittance,1,3911.56,0.0,1,0,1
+1300,OEM,Vietnam,Overdue >90,Unmatched,1,3902.22,172.0,1,1,1
+1100,Commercial,Malaysia,Current,Missing Remittance,1,3898.34,0.0,1,0,1
+1100,Defense,Malaysia,Current,Missing Remittance,2,3867.29,0.0,2,0,2
+1100,Government,Philippines,Overdue 1-30,Third Party Payment,1,3851.73,3.0,1,1,1
+1200,Airline,China,Overdue 31-60,Third Party Payment,1,3851.54,50.0,1,0,1
+1200,Airline,Thailand,Overdue 31-60,Third Party Payment,1,3810.28,59.0,1,0,1
+1200,OEM,Vietnam,Overdue 1-30,Third Party Payment,1,3798.14,1.0,1,0,1
+1000,Defense,Vietnam,Overdue 1-30,Third Party Payment,1,3779.28,21.0,1,1,1
+1100,Government,Australia,Overdue >90,Missing Remittance,1,3778.18,92.0,1,0,1
+1100,Airline,Thailand,Overdue 61-90,Missing Remittance,1,3767.9,61.0,1,1,1
+1300,OEM,China,Current,Partial Match,1,3764.65,0.0,1,0,1
+1100,MRO,Indonesia,Overdue 31-60,Unmatched,1,3733.44,48.0,1,0,1
+1100,Defense,Australia,Current,Matched,2,3730.48,0.0,0,0,0
+1200,OEM,Vietnam,Overdue >90,Partial Match,2,3724.7,119.5,2,1,2
+1200,Airline,Australia,Overdue 31-60,Matched,1,3724.58,31.0,0,0,0
+1200,Commercial,Philippines,Current,Matched,1,3709.79,0.0,0,0,0
+1200,MRO,Australia,Current,Missing Remittance,2,3682.82,0.0,2,0,2
+1300,Defense,China,Overdue 31-60,Unmatched,1,3676.1,40.0,1,0,1
+1000,MRO,China,Overdue 31-60,Missing Remittance,1,3664.36,37.0,1,0,1
+1100,MRO,Thailand,Overdue >90,Third Party Payment,1,3640.14,115.0,1,1,1
+1300,Government,Philippines,Overdue 61-90,Missing Remittance,1,3635.14,89.0,1,0,1
+1200,MRO,Australia,Overdue >90,Partial Match,1,3615.17,112.0,1,0,1
+1300,Government,Indonesia,Current,Partial Match,1,3601.93,0.0,1,0,1
+1100,Airline,Philippines,Overdue 61-90,Unmatched,1,3599.9,86.0,1,0,1
+1300,Defense,Philippines,Overdue 1-30,Third Party Payment,1,3597.01,8.0,1,0,1
+1000,Defense,Vietnam,Overdue 61-90,Matched,1,3583.35,61.0,1,0,0
+1200,Airline,China,Current,Missing Remittance,1,3554.07,0.0,1,0,1
+1300,Government,Thailand,Overdue >90,Unmatched,2,3550.06,108.0,2,0,2
+1000,Airline,Thailand,Overdue 61-90,Matched,1,3546.78,81.0,1,0,0
+1200,Airline,China,Overdue 31-60,Missing Remittance,1,3538.01,31.0,1,1,1
+1000,Commercial,Malaysia,Overdue >90,Missing Remittance,1,3525.98,104.0,1,0,1
+1200,Commercial,Indonesia,Overdue 31-60,Unmatched,1,3522.3,31.0,1,0,1
+1000,Airline,China,Overdue 1-30,Third Party Payment,1,3520.7,13.0,1,0,1
+1200,OEM,Vietnam,Overdue 31-60,Matched,1,3516.01,47.0,0,1,0
+1200,OEM,Singapore,Overdue 1-30,Third Party Payment,1,3512.39,12.0,1,0,1
+1100,OEM,Indonesia,Current,Third Party Payment,1,3509.79,0.0,1,0,1
+1200,Airline,Vietnam,Overdue 61-90,Matched,1,3506.97,74.0,1,0,0
+1300,Defense,Indonesia,Overdue 61-90,Partial Match,1,3499.32,72.0,1,1,1
+1000,Defense,Malaysia,Overdue 31-60,Third Party Payment,1,3496.79,49.0,1,0,1
+1100,OEM,Vietnam,Overdue 1-30,Missing Remittance,1,3486.63,12.0,1,0,1
+1300,Government,Malaysia,Overdue 31-60,Unmatched,1,3479.26,50.0,1,0,1
+1100,Defense,Vietnam,Overdue >90,Missing Remittance,2,3467.55,162.5,2,0,2
+1000,OEM,Indonesia,Overdue 31-60,Third Party Payment,1,3452.81,53.0,1,0,1
+1000,MRO,Philippines,Overdue >90,Partial Match,1,3450.2,110.0,1,0,1
+1000,Airline,Vietnam,Overdue 31-60,Partial Match,2,3442.32,35.5,2,1,2
+1300,Airline,Philippines,Overdue 31-60,Third Party Payment,1,3437.19,58.0,1,0,1
+1000,Government,China,Overdue 1-30,Missing Remittance,1,3429.57,27.0,1,1,1
+1300,Defense,China,Overdue >90,Missing Remittance,2,3428.9,116.0,2,0,2
+1300,Commercial,Vietnam,Overdue 61-90,Third Party Payment,1,3415.5,78.0,1,0,1
+1000,MRO,Malaysia,Current,Matched,1,3411.13,0.0,0,0,0
+1000,Defense,Indonesia,Overdue 31-60,Missing Remittance,1,3407.92,42.0,1,0,1
+1200,Commercial,China,Current,Third Party Payment,1,3406.14,0.0,1,0,1
+1100,Government,Malaysia,Overdue >90,Third Party Payment,1,3404.63,104.0,1,0,1
+1100,OEM,Philippines,Overdue 61-90,Partial Match,1,3391.94,76.0,1,1,1
+1300,Government,China,Overdue 31-60,Unmatched,1,3373.3,40.0,1,0,1
+1000,OEM,Thailand,Overdue 31-60,Matched,1,3364.69,52.0,0,1,0
+1100,Airline,Singapore,Overdue 61-90,Missing Remittance,1,3343.19,66.0,1,0,1
+1100,MRO,China,Overdue 31-60,Unmatched,1,3310.62,32.0,1,0,1
+1000,Airline,Australia,Overdue >90,Unmatched,1,3305.97,106.0,1,0,1
+1100,OEM,Vietnam,Current,Partial Match,1,3292.06,0.0,1,0,1
+1300,Defense,China,Overdue 1-30,Unmatched,1,3288.98,4.0,1,0,1
+1300,Defense,Thailand,Overdue >90,Partial Match,1,3275.48,103.0,1,1,1
+1200,Defense,Singapore,Current,Partial Match,1,3261.09,0.0,1,0,1
+1000,OEM,Malaysia,Overdue 1-30,Unmatched,1,3256.53,29.0,1,0,1
+1200,Airline,Philippines,Overdue >90,Matched,1,3249.0,103.0,1,0,0
+1200,Commercial,Thailand,Overdue 31-60,Unmatched,1,3182.81,36.0,1,0,1
+1200,Airline,Malaysia,Current,Unmatched,1,3182.14,0.0,1,0,1
+1100,MRO,Indonesia,Overdue >90,Matched,1,3175.85,121.0,1,0,0
+1300,Commercial,Malaysia,Overdue 1-30,Unmatched,1,3175.03,3.0,1,0,1
+1000,Commercial,Malaysia,Overdue 31-60,Unmatched,1,3167.15,45.0,1,1,1
+1000,Government,Malaysia,Overdue 61-90,Unmatched,2,3159.47,82.5,2,1,2
+1000,Defense,China,Overdue 31-60,Partial Match,1,3149.27,34.0,1,1,1
+1200,Government,Thailand,Overdue >90,Matched,1,3147.13,99.0,1,1,0
+1100,Airline,Malaysia,Current,Unmatched,1,3134.45,0.0,1,1,1
+1200,Commercial,Singapore,Overdue 31-60,Missing Remittance,1,3124.69,47.0,1,0,1
+1100,Defense,Australia,Overdue >90,Third Party Payment,1,3117.34,109.0,1,0,1
+1000,Commercial,Singapore,Overdue 61-90,Partial Match,1,3115.62,66.0,1,0,1
+1100,Defense,Indonesia,Current,Missing Remittance,1,3105.63,0.0,1,0,1
+1300,Airline,China,Overdue 61-90,Missing Remittance,1,3101.47,76.0,1,0,1
+1200,MRO,Australia,Overdue 1-30,Matched,1,3089.89,8.0,0,0,0
+1300,Commercial,Philippines,Overdue >90,Matched,2,3082.48,113.5,2,1,0
+1000,Commercial,Philippines,Overdue 61-90,Unmatched,1,3082.26,80.0,1,0,1
+1100,Airline,Vietnam,Overdue 31-60,Missing Remittance,2,3075.56,46.0,2,0,2
+1300,Government,Malaysia,Current,Missing Remittance,1,3072.47,0.0,1,0,1
+1100,Government,Thailand,Overdue 1-30,Missing Remittance,1,3069.95,6.0,1,0,1
+1200,Airline,China,Overdue >90,Unmatched,2,3067.27,112.0,2,1,2
+1100,MRO,Indonesia,Overdue >90,Partial Match,1,3066.81,137.0,1,0,1
+1300,Commercial,Thailand,Overdue 31-60,Unmatched,1,3062.35,35.0,1,0,1
+1300,OEM,China,Overdue >90,Matched,1,3058.92,144.0,1,0,0
+1000,Defense,Philippines,Overdue 61-90,Missing Remittance,1,3043.61,83.0,1,0,1
+1300,Commercial,Australia,Overdue 61-90,Missing Remittance,1,3034.13,80.0,1,0,1
+1000,Commercial,Vietnam,Overdue 1-30,Missing Remittance,1,3023.24,5.0,1,0,1
+1000,Commercial,Thailand,Overdue 1-30,Missing Remittance,1,3008.22,25.0,1,1,1
+1300,Government,China,Overdue >90,Third Party Payment,1,2998.64,158.0,1,1,1
+1300,MRO,China,Overdue >90,Partial Match,1,2985.77,149.0,1,0,1
+1200,Commercial,Singapore,Overdue >90,Third Party Payment,2,2973.09,103.5,2,1,2
+1200,Defense,Thailand,Current,Missing Remittance,1,2963.62,0.0,1,0,1
+1100,Defense,Indonesia,Overdue 61-90,Unmatched,1,2956.46,77.0,1,0,1
+1300,Defense,China,Overdue >90,Partial Match,1,2956.34,96.0,1,0,1
+1200,MRO,Vietnam,Current,Third Party Payment,1,2938.07,0.0,1,0,1
+1000,OEM,Thailand,Overdue 1-30,Matched,1,2933.24,18.0,0,0,0
+1300,Airline,Singapore,Overdue 31-60,Unmatched,2,2931.65,37.0,2,0,2
+1200,MRO,Singapore,Current,Matched,1,2929.26,0.0,0,0,0
+1300,OEM,Indonesia,Overdue 31-60,Matched,1,2899.91,54.0,0,1,0
+1300,Defense,Indonesia,Overdue >90,Partial Match,1,2867.5,108.0,1,0,1
+1300,OEM,Indonesia,Overdue 31-60,Partial Match,1,2855.7,47.0,1,0,1
+1200,Defense,Singapore,Overdue >90,Partial Match,1,2828.8,137.0,1,0,1
+1200,Airline,Malaysia,Overdue 1-30,Unmatched,1,2828.09,27.0,1,1,1
+1200,Commercial,Singapore,Current,Third Party Payment,2,2823.99,0.0,2,0,2
+1200,MRO,Indonesia,Overdue 31-60,Missing Remittance,1,2822.81,32.0,1,1,1
+1200,MRO,Philippines,Overdue >90,Partial Match,1,2815.98,114.0,1,1,1
+1300,Defense,Indonesia,Overdue >90,Missing Remittance,2,2807.56,131.5,2,0,2
+1000,OEM,Thailand,Current,Missing Remittance,1,2792.02,0.0,1,1,1
+1200,MRO,Australia,Overdue 1-30,Unmatched,1,2783.08,1.0,1,0,1
+1100,Airline,Thailand,Current,Matched,1,2773.94,0.0,0,0,0
+1200,MRO,Indonesia,Overdue >90,Third Party Payment,1,2769.6,111.0,1,0,1
+1000,Commercial,China,Overdue 1-30,Unmatched,1,2769.37,12.0,1,0,1
+1200,MRO,Malaysia,Overdue 1-30,Unmatched,1,2767.34,13.0,1,0,1
+1200,OEM,Singapore,Overdue 61-90,Unmatched,1,2752.53,77.0,1,0,1
+1200,OEM,Australia,Current,Matched,1,2739.57,0.0,0,0,0
+1000,Commercial,Singapore,Current,Missing Remittance,1,2734.82,0.0,1,0,1
+1100,MRO,Singapore,Overdue >90,Partial Match,1,2715.36,102.0,1,0,1
+1300,Airline,Indonesia,Overdue >90,Matched,1,2711.69,95.0,1,0,0
+1000,MRO,Malaysia,Overdue 31-60,Matched,1,2705.47,46.0,0,0,0
+1300,Airline,Philippines,Overdue 61-90,Partial Match,1,2702.55,65.0,1,0,1
+1300,MRO,Singapore,Current,Third Party Payment,1,2699.15,0.0,1,0,1
+1300,Commercial,Australia,Overdue >90,Third Party Payment,1,2690.91,91.0,1,0,1
+1000,MRO,Singapore,Overdue 1-30,Third Party Payment,1,2670.08,27.0,1,0,1
+1000,OEM,Thailand,Current,Matched,1,2666.69,0.0,0,0,0
+1200,Commercial,Singapore,Overdue 61-90,Partial Match,1,2665.33,90.0,1,0,1
+1000,OEM,Thailand,Overdue 61-90,Matched,1,2652.9,71.0,1,0,0
+1000,OEM,Australia,Overdue 31-60,Partial Match,1,2642.98,57.0,1,0,1
+1200,OEM,Singapore,Overdue 61-90,Partial Match,1,2621.55,65.0,1,0,1
+1200,MRO,Indonesia,Overdue >90,Partial Match,1,2618.97,161.0,1,0,1
+1000,Commercial,Philippines,Overdue >90,Matched,2,2613.83,130.5,2,1,0
+1300,Government,Malaysia,Overdue >90,Third Party Payment,1,2609.4,122.0,1,0,1
+1100,Airline,Australia,Overdue 1-30,Unmatched,1,2598.84,5.0,1,0,1
+1100,Commercial,Singapore,Current,Missing Remittance,1,2598.67,0.0,1,0,1
+1100,Defense,China,Overdue 61-90,Matched,1,2597.48,80.0,1,0,0
+1200,OEM,Thailand,Overdue >90,Third Party Payment,1,2590.61,174.0,1,0,1
+1000,Government,Malaysia,Overdue 31-60,Unmatched,1,2580.19,44.0,1,0,1
+1000,OEM,Indonesia,Overdue >90,Partial Match,1,2558.18,104.0,1,0,1
+1200,Commercial,Malaysia,Overdue >90,Missing Remittance,2,2547.57,117.0,2,0,2
+1000,Government,Australia,Overdue >90,Missing Remittance,2,2526.37,140.5,2,0,2
+1000,Government,China,Overdue 31-60,Matched,2,2519.49,54.0,0,0,0
+1300,Commercial,Thailand,Overdue >90,Missing Remittance,1,2498.82,134.0,1,1,1
+1200,MRO,Indonesia,Overdue 61-90,Unmatched,1,2495.09,87.0,1,1,1
+1300,MRO,Vietnam,Overdue 31-60,Unmatched,1,2483.12,49.0,1,0,1
+1300,Airline,Australia,Overdue 61-90,Partial Match,1,2473.89,61.0,1,0,1
+1100,Defense,Vietnam,Overdue >90,Partial Match,2,2471.5,129.5,2,0,2
+1300,Commercial,Philippines,Current,Matched,1,2461.29,0.0,0,0,0
+1200,Defense,Indonesia,Overdue 61-90,Matched,1,2455.62,65.0,1,0,0
+1200,Commercial,Vietnam,Overdue >90,Third Party Payment,1,2451.03,115.0,1,0,1
+1100,OEM,Thailand,Overdue >90,Third Party Payment,2,2442.82,120.0,2,0,2
+1000,Government,Thailand,Current,Unmatched,1,2433.15,0.0,1,0,1
+1000,Government,Malaysia,Current,Missing Remittance,1,2428.84,0.0,1,0,1
+1100,OEM,Vietnam,Overdue 61-90,Missing Remittance,2,2385.9,75.5,2,1,2
+1300,Commercial,Indonesia,Overdue 31-60,Missing Remittance,2,2353.55,35.5,2,1,2
+1200,Government,Singapore,Current,Third Party Payment,1,2342.28,0.0,1,0,1
+1300,OEM,Vietnam,Overdue 1-30,Third Party Payment,1,2340.44,22.0,1,0,1
+1300,Defense,China,Overdue 1-30,Matched,1,2336.25,17.0,0,1,0
+1200,Airline,Vietnam,Overdue >90,Third Party Payment,2,2308.63,103.0,2,0,2
+1100,Commercial,Philippines,Overdue 61-90,Partial Match,1,2308.13,77.0,1,0,1
+1100,Government,Malaysia,Current,Unmatched,1,2298.24,0.0,1,0,1
+1100,Defense,Thailand,Overdue 1-30,Unmatched,1,2251.41,1.0,1,0,1
+1200,MRO,Philippines,Overdue 31-60,Partial Match,2,2244.49,55.0,2,0,2
+1000,Defense,Vietnam,Overdue 31-60,Third Party Payment,1,2243.85,53.0,1,0,1
+1200,Defense,China,Overdue 61-90,Matched,1,2230.47,69.0,1,1,0
+1300,Government,Indonesia,Current,Unmatched,3,2228.96,0.0,3,0,3
+1200,Airline,Australia,Overdue 31-60,Partial Match,1,2211.49,53.0,1,1,1
+1000,Government,Australia,Overdue 1-30,Unmatched,1,2208.45,25.0,1,0,1
+1100,MRO,Singapore,Overdue >90,Matched,1,2205.12,111.0,1,0,0
+1300,OEM,Australia,Overdue 61-90,Missing Remittance,1,2191.41,62.0,1,0,1
+1000,Government,Singapore,Current,Matched,1,2188.75,0.0,0,0,0
+1300,Government,Vietnam,Overdue >90,Matched,3,2185.72,141.33,3,0,0
+1200,Defense,Vietnam,Overdue 31-60,Matched,1,2181.09,60.0,0,1,0
+1000,MRO,Indonesia,Overdue 61-90,Partial Match,1,2160.8,80.0,1,0,1
+1000,Government,Australia,Current,Missing Remittance,1,2159.56,0.0,1,0,1
+1100,Government,China,Overdue >90,Missing Remittance,1,2130.94,153.0,1,0,1
+1100,OEM,Australia,Overdue 31-60,Missing Remittance,1,2122.69,59.0,1,0,1
+1000,OEM,Indonesia,Overdue 61-90,Third Party Payment,1,2113.67,75.0,1,0,1
+1300,Defense,Singapore,Overdue >90,Partial Match,1,2104.14,124.0,1,0,1
+1000,Defense,Vietnam,Current,Partial Match,1,2096.58,0.0,1,0,1
+1000,MRO,Vietnam,Overdue 31-60,Partial Match,1,2091.97,44.0,1,0,1
+1200,Government,Malaysia,Overdue 31-60,Matched,1,2081.46,50.0,0,1,0
+1000,MRO,Singapore,Current,Matched,1,2068.19,0.0,0,1,0
+1100,MRO,Malaysia,Overdue >90,Third Party Payment,1,2056.52,153.0,1,0,1
+1000,MRO,Vietnam,Current,Third Party Payment,1,2048.31,0.0,1,1,1
+1200,Airline,China,Overdue 31-60,Unmatched,1,2046.44,37.0,1,1,1
+1000,Airline,Philippines,Overdue 31-60,Missing Remittance,1,2037.91,41.0,1,1,1
+1200,Commercial,Thailand,Overdue >90,Missing Remittance,1,1994.35,100.0,1,1,1
+1000,OEM,Thailand,Current,Partial Match,1,1992.75,0.0,1,0,1
+1000,Government,Indonesia,Overdue 1-30,Partial Match,1,1987.38,12.0,1,0,1
+1000,Commercial,Indonesia,Overdue 61-90,Partial Match,1,1978.57,85.0,1,1,1
+1300,OEM,Vietnam,Overdue 31-60,Partial Match,1,1960.65,59.0,1,0,1
+1300,OEM,Singapore,Overdue 61-90,Partial Match,1,1951.3,84.0,1,0,1
+1100,Commercial,Singapore,Current,Third Party Payment,1,1944.86,0.0,1,0,1
+1300,Airline,Thailand,Overdue >90,Missing Remittance,1,1940.57,100.0,1,1,1
+1200,Defense,Malaysia,Overdue 61-90,Missing Remittance,1,1937.7,67.0,1,0,1
+1200,Commercial,Vietnam,Overdue 61-90,Missing Remittance,1,1935.39,68.0,1,0,1
+1000,Commercial,Australia,Current,Partial Match,1,1928.64,0.0,1,0,1
+1200,Government,Philippines,Current,Missing Remittance,1,1923.56,0.0,1,0,1
+1000,Defense,China,Overdue >90,Partial Match,1,1887.7,110.0,1,0,1
+1100,OEM,Philippines,Current,Third Party Payment,1,1882.68,0.0,1,0,1
+1000,OEM,Australia,Overdue >90,Unmatched,1,1878.81,174.0,1,0,1
+1200,Government,Malaysia,Overdue >90,Missing Remittance,1,1870.17,155.0,1,0,1
+1100,Commercial,Malaysia,Overdue >90,Third Party Payment,1,1844.04,112.0,1,0,1
+1000,Defense,Singapore,Current,Matched,1,1832.7,0.0,0,0,0
+1200,Commercial,Vietnam,Overdue 31-60,Unmatched,1,1832.02,31.0,1,0,1
+1100,Defense,Singapore,Current,Matched,1,1824.99,0.0,0,1,0
+1000,Commercial,Philippines,Current,Matched,1,1822.5,0.0,0,0,0
+1100,Airline,China,Current,Missing Remittance,1,1821.85,0.0,1,1,1
+1000,Commercial,Thailand,Overdue 31-60,Unmatched,1,1794.41,51.0,1,1,1
+1000,MRO,Malaysia,Overdue >90,Missing Remittance,2,1785.98,105.5,2,2,2
+1200,Defense,Singapore,Current,Missing Remittance,2,1783.52,0.0,2,0,2
+1300,Government,Indonesia,Overdue 1-30,Unmatched,1,1782.19,8.0,1,0,1
+1000,MRO,Malaysia,Current,Missing Remittance,1,1778.29,0.0,1,1,1
+1300,OEM,Vietnam,Overdue 1-30,Missing Remittance,1,1768.82,22.0,1,0,1
+1000,OEM,Singapore,Overdue >90,Unmatched,2,1760.03,113.0,2,0,2
+1300,Government,Malaysia,Overdue >90,Partial Match,1,1730.24,131.0,1,1,1
+1200,MRO,Vietnam,Overdue >90,Third Party Payment,1,1725.04,92.0,1,0,1
+1300,Government,Australia,Overdue 61-90,Missing Remittance,1,1707.17,90.0,1,0,1
+1200,MRO,Singapore,Overdue >90,Missing Remittance,1,1697.98,102.0,1,0,1
+1300,MRO,Philippines,Current,Third Party Payment,1,1682.33,0.0,1,1,1
+1300,Airline,Australia,Current,Missing Remittance,1,1658.18,0.0,1,0,1
+1200,Commercial,Vietnam,Overdue 31-60,Missing Remittance,1,1639.01,60.0,1,0,1
+1200,Government,Vietnam,Overdue 61-90,Missing Remittance,1,1634.23,74.0,1,0,1
+1200,Defense,Malaysia,Current,Partial Match,1,1611.53,0.0,1,1,1
+1000,Commercial,Singapore,Overdue 61-90,Unmatched,1,1591.56,84.0,1,1,1
+1200,OEM,Thailand,Current,Third Party Payment,1,1586.68,0.0,1,0,1
+1100,Airline,Indonesia,Overdue 61-90,Matched,1,1580.6,83.0,1,1,0
+1200,Commercial,Australia,Overdue >90,Partial Match,1,1574.93,124.0,1,0,1
+1000,Government,China,Overdue 1-30,Partial Match,2,1569.01,12.0,2,0,2
+1000,Defense,Philippines,Current,Partial Match,1,1560.24,0.0,1,1,1
+1200,Defense,Indonesia,Current,Third Party Payment,1,1530.93,0.0,1,0,1
+1100,OEM,Malaysia,Overdue >90,Unmatched,1,1524.49,167.0,1,0,1
+1300,Defense,Australia,Overdue 61-90,Third Party Payment,1,1514.79,82.0,1,0,1
+1200,MRO,China,Overdue 31-60,Partial Match,1,1512.28,58.0,1,0,1
+1300,Government,China,Overdue 61-90,Missing Remittance,1,1498.54,72.0,1,0,1
+1000,Airline,China,Overdue 1-30,Missing Remittance,1,1496.76,3.0,1,0,1
+1200,OEM,China,Current,Missing Remittance,1,1493.19,0.0,1,1,1
+1200,MRO,Singapore,Overdue 1-30,Unmatched,2,1459.28,17.5,2,0,2
+1000,Government,Australia,Overdue 61-90,Unmatched,2,1432.69,69.5,2,1,2
+1100,MRO,Philippines,Overdue 61-90,Unmatched,2,1431.73,65.0,2,0,2
+1300,MRO,China,Overdue 61-90,Missing Remittance,1,1429.14,86.0,1,1,1
+1200,Airline,Vietnam,Current,Missing Remittance,2,1421.62,0.0,2,0,2
+1100,Airline,Philippines,Overdue 31-60,Matched,1,1409.66,44.0,0,0,0
+1100,Defense,Vietnam,Overdue 1-30,Unmatched,2,1399.57,21.5,2,0,2
+1100,Defense,Thailand,Current,Third Party Payment,2,1396.61,0.0,2,0,2
+1200,OEM,Australia,Current,Partial Match,1,1382.18,0.0,1,0,1
+1300,MRO,Malaysia,Overdue 1-30,Missing Remittance,1,1370.26,19.0,1,0,1
+1100,Airline,China,Overdue 31-60,Third Party Payment,1,1343.72,54.0,1,1,1
+1000,Airline,Australia,Overdue 61-90,Partial Match,1,1332.79,75.0,1,0,1
+1300,MRO,Malaysia,Overdue 31-60,Unmatched,1,1307.11,51.0,1,0,1
+1100,Government,Philippines,Current,Unmatched,1,1292.1,0.0,1,0,1
+1300,MRO,Thailand,Overdue 1-30,Third Party Payment,1,1291.85,1.0,1,0,1
+1300,OEM,Philippines,Overdue >90,Matched,1,1290.44,110.0,1,0,0
+1300,Airline,Philippines,Overdue 1-30,Third Party Payment,1,1263.75,7.0,1,0,1
+1000,OEM,Indonesia,Current,Matched,1,1256.92,0.0,0,0,0
+1300,MRO,Thailand,Overdue 1-30,Matched,1,1255.6,18.0,0,0,0
+1100,Defense,Philippines,Overdue 61-90,Unmatched,1,1222.98,61.0,1,0,1
+1200,OEM,Indonesia,Overdue 1-30,Unmatched,1,1222.86,28.0,1,0,1
+1000,Defense,Singapore,Overdue 61-90,Matched,1,1205.76,66.0,1,1,0
+1300,Government,Singapore,Overdue 31-60,Missing Remittance,1,1203.51,48.0,1,0,1
+1100,Defense,Philippines,Overdue 1-30,Matched,1,1202.09,19.0,0,0,0
+1300,Government,Thailand,Overdue 31-60,Partial Match,1,1143.01,44.0,1,0,1
+1000,MRO,China,Overdue 61-90,Unmatched,1,1129.07,90.0,1,0,1
+1100,Government,Vietnam,Overdue 61-90,Partial Match,1,1115.67,68.0,1,0,1
+1100,Airline,Vietnam,Overdue 61-90,Unmatched,2,1111.83,77.5,2,2,2
+1300,Defense,Thailand,Overdue 1-30,Partial Match,1,1092.06,30.0,1,0,1
+1000,Government,Indonesia,Overdue >90,Matched,2,1075.35,114.0,2,1,0
+1200,OEM,Australia,Overdue 1-30,Matched,2,1072.6,25.0,0,0,0
+1100,Commercial,Vietnam,Overdue 1-30,Partial Match,1,1069.22,13.0,1,0,1
+1200,OEM,Indonesia,Overdue 31-60,Missing Remittance,1,1065.24,43.0,1,0,1
+1000,Commercial,Indonesia,Overdue 1-30,Missing Remittance,1,1029.43,17.0,1,1,1
+1300,MRO,China,Current,Third Party Payment,1,1020.38,0.0,1,1,1
+1100,Commercial,Malaysia,Overdue >90,Unmatched,1,1017.93,93.0,1,0,1
+1100,Government,Australia,Current,Unmatched,1,1015.53,0.0,1,0,1
+1300,Defense,Malaysia,Overdue 1-30,Third Party Payment,1,1014.76,5.0,1,0,1
+1100,MRO,Thailand,Overdue 31-60,Third Party Payment,1,1003.41,33.0,1,0,1
+1100,Government,Philippines,Overdue >90,Third Party Payment,1,978.79,149.0,1,0,1
+1100,Government,Australia,Overdue 61-90,Third Party Payment,1,973.56,69.0,1,0,1
+1200,Government,China,Overdue 1-30,Matched,1,961.42,29.0,0,0,0
+1000,Government,Singapore,Overdue 1-30,Partial Match,1,959.11,19.0,1,1,1
+1300,OEM,Philippines,Current,Partial Match,1,945.01,0.0,1,0,1
+1000,OEM,China,Overdue 1-30,Partial Match,1,939.26,26.0,1,1,1
+1100,Airline,Thailand,Overdue 31-60,Third Party Payment,1,931.52,51.0,1,0,1
+1100,Defense,Philippines,Overdue >90,Missing Remittance,1,915.47,131.0,1,1,1
+1000,Government,China,Overdue 31-60,Unmatched,1,903.97,42.0,1,1,1
+1000,MRO,Indonesia,Current,Third Party Payment,2,899.5,0.0,2,0,2
+1200,Commercial,Thailand,Overdue 1-30,Matched,1,879.72,12.0,0,0,0
+1000,Government,Australia,Overdue 1-30,Matched,1,879.35,12.0,0,0,0
+1100,Defense,Philippines,Overdue 61-90,Third Party Payment,1,875.6,68.0,1,0,1
+1300,Government,Australia,Overdue >90,Matched,1,872.04,128.0,1,0,0
+1000,Airline,Indonesia,Current,Unmatched,1,869.46,0.0,1,0,1
+1100,Defense,Malaysia,Overdue 31-60,Matched,1,825.61,47.0,0,0,0
+1100,Commercial,Philippines,Current,Matched,1,822.39,0.0,0,0,0
+1100,Airline,Indonesia,Overdue 31-60,Missing Remittance,1,798.25,54.0,1,0,1
+1000,OEM,Vietnam,Overdue 31-60,Missing Remittance,1,758.55,39.0,1,1,1
+1100,Defense,China,Overdue >90,Missing Remittance,1,758.08,119.0,1,1,1
+1000,Airline,China,Current,Third Party Payment,1,747.7,0.0,1,0,1
+1300,Defense,Singapore,Overdue 31-60,Matched,1,732.5,36.0,0,0,0
+1300,Government,Thailand,Overdue >90,Missing Remittance,1,727.55,124.0,1,0,1
+1000,Commercial,Malaysia,Overdue 61-90,Unmatched,1,710.72,87.0,1,0,1
+1200,MRO,Thailand,Overdue 1-30,Third Party Payment,1,695.55,27.0,1,0,1
+1000,Government,Thailand,Overdue 1-30,Missing Remittance,1,677.09,23.0,1,0,1
+1200,Government,China,Current,Third Party Payment,1,644.28,0.0,1,0,1
+1200,Government,Indonesia,Overdue >90,Third Party Payment,1,641.73,156.0,1,0,1
+1200,MRO,Indonesia,Overdue 31-60,Third Party Payment,1,639.16,56.0,1,0,1
+1200,Defense,Australia,Current,Matched,1,631.17,0.0,0,0,0
+1000,Airline,Australia,Overdue 61-90,Unmatched,1,630.26,72.0,1,0,1
+1200,Government,Indonesia,Overdue 31-60,Matched,1,601.25,35.0,0,0,0
+1200,MRO,Thailand,Overdue 31-60,Partial Match,1,596.02,54.0,1,0,1
+1300,OEM,Philippines,Overdue 1-30,Matched,2,581.7,13.0,0,1,0
+1300,Defense,Philippines,Overdue 61-90,Matched,2,580.9,75.5,2,1,0
+1000,Commercial,Singapore,Current,Partial Match,1,572.36,0.0,1,1,1
+1300,Government,China,Overdue 61-90,Unmatched,1,571.98,73.0,1,0,1
+1100,OEM,Vietnam,Overdue 1-30,Matched,3,567.61,14.0,0,0,0
+1100,Commercial,Vietnam,Overdue 61-90,Third Party Payment,1,553.58,84.0,1,0,1
+1000,OEM,China,Overdue >90,Unmatched,2,540.97,111.5,2,0,2
+1300,Commercial,Singapore,Overdue 61-90,Partial Match,1,540.81,76.0,1,0,1
+1300,Defense,Thailand,Overdue 31-60,Third Party Payment,1,535.4,46.0,1,0,1
+1300,Commercial,Australia,Overdue 61-90,Matched,1,533.13,64.0,1,0,0
+1200,Defense,Thailand,Overdue 1-30,Missing Remittance,1,526.37,28.0,1,1,1
+1100,Commercial,China,Current,Matched,1,516.37,0.0,0,0,0
+1300,Government,Malaysia,Current,Partial Match,1,503.48,0.0,1,1,1
+1000,MRO,Singapore,Current,Missing Remittance,1,497.87,0.0,1,1,1
+1100,Defense,Vietnam,Overdue 31-60,Partial Match,2,476.58,50.0,2,0,2
+1000,Government,Vietnam,Current,Missing Remittance,1,461.14,0.0,1,0,1
+1200,Commercial,Vietnam,Overdue >90,Unmatched,2,461.1,111.0,2,0,2
+1200,MRO,Singapore,Overdue >90,Unmatched,2,449.25,97.5,2,1,2
+1300,OEM,Australia,Overdue 31-60,Missing Remittance,1,448.1,35.0,1,1,1
+1200,Airline,Indonesia,Current,Third Party Payment,1,433.07,0.0,1,0,1
+1300,Defense,Philippines,Overdue 61-90,Missing Remittance,1,428.48,84.0,1,0,1
+1200,OEM,China,Overdue >90,Partial Match,1,423.98,130.0,1,0,1
+1300,Government,Malaysia,Current,Third Party Payment,1,419.04,0.0,1,0,1
+1200,OEM,Indonesia,Overdue 31-60,Matched,1,413.68,46.0,0,0,0
+1100,Government,Indonesia,Overdue 61-90,Missing Remittance,1,412.75,71.0,1,1,1
+1300,Government,Philippines,Current,Matched,1,410.92,0.0,0,0,0
+1300,MRO,Singapore,Overdue >90,Unmatched,1,400.79,138.0,1,1,1
+1100,Airline,Indonesia,Overdue >90,Partial Match,1,385.65,171.0,1,0,1
+1000,MRO,Singapore,Overdue 1-30,Unmatched,1,384.51,20.0,1,0,1
+1000,Airline,Singapore,Overdue >90,Unmatched,1,377.91,99.0,1,0,1
+1300,Government,China,Overdue >90,Partial Match,1,366.78,144.0,1,0,1
+1100,MRO,China,Overdue 61-90,Third Party Payment,1,358.48,87.0,1,0,1
+1300,Defense,Australia,Overdue >90,Partial Match,1,350.71,131.0,1,0,1
+1200,Government,Singapore,Current,Missing Remittance,1,349.88,0.0,1,0,1
+1300,Commercial,China,Current,Unmatched,1,339.1,0.0,1,0,1
+1300,Government,Malaysia,Overdue 61-90,Unmatched,1,318.16,90.0,1,1,1
+1100,OEM,Indonesia,Overdue 61-90,Matched,1,309.13,89.0,1,0,0
+1100,MRO,China,Overdue 1-30,Third Party Payment,1,303.56,29.0,1,1,1
+1100,Commercial,Thailand,Overdue 31-60,Unmatched,2,300.98,48.0,2,0,2
+1200,MRO,Vietnam,Overdue 61-90,Partial Match,1,299.22,84.0,1,1,1
+1300,OEM,China,Overdue 1-30,Third Party Payment,1,296.27,1.0,1,0,1
+1300,OEM,Thailand,Overdue 61-90,Missing Remittance,2,287.41,66.5,2,0,2
+1200,Airline,Australia,Overdue 31-60,Unmatched,1,278.25,50.0,1,0,1
+1000,Commercial,Philippines,Overdue 61-90,Matched,1,276.28,81.0,1,0,0
+1100,Defense,Australia,Overdue 1-30,Unmatched,1,273.62,21.0,1,0,1
+1300,MRO,Australia,Current,Missing Remittance,1,271.98,0.0,1,0,1
+1100,Airline,Australia,Overdue 61-90,Unmatched,1,270.59,78.0,1,0,1
+1300,Airline,Indonesia,Current,Partial Match,1,259.94,0.0,1,0,1
+1100,Defense,Indonesia,Current,Partial Match,1,251.98,0.0,1,0,1
+1200,Defense,Philippines,Overdue 1-30,Matched,1,241.6,29.0,0,0,0
+1300,MRO,Thailand,Overdue 31-60,Unmatched,2,234.22,45.0,2,1,2
+1300,Commercial,Vietnam,Current,Third Party Payment,1,232.48,0.0,1,0,1
+1000,OEM,China,Overdue >90,Partial Match,1,228.99,158.0,1,1,1
+1100,Government,Vietnam,Current,Third Party Payment,1,223.18,0.0,1,0,1
+1300,Government,Malaysia,Overdue 1-30,Third Party Payment,1,218.82,12.0,1,0,1
+1200,Government,Philippines,Overdue >90,Unmatched,1,212.38,169.0,1,0,1
+1300,OEM,Australia,Overdue >90,Matched,1,210.32,151.0,1,0,0
+1100,Commercial,Australia,Overdue 61-90,Third Party Payment,1,209.61,78.0,1,0,1
+1300,Government,Philippines,Current,Partial Match,1,204.44,0.0,1,0,1
+1200,Commercial,Australia,Current,Missing Remittance,2,199.55,0.0,2,0,2
+1000,MRO,Philippines,Overdue 61-90,Partial Match,1,196.95,77.0,1,0,1
+1100,OEM,Australia,Current,Missing Remittance,1,190.81,0.0,1,0,1
+1200,Government,Philippines,Overdue 1-30,Unmatched,1,188.74,29.0,1,0,1
+1300,Commercial,Singapore,Current,Unmatched,1,186.11,0.0,1,1,1
+1300,Defense,Singapore,Overdue >90,Unmatched,1,180.62,160.0,1,0,1
+1200,Government,Indonesia,Overdue 1-30,Matched,1,175.02,12.0,0,0,0
+1000,Commercial,China,Overdue 31-60,Partial Match,1,163.2,57.0,1,0,1
+1100,Defense,Singapore,Overdue 31-60,Missing Remittance,1,139.3,50.0,1,1,1
+1000,OEM,Singapore,Overdue >90,Partial Match,2,137.99,130.0,2,1,2
+1200,OEM,Philippines,Overdue 1-30,Matched,1,135.23,11.0,0,0,0
+1100,MRO,Malaysia,Overdue >90,Matched,1,130.78,96.0,1,0,0
+1200,MRO,China,Overdue >90,Matched,1,129.7,100.0,1,0,0
+1000,Defense,Indonesia,Overdue 31-60,Partial Match,1,128.14,32.0,1,0,1
+1300,Defense,Vietnam,Overdue >90,Partial Match,1,126.98,151.0,1,0,1
+1200,Government,China,Overdue >90,Matched,3,119.14,107.33,3,1,0
+1200,Commercial,Malaysia,Overdue 31-60,Third Party Payment,1,110.9,53.0,1,1,1
+1100,Government,Vietnam,Overdue 31-60,Unmatched,2,83.64,50.5,2,1,2
+1100,OEM,Thailand,Overdue 1-30,Missing Remittance,1,82.36,9.0,1,0,1
+1100,Commercial,Vietnam,Overdue 1-30,Unmatched,1,78.43,21.0,1,0,1
+1100,Commercial,Malaysia,Overdue >90,Matched,1,77.84,91.0,1,0,0
+1000,Defense,China,Overdue >90,Missing Remittance,1,74.76,111.0,1,0,1
+1300,OEM,Australia,Overdue 61-90,Third Party Payment,1,47.05,68.0,1,0,1
+1100,Airline,Australia,Current,Third Party Payment,2,26.35,0.0,2,1,2
+1000,Defense,China,Overdue 61-90,Partial Match,2,2.57,74.5,2,0,2
+1100,Commercial,Australia,Current,Matched,3,-13.13,0.0,0,1,0
+1100,Airline,Thailand,Overdue 31-60,Matched,1,-41.46,32.0,0,0,0
+1300,OEM,Philippines,Overdue 61-90,Missing Remittance,1,-61.58,61.0,1,0,1
+1200,Airline,China,Overdue 61-90,Partial Match,1,-72.53,70.0,1,0,1
+1300,Government,Singapore,Overdue 61-90,Third Party Payment,1,-85.35,88.0,1,0,1
+1000,OEM,Singapore,Overdue 31-60,Partial Match,1,-94.03,44.0,1,0,1
+1000,Airline,Vietnam,Current,Unmatched,2,-111.94,0.0,2,1,2
+1000,Government,Vietnam,Overdue 31-60,Unmatched,2,-134.46,54.0,2,1,2
+1300,Commercial,Australia,Overdue 1-30,Unmatched,1,-191.69,30.0,1,0,1
+1100,MRO,Singapore,Overdue >90,Unmatched,1,-193.17,112.0,1,0,1
+1300,OEM,China,Overdue 31-60,Third Party Payment,1,-260.07,51.0,1,0,1
+1000,Government,Philippines,Overdue >90,Unmatched,1,-267.79,110.0,1,0,1
+1200,Airline,Philippines,Overdue 31-60,Matched,1,-274.97,45.0,0,0,0
+1200,Government,Indonesia,Overdue 31-60,Third Party Payment,1,-283.94,52.0,1,0,1
+1000,MRO,Vietnam,Overdue 61-90,Third Party Payment,1,-296.8,79.0,1,0,1
+1000,Airline,Singapore,Current,Missing Remittance,1,-301.06,0.0,1,0,1
+1300,Commercial,Philippines,Overdue 61-90,Unmatched,2,-301.17,71.0,2,1,2
+1300,Government,Vietnam,Current,Unmatched,1,-309.31,0.0,1,0,1
+1000,OEM,Philippines,Current,Missing Remittance,1,-381.17,0.0,1,0,1
+1100,MRO,Vietnam,Overdue 31-60,Missing Remittance,1,-389.22,60.0,1,0,1
+1100,Government,Singapore,Overdue 1-30,Partial Match,1,-487.55,4.0,1,0,1
+1200,OEM,Singapore,Current,Missing Remittance,1,-490.2,0.0,1,1,1
+1100,Airline,China,Overdue 31-60,Unmatched,2,-503.74,49.5,2,0,2
+1100,Defense,China,Overdue 31-60,Partial Match,1,-546.9,42.0,1,0,1
+1300,Airline,Australia,Current,Matched,2,-640.15,0.0,0,0,0
+1000,Government,Malaysia,Overdue >90,Missing Remittance,1,-643.95,92.0,1,0,1
+1100,OEM,Singapore,Overdue >90,Matched,3,-689.95,112.0,3,1,0
+1300,Government,Singapore,Overdue >90,Third Party Payment,1,-766.29,102.0,1,0,1
+1100,Airline,China,Overdue 1-30,Missing Remittance,1,-777.08,12.0,1,1,1
+1000,OEM,Singapore,Overdue 61-90,Unmatched,1,-801.88,63.0,1,0,1
+1200,Defense,Australia,Overdue 61-90,Missing Remittance,1,-807.73,74.0,1,0,1
+1000,Airline,Philippines,Overdue 61-90,Matched,2,-870.57,76.0,2,0,0
+1100,Defense,China,Overdue >90,Unmatched,3,-873.24,116.33,3,0,3
+1200,Government,China,Overdue 61-90,Matched,1,-883.06,62.0,1,0,0
+1300,OEM,Philippines,Overdue >90,Unmatched,1,-903.75,103.0,1,0,1
+1100,Airline,Indonesia,Overdue >90,Unmatched,2,-904.18,123.5,2,1,2
+1100,MRO,Singapore,Overdue 1-30,Unmatched,1,-904.97,4.0,1,0,1
+1000,Airline,Thailand,Overdue 61-90,Unmatched,2,-992.0,75.5,2,0,2
+1300,Commercial,Vietnam,Overdue 1-30,Unmatched,4,-997.36,17.5,4,1,4
+1300,Defense,Philippines,Overdue >90,Partial Match,2,-1014.05,121.5,2,1,2
+1300,Airline,Indonesia,Overdue 61-90,Matched,1,-1018.95,72.0,1,0,0
+1300,Government,China,Overdue 1-30,Unmatched,1,-1042.15,23.0,1,0,1
+1100,MRO,Vietnam,Overdue >90,Matched,1,-1053.17,137.0,1,1,0
+1200,OEM,Thailand,Current,Unmatched,1,-1143.41,0.0,1,1,1
+1300,OEM,Indonesia,Current,Matched,2,-1160.74,0.0,0,1,0
+1100,Defense,Indonesia,Overdue 1-30,Missing Remittance,2,-1171.77,14.5,2,0,2
+1100,MRO,Philippines,Overdue 31-60,Matched,1,-1320.5,56.0,0,0,0
+1100,MRO,China,Current,Third Party Payment,1,-1356.04,0.0,1,0,1
+1000,Airline,China,Overdue >90,Matched,2,-1369.46,103.5,2,0,0
+1300,Defense,Singapore,Overdue 61-90,Unmatched,2,-1521.91,71.5,2,0,2
+1100,Defense,Singapore,Overdue 61-90,Missing Remittance,2,-1544.11,73.0,2,0,2
+1200,Airline,Thailand,Current,Missing Remittance,2,-1563.99,0.0,2,0,2
+1100,MRO,Vietnam,Overdue >90,Unmatched,1,-1580.55,106.0,1,0,1
+1300,Airline,Indonesia,Overdue 61-90,Unmatched,1,-1719.83,75.0,1,0,1
+1300,Airline,Philippines,Overdue 1-30,Matched,1,-1753.99,14.0,0,0,0
+1200,Airline,Singapore,Overdue >90,Unmatched,1,-1867.18,147.0,1,0,1
+1100,Airline,Philippines,Overdue 61-90,Partial Match,2,-1900.04,72.5,2,0,2
+1300,Defense,Singapore,Overdue 31-60,Missing Remittance,1,-1924.41,45.0,1,0,1
+1300,Government,Singapore,Overdue 61-90,Unmatched,4,-1947.24,66.75,4,0,4
+1000,OEM,Malaysia,Overdue >90,Unmatched,1,-1978.58,142.0,1,1,1
+1100,Commercial,Philippines,Overdue 61-90,Matched,2,-2012.76,75.0,2,0,0
+1000,MRO,Singapore,Overdue >90,Unmatched,1,-2014.17,115.0,1,0,1
+1300,MRO,China,Overdue 1-30,Matched,1,-2076.76,30.0,0,0,0
+1200,Government,Malaysia,Current,Unmatched,3,-2245.04,0.0,3,1,3
+1300,Government,Malaysia,Current,Matched,2,-2342.53,0.0,0,0,0
+1200,Defense,Philippines,Overdue 31-60,Partial Match,3,-2376.28,46.67,3,0,3
+1300,MRO,Malaysia,Overdue >90,Missing Remittance,1,-2379.9,104.0,1,0,1
+1100,Defense,Malaysia,Current,Partial Match,1,-2490.35,0.0,1,0,1
+1200,Defense,Vietnam,Overdue 61-90,Unmatched,2,-2518.83,63.0,2,1,2
+1000,Commercial,China,Overdue 31-60,Missing Remittance,1,-2561.35,54.0,1,1,1
+1000,MRO,Malaysia,Overdue 61-90,Unmatched,1,-2751.89,72.0,1,0,1
+1200,Commercial,China,Overdue 1-30,Partial Match,1,-2760.97,16.0,1,0,1
+1300,Commercial,Singapore,Overdue 31-60,Third Party Payment,1,-2935.77,41.0,1,0,1
+1200,MRO,Malaysia,Overdue 61-90,Matched,1,-2983.2,75.0,1,1,0
+1000,Airline,Singapore,Overdue 31-60,Matched,1,-2995.85,37.0,0,0,0
+1200,Government,Thailand,Overdue 1-30,Matched,2,-2999.29,10.5,0,0,0
+1100,Airline,Thailand,Overdue >90,Partial Match,1,-3011.44,107.0,1,0,1
+1300,Defense,China,Current,Partial Match,1,-3123.51,0.0,1,0,1
+1300,Government,Thailand,Overdue 31-60,Matched,3,-3164.4,44.67,0,0,0
+1200,Commercial,China,Overdue 31-60,Unmatched,1,-3282.07,48.0,1,1,1
+1000,Defense,Singapore,Overdue >90,Unmatched,4,-3297.52,146.5,4,1,4
+1200,OEM,Vietnam,Current,Third Party Payment,2,-3315.58,0.0,2,0,2
+1200,OEM,China,Overdue 31-60,Missing Remittance,1,-3348.0,37.0,1,0,1
+1300,Defense,Singapore,Current,Unmatched,3,-3371.47,0.0,3,1,3
+1200,Commercial,Singapore,Overdue 31-60,Unmatched,1,-3406.35,38.0,1,0,1
+1000,MRO,Vietnam,Overdue 61-90,Partial Match,1,-3421.14,85.0,1,1,1
+1100,Defense,China,Overdue 31-60,Missing Remittance,1,-3466.94,32.0,1,1,1
+1300,OEM,Indonesia,Overdue >90,Third Party Payment,1,-3525.69,122.0,1,0,1
+1000,OEM,Singapore,Overdue 31-60,Matched,1,-3530.64,31.0,0,0,0
+1000,Defense,China,Overdue 1-30,Matched,1,-3535.96,30.0,0,1,0
+1100,Airline,Philippines,Current,Partial Match,1,-3536.09,0.0,1,0,1
+1300,Government,China,Overdue >90,Unmatched,6,-3568.6,115.67,6,1,6
+1300,OEM,Thailand,Current,Missing Remittance,3,-3671.34,0.0,3,0,3
+1300,OEM,Indonesia,Overdue 31-60,Third Party Payment,1,-3725.19,45.0,1,0,1
+1300,OEM,Singapore,Overdue 61-90,Matched,1,-3765.78,80.0,1,0,0
+1100,Government,Vietnam,Current,Unmatched,2,-3995.5,0.0,2,0,2
+1000,OEM,Vietnam,Overdue 1-30,Matched,1,-4009.22,3.0,0,0,0
+1100,OEM,Indonesia,Current,Unmatched,5,-4038.47,0.0,5,0,5
+1300,Defense,Vietnam,Overdue 1-30,Matched,1,-4077.0,14.0,0,0,0
+1200,Commercial,Malaysia,Overdue 1-30,Matched,2,-4120.62,15.5,0,0,0
+1100,Commercial,Philippines,Overdue >90,Matched,1,-4142.27,132.0,1,0,0
+1100,OEM,Singapore,Overdue 61-90,Missing Remittance,1,-4300.22,67.0,1,0,1
+1300,Commercial,Philippines,Current,Partial Match,1,-4469.72,0.0,1,0,1
+1000,MRO,Indonesia,Overdue 1-30,Unmatched,1,-4517.29,19.0,1,1,1
+1100,Commercial,Philippines,Overdue 61-90,Missing Remittance,1,-4519.99,83.0,1,0,1
+1000,OEM,Indonesia,Overdue >90,Unmatched,2,-4917.35,139.5,2,0,2
+1200,OEM,Thailand,Overdue 1-30,Missing Remittance,2,-5019.02,22.5,2,0,2
+1200,Commercial,Malaysia,Overdue 31-60,Matched,1,-5174.99,57.0,0,1,0
+1100,Airline,Singapore,Overdue 31-60,Unmatched,1,-5394.88,46.0,1,0,1
+1200,Government,Indonesia,Overdue 61-90,Unmatched,1,-5604.3,68.0,1,0,1
+1000,Government,Vietnam,Current,Partial Match,1,-5836.19,0.0,1,0,1
+1200,Defense,Philippines,Overdue 31-60,Matched,2,-5839.09,46.5,0,0,0
+1000,Defense,Philippines,Overdue 1-30,Third Party Payment,1,-5863.78,1.0,1,1,1
+1300,OEM,China,Overdue 31-60,Unmatched,2,-6070.06,36.0,2,1,2
+1000,Government,Malaysia,Overdue 1-30,Third Party Payment,1,-6080.1,6.0,1,0,1
+1200,MRO,Indonesia,Current,Matched,2,-6090.86,0.0,0,0,0
+1300,Airline,China,Overdue 1-30,Unmatched,1,-6351.9,26.0,1,0,1
+1300,Government,Vietnam,Overdue 31-60,Matched,1,-6774.15,49.0,0,0,0
+1100,Defense,Australia,Overdue >90,Unmatched,1,-6911.82,153.0,1,0,1
+1300,OEM,Singapore,Overdue 61-90,Unmatched,2,-6991.97,74.0,2,0,2
+1200,Defense,Singapore,Current,Matched,1,-7157.57,0.0,0,0,0
+1300,OEM,China,Current,Unmatched,3,-7269.06,0.0,3,0,3
+1200,MRO,Philippines,Overdue 31-60,Matched,1,-7299.36,41.0,0,0,0
+1200,Defense,Philippines,Overdue >90,Partial Match,3,-7492.42,134.33,3,0,3
+1100,Government,Singapore,Overdue 31-60,Matched,2,-7601.18,40.5,0,1,0
+1000,Airline,Philippines,Overdue >90,Missing Remittance,1,-7821.06,130.0,1,0,1
+1100,Defense,Indonesia,Overdue 31-60,Third Party Payment,2,-8218.2,33.0,2,1,2
+1300,Defense,Australia,Overdue 31-60,Unmatched,1,-8411.58,50.0,1,0,1
+1300,Airline,Indonesia,Overdue 1-30,Unmatched,1,-8644.01,23.0,1,1,1
+1300,Airline,Indonesia,Overdue >90,Unmatched,2,-8793.86,123.5,2,0,2
+1200,Defense,Indonesia,Current,Partial Match,1,-9132.97,0.0,1,0,1
+1000,MRO,Thailand,Overdue 31-60,Missing Remittance,2,-9134.58,36.5,2,0,2
+1000,MRO,Philippines,Overdue >90,Missing Remittance,3,-9233.14,107.0,3,0,3
+1000,MRO,Singapore,Current,Unmatched,1,-9503.99,0.0,1,0,1
+1000,Government,Malaysia,Overdue 31-60,Matched,1,-9537.47,55.0,0,0,0
+1100,Airline,Thailand,Overdue >90,Matched,2,-9639.22,129.0,2,0,0
+1100,Commercial,Malaysia,Current,Unmatched,1,-9702.65,0.0,1,0,1
+1300,Defense,Philippines,Overdue >90,Third Party Payment,1,-9780.83,118.0,1,0,1
+1000,MRO,Indonesia,Overdue 31-60,Missing Remittance,1,-9788.8,46.0,1,0,1
+1100,MRO,Indonesia,Overdue >90,Unmatched,4,-9798.8,156.25,4,1,4
+1300,MRO,Indonesia,Overdue 61-90,Matched,2,-9832.08,77.5,2,0,0
+1000,MRO,Vietnam,Overdue 31-60,Unmatched,2,-10486.36,46.0,2,0,2
+1300,MRO,Indonesia,Current,Unmatched,1,-10491.91,0.0,1,0,1
+1200,Commercial,China,Overdue >90,Unmatched,1,-10699.35,114.0,1,0,1
+1200,Commercial,Thailand,Current,Partial Match,1,-10999.79,0.0,1,0,1
+1200,Government,Vietnam,Current,Matched,4,-11007.22,0.0,0,2,0
+1200,Airline,Australia,Overdue >90,Partial Match,1,-11011.32,119.0,1,0,1
+1300,Commercial,China,Overdue 31-60,Unmatched,2,-11016.03,45.0,2,0,2
+1000,Airline,Indonesia,Overdue 31-60,Unmatched,1,-11441.48,57.0,1,1,1
+1100,Defense,Philippines,Overdue 31-60,Third Party Payment,1,-11693.05,35.0,1,0,1
+1200,Commercial,Indonesia,Overdue 61-90,Unmatched,1,-11860.41,88.0,1,0,1
+1200,Defense,Malaysia,Overdue 31-60,Matched,1,-12081.23,46.0,0,1,0
+1100,Government,Indonesia,Overdue 61-90,Unmatched,2,-12119.4,70.5,2,0,2
+1000,Defense,Singapore,Overdue 61-90,Third Party Payment,1,-12249.6,79.0,1,0,1
+1000,Government,Singapore,Overdue 31-60,Partial Match,1,-12938.99,54.0,1,0,1
+1200,Government,Vietnam,Overdue 1-30,Missing Remittance,3,-12948.67,21.67,3,1,3
+1300,Airline,Thailand,Overdue 1-30,Third Party Payment,1,-12970.98,27.0,1,0,1
+1300,Defense,Australia,Overdue 31-60,Matched,2,-13117.57,39.5,0,0,0
+1100,Government,Malaysia,Overdue 61-90,Unmatched,1,-13310.19,88.0,1,0,1
+1200,MRO,China,Overdue >90,Third Party Payment,1,-13426.98,144.0,1,0,1
+1000,Commercial,Singapore,Overdue >90,Third Party Payment,2,-13500.96,133.0,2,0,2
+1300,Airline,Thailand,Overdue 31-60,Unmatched,1,-13844.59,42.0,1,1,1
+1000,Commercial,Vietnam,Overdue 31-60,Matched,2,-14097.36,42.5,0,0,0
+1300,Airline,Vietnam,Overdue 31-60,Unmatched,1,-14279.0,40.0,1,0,1
+1100,Airline,China,Current,Third Party Payment,2,-14612.33,0.0,2,0,2
+1000,OEM,Thailand,Overdue 61-90,Partial Match,1,-14825.42,82.0,1,0,1
+1000,MRO,Thailand,Current,Matched,2,-15123.02,0.0,0,0,0
+1000,Defense,Philippines,Current,Unmatched,4,-15905.76,0.0,4,1,4
+1000,Defense,Indonesia,Current,Unmatched,4,-15912.43,0.0,4,0,4
+1000,Airline,Singapore,Overdue 31-60,Third Party Payment,1,-15938.95,31.0,1,0,1
+1100,Airline,Indonesia,Current,Third Party Payment,1,-16065.95,0.0,1,0,1
+1000,Commercial,Malaysia,Current,Third Party Payment,1,-16243.16,0.0,1,0,1
+1200,Defense,Vietnam,Overdue >90,Unmatched,1,-16696.8,132.0,1,0,1
+1000,Defense,Vietnam,Overdue 1-30,Missing Remittance,1,-16923.39,15.0,1,0,1
+1300,MRO,China,Overdue 31-60,Third Party Payment,1,-17118.19,46.0,1,1,1
+1200,MRO,Indonesia,Current,Unmatched,2,-17224.15,0.0,2,0,2
+1100,OEM,Indonesia,Overdue >90,Matched,1,-18298.63,106.0,1,0,0
+1200,OEM,Philippines,Overdue 1-30,Unmatched,3,-18725.47,16.67,3,0,3
+1100,Government,Indonesia,Overdue 1-30,Third Party Payment,1,-19765.66,30.0,1,0,1
+1000,MRO,Malaysia,Overdue >90,Matched,3,-20410.21,109.67,3,1,0
+1100,Defense,Indonesia,Overdue 31-60,Unmatched,2,-20584.91,42.5,2,0,2
+1300,Defense,Singapore,Overdue >90,Matched,3,-21749.8,128.33,3,1,0
+1100,Airline,Indonesia,Overdue 31-60,Unmatched,1,-21902.73,51.0,1,0,1
+1100,Commercial,Malaysia,Overdue 1-30,Third Party Payment,1,-22157.29,14.0,1,0,1
+1300,OEM,China,Overdue >90,Missing Remittance,1,-24829.76,95.0,1,0,1
+1200,OEM,Indonesia,Current,Matched,2,-25160.33,0.0,0,0,0
+1300,Defense,Philippines,Overdue 31-60,Unmatched,1,-28551.92,38.0,1,1,1
+1100,Defense,Thailand,Overdue 61-90,Unmatched,1,-29294.58,90.0,1,0,1
+1200,Commercial,Philippines,Current,Third Party Payment,1,-30571.57,0.0,1,0,1
+1300,Commercial,China,Current,Missing Remittance,1,-32926.59,0.0,1,0,1
+1200,MRO,Vietnam,Overdue 1-30,Unmatched,2,-35226.25,12.5,2,0,2
+1300,Government,Vietnam,Overdue 1-30,Matched,1,-35700.52,2.0,0,0,0
+1200,Defense,China,Overdue >90,Partial Match,1,-36023.49,103.0,1,0,1
+1100,OEM,Singapore,Current,Unmatched,2,-37999.96,0.0,2,1,2
+1300,Defense,Indonesia,Overdue 1-30,Unmatched,1,-47108.87,17.0,1,0,1
+1200,OEM,Vietnam,Current,Matched,5,-52949.88,0.0,0,1,0
+1000,MRO,Malaysia,Current,Unmatched,2,-54177.28,0.0,2,0,2
+1300,Commercial,Philippines,Overdue 1-30,Unmatched,2,-59963.74,16.0,2,0,2
+1100,MRO,Indonesia,Current,Missing Remittance,2,-72452.06,0.0,2,1,2
+1100,Government,Malaysia,Current,Third Party Payment,3,-94593.02,0.0,3,1,3

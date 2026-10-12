@@ -1,0 +1,20 @@
+{
+  "top_5_risk_observations": [
+    "MRO Vietnam (company 1000) has overdue >90 invoices totaling SGD 199,728.31 with average days overdue 145, high risk count 2, and 1 dispute.",
+    "MRO China (company 1200) has overdue >90 invoices totaling SGD 174,260.42 with average days overdue 122, high risk count 8, 2 disputes, and 8 exceptions.",
+    "Government China (company 1200) has overdue >90 invoices totaling SGD 158,452.29 with average days overdue 114, high risk count 2, 1 dispute, and missing remittance.",
+    "Defense Thailand (company 1300) has overdue 61-90 invoices totaling SGD 240,199.38 with average days overdue 79, high risk count 3, and all unmatched.",
+    "Government Malaysia (company 1200) has overdue 61-90 invoices totaling SGD 200,227.53 with average days overdue 76.8, high risk count 5, and all unmatched."
+  ],
+  "top_3_customer_segment_actions": [
+    "Prioritize collection efforts for MRO segment overdue >90 invoices in Vietnam and China, addressing disputes and receipt matching exceptions.",
+    "Engage Government segment in China and Malaysia to resolve overdue invoices, missing remittance, and unmatched receipts.",
+    "Review Defense segment accounts in Thailand and Malaysia for overdue and unmatched invoices, focusing on high-risk exposures."
+  ],
+  "data_quality_issues": [
+    "Unmatched receipt status for multiple current invoices with high risk counts and exceptions.",
+    "Missing remittance for Government China overdue invoices.",
+    "Disputes present in several high-risk overdue accounts."
+  ],
+  "executive_summary": "High-risk overdue invoices exceed SGD 700k, mainly in MRO and Government segments across Vietnam, China, and Malaysia. Receipt matching exceptions and disputes are prevalent, complicating collections. Immediate action is needed to address aging AR and data quality issues to mitigate exposure."
+}

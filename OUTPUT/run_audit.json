@@ -1,0 +1,9 @@
+{
+  "raw_rows": 10000,
+  "master_rows": 250,
+  "working_rows": 4524,
+  "candidate_rows": 4033,
+  "signal_rows": 20,
+  "api_used": true,
+  "run_timestamp": "2026-10-12T23:02:39+07:00"
+}
